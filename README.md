@@ -15,7 +15,7 @@
 <h4 align="center">
   <a href="https://github.com/ziling-cheng/Disentangle-Math-Reasoning">GitHub</a> •
   <a href="https://aclanthology.org/2025.emnlp-main.723/">Paper</a> •
-  <a href="Huggingface">Hugging Face</a> •
+  <a href="https://huggingface.co/Disentangled-Math-Reasoning">Hugging Face</a> •
   <a href="https://x.com/ziling_cheng/status/1986363306366673323">Twitter</a>
 </h4>
 
@@ -24,6 +24,10 @@ This repository contains code and data for the EMNLP 2025 paper "Can LLMs Reason
 - **Mechanistic interpretability experiments (Section 5)** via logit attribution and activation patching (including cross-problem patching).
 
 ## Data
+The disentangled variants of GSM8K and SVAMP are now available on Hugging Face:
+- `Disentangled-Math-Reasoning/disentangled-gsm8k`
+- `Disentangled-Math-Reasoning/disentangled-svamp`
+
 `data/` holds all datasets, including:
 - Behavioural evaluation datasets (Section 4): disentangled test sets for GSM8K and SVAMP
   - `data/test_gsm8k.csv`
