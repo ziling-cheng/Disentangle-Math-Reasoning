@@ -3,7 +3,6 @@
     Disentangling Abstract Formulation From Arithmetic Computation
 </h1>
 
----
 
 <h3 align="center">
   <a href="https://ziling-cheng.github.io/">Ziling Cheng</a>, 
