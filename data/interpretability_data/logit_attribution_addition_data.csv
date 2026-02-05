@@ -1,0 +1,301 @@
+prompt,gt_answer,operand1,operand2
+Jack has 9 apples. Their friend gives them 1 more apples. How many apples does Jack have now?,10,9,1
+Jack has 49 apples. Their friend gives them 18 more apples. How many apples does Jack have now?,67,49,18
+Chloe picks 49 oranges. They find 35 more oranges on the ground. How many oranges does Chloe have now?,84,49,35
+Chloe picks 7 oranges. They find 5 more oranges on the ground. How many oranges does Chloe have now?,12,7,5
+Henry buys 16 bananas. The cashier gives them 9 extra bananas. How many bananas does Henry have now?,25,16,9
+Henry buys 40 bananas. The cashier gives them 2 extra bananas. How many bananas does Henry have now?,42,40,2
+Lucas grows 36 strawberries. 27 more strawberries ripen overnight. How many strawberries does Lucas have now?,63,36,27
+Lucas grows 39 strawberries. 18 more strawberries ripen overnight. How many strawberries does Lucas have now?,57,39,18
+Benjamin collects 15 mangoes. Their neighbor shares 13 more mangoes. How many mangoes does Benjamin have now?,28,15,13
+Benjamin collects 23 mangoes. Their neighbor shares 4 more mangoes. How many mangoes does Benjamin have now?,27,23,4
+Nora has 24 pencils. The teacher distributes 20 more pencils. How many pencils does Nora have now?,44,24,20
+Nora has 18 pencils. The teacher distributes 2 more pencils. How many pencils does Nora have now?,20,18,2
+Isla brings 26 notebooks to class. A classmate gives them 3 more notebooks. How many notebooks does Isla have now?,29,26,3
+Isla brings 37 notebooks to class. A classmate gives them 19 more notebooks. How many notebooks does Isla have now?,56,37,19
+Henry finds 47 erasers in their desk. They discover 5 more erasers in their bag. How many erasers does Henry have now?,52,47,5
+Henry finds 4 erasers in their desk. They discover 3 more erasers in their bag. How many erasers does Henry have now?,7,4,3
+Nora has 16 markers. Their art teacher adds 14 more markers to their collection. How many markers does Nora have now?,30,16,14
+Nora has 19 markers. Their art teacher adds 15 more markers to their collection. How many markers does Nora have now?,34,19,15
+Chloe receives 19 stickers for good behavior. The principal awards them 3 more stickers. How many stickers does Chloe have now?,22,19,3
+Chloe receives 40 stickers for good behavior. The principal awards them 11 more stickers. How many stickers does Chloe have now?,51,40,11
+Jacob owns 19 toy cars. Their birthday gifts include 18 more toy cars. How many toy cars does Jacob have now?,37,19,18
+Jacob owns 16 toy cars. Their birthday gifts include 11 more toy cars. How many toy cars does Jacob have now?,27,16,11
+William has 15 building blocks. Their sibling contributes 10 more blocks to their tower. How many blocks does William have now?,25,15,10
+William has 47 building blocks. Their sibling contributes 21 more blocks to their tower. How many blocks does William have now?,68,47,21
+Nathan collects 43 action figures. A new series releases 30 more figures. How many action figures does Nathan have now?,73,43,30
+Nathan collects 11 action figures. A new series releases 5 more figures. How many action figures does Nathan have now?,16,11,5
+Grace has 18 board games. Their family acquires 14 more board games. How many board games does Grace have now?,32,18,14
+Grace has 39 board games. Their family acquires 26 more board games. How many board games does Grace have now?,65,39,26
+Lily owns 7 stuffed animals. A relative sends them 1 more stuffed animals. How many stuffed animals does Lily have now?,8,7,1
+Lily owns 9 stuffed animals. A relative sends them 3 more stuffed animals. How many stuffed animals does Lily have now?,12,9,3
+Ella finds 6 seashells at the beach. The next day they find 4 more seashells. How many seashells does Ella have now?,10,6,4
+Ella finds 26 seashells at the beach. The next day they find 20 more seashells. How many seashells does Ella have now?,46,26,20
+"Chloe counts 48 birds in the morning. By afternoon, 8 more birds arrive. How many birds does Chloe see now?",56,48,8
+"Chloe counts 45 birds in the morning. By afternoon, 35 more birds arrive. How many birds does Chloe see now?",80,45,35
+"Olivia plants 20 flowers. After a week, 14 more flowers bloom. How many flowers does Olivia have now?",34,20,14
+"Olivia plants 34 flowers. After a week, 12 more flowers bloom. How many flowers does Olivia have now?",46,34,12
+Matthew catches 42 fireflies. Their jar attracts 33 more fireflies. How many fireflies does Matthew have now?,75,42,33
+Matthew catches 40 fireflies. Their jar attracts 13 more fireflies. How many fireflies does Matthew have now?,53,40,13
+Grace collects 35 acorns. Their friend finds 1 more acorns for them. How many acorns does Grace have now?,36,35,1
+Grace collects 40 acorns. Their friend finds 21 more acorns for them. How many acorns does Grace have now?,61,40,21
+Nathan bakes 21 cookies. Their sibling helps bake 8 more cookies. How many cookies does Nathan have now?,29,21,8
+Nathan bakes 5 cookies. Their sibling helps bake 2 more cookies. How many cookies does Nathan have now?,7,5,2
+Lily buys 6 donuts. The bakery throws in 5 extra donuts. How many donuts does Lily have now?,11,6,5
+Lily buys 10 donuts. The bakery throws in 3 extra donuts. How many donuts does Lily have now?,13,10,3
+Alexander makes 35 sandwiches. Their parent makes 28 additional sandwiches. How many sandwiches does Alexander have now?,63,35,28
+Alexander makes 15 sandwiches. Their parent makes 9 additional sandwiches. How many sandwiches does Alexander have now?,24,15,9
+Lucas has 21 candies in their bag. Their teacher gives them 13 more candies. How many candies does Lucas have now?,34,21,13
+Lucas has 44 candies in their bag. Their teacher gives them 42 more candies. How many candies does Lucas have now?,86,44,42
+Olivia buys 39 juice boxes. The store adds 15 bonus juice boxes. How many juice boxes does Olivia have now?,54,39,15
+Olivia buys 47 juice boxes. The store adds 41 bonus juice boxes. How many juice boxes does Olivia have now?,88,47,41
+Michael has 17 baseballs. Their coach provides 9 more baseballs. How many baseballs does Michael have now?,26,17,9
+Michael has 44 baseballs. Their coach provides 32 more baseballs. How many baseballs does Michael have now?,76,44,32
+Zoe owns 28 tennis balls. The club gives them 7 new tennis balls. How many tennis balls does Zoe have now?,35,28,7
+Zoe owns 8 tennis balls. The club gives them 1 new tennis balls. How many tennis balls does Zoe have now?,9,8,1
+Mia has 31 basketballs. Their team receives 28 additional basketballs. How many basketballs does Mia have now?,59,31,28
+Mia has 48 basketballs. Their team receives 4 additional basketballs. How many basketballs does Mia have now?,52,48,4
+Emma brings 27 soccer balls to practice. The league contributes 24 more soccer balls. How many soccer balls does Emma have now?,51,27,24
+Emma brings 17 soccer balls to practice. The league contributes 7 more soccer balls. How many soccer balls does Emma have now?,24,17,7
+Mia has 13 hockey pucks. Their teammate shares 5 more hockey pucks. How many hockey pucks does Mia have now?,18,13,5
+Mia has 31 hockey pucks. Their teammate shares 8 more hockey pucks. How many hockey pucks does Mia have now?,39,31,8
+William has 50 crayons. Their art set includes 16 more crayons. How many crayons does William have now?,66,50,16
+William has 12 crayons. Their art set includes 7 more crayons. How many crayons does William have now?,19,12,7
+Jacob owns 26 paintbrushes. Their teacher gives them 1 new paintbrushes. How many paintbrushes does Jacob have now?,27,26,1
+Jacob owns 26 paintbrushes. Their teacher gives them 9 new paintbrushes. How many paintbrushes does Jacob have now?,35,26,9
+Harper has 37 sketchbooks. Their parents buy them 32 more sketchbooks. How many sketchbooks does Harper have now?,69,37,32
+Harper has 11 sketchbooks. Their parents buy them 4 more sketchbooks. How many sketchbooks does Harper have now?,15,11,4
+Emma collects 5 colored pencils. A new set contains 4 more colored pencils. How many colored pencils does Emma have now?,9,5,4
+Emma collects 34 colored pencils. A new set contains 11 more colored pencils. How many colored pencils does Emma have now?,45,34,11
+Chloe has 17 clay pots. Their art class makes 13 additional clay pots. How many clay pots does Chloe have now?,30,17,13
+Chloe has 9 clay pots. Their art class makes 4 additional clay pots. How many clay pots does Chloe have now?,13,9,4
+Mia has 44 storybooks. The library lends them 38 more storybooks. How many storybooks does Mia have now?,82,44,38
+Mia has 38 storybooks. The library lends them 34 more storybooks. How many storybooks does Mia have now?,72,38,34
+Chloe owns 43 comic books. A friend gives them 20 more comic books. How many comic books does Chloe have now?,63,43,20
+Chloe owns 31 comic books. A friend gives them 11 more comic books. How many comic books does Chloe have now?,42,31,11
+Olivia collects 18 magazines. Their subscription delivers 5 new magazines. How many magazines does Olivia have now?,23,18,5
+Olivia collects 24 magazines. Their subscription delivers 3 new magazines. How many magazines does Olivia have now?,27,24,3
+Daniel has 36 picture books. Their relative sends 20 more picture books. How many picture books does Daniel have now?,56,36,20
+Daniel has 41 picture books. Their relative sends 34 more picture books. How many picture books does Daniel have now?,75,41,34
+Harper reads 37 chapter books. Their school provides 10 additional chapter books. How many chapter books does Harper have now?,47,37,10
+Harper reads 19 chapter books. Their school provides 10 additional chapter books. How many chapter books does Harper have now?,29,19,10
+Henry has 45 t-shirts. Their laundry includes 41 more t-shirts. How many t-shirts does Henry have now?,86,45,41
+Henry has 18 t-shirts. Their laundry includes 17 more t-shirts. How many t-shirts does Henry have now?,35,18,17
+Matthew owns 19 pairs of socks. Their package contains 2 extra pairs of socks. How many pairs of socks does Matthew have now?,21,19,2
+Matthew owns 37 pairs of socks. Their package contains 28 extra pairs of socks. How many pairs of socks does Matthew have now?,65,37,28
+Grace has 39 hats. Their collection grows by 36 more hats. How many hats does Grace have now?,75,39,36
+Grace has 11 hats. Their collection grows by 7 more hats. How many hats does Grace have now?,18,11,7
+Nathan wears 17 jackets. Their closet stores 4 additional jackets. How many jackets does Nathan have now?,21,17,4
+Nathan wears 24 jackets. Their closet stores 18 additional jackets. How many jackets does Nathan have now?,42,24,18
+Isla has 17 pairs of shoes. Their family buys them 6 more pairs of shoes. How many pairs of shoes does Isla have now?,23,17,6
+Isla has 13 pairs of shoes. Their family buys them 7 more pairs of shoes. How many pairs of shoes does Isla have now?,20,13,7
+Chloe saves 49 coins. Their piggybank gains 16 more coins. How many coins does Chloe have now?,65,49,16
+Chloe saves 19 coins. Their piggybank gains 6 more coins. How many coins does Chloe have now?,25,19,6
+Nora has 32 keys on their keychain. They add 8 more keys. How many keys does Nora have now?,40,32,8
+Nora has 14 keys on their keychain. They add 8 more keys. How many keys does Nora have now?,22,14,8
+James collects 44 bottle caps. Their friend contributes 13 more bottle caps. How many bottle caps does James have now?,57,44,13
+James collects 27 bottle caps. Their friend contributes 11 more bottle caps. How many bottle caps does James have now?,38,27,11
+Jacob has 23 photos in their album. They print 1 more photos. How many photos does Jacob have now?,24,23,1
+Jacob has 9 photos in their album. They print 5 more photos. How many photos does Jacob have now?,14,9,5
+Mia owns 24 video games. The store delivers 11 new video games. How many video games does Mia have now?,35,24,11
+Mia owns 29 video games. The store delivers 20 new video games. How many video games does Mia have now?,49,29,20
+Henry has 47 minutes to complete a task. The supervisor grants 28 additional minutes. What is the new total time?,75,47,28
+Henry has 25 minutes to complete a task. The supervisor grants 14 additional minutes. What is the new total time?,39,25,14
+The concert starts in 21 minutes. Harper's commute takes 17 minutes longer than expected. What is the adjusted arrival time?,38,21,17
+The concert starts in 21 minutes. Harper's commute takes 14 minutes longer than expected. What is the adjusted arrival time?,35,21,14
+Grace's meeting lasts 28 minutes. The agenda extends it by 22 minutes. What is the new duration?,50,28,22
+Grace's meeting lasts 26 minutes. The agenda extends it by 22 minutes. What is the new duration?,48,26,22
+The flight duration is 29 hours. The pilot adds 26 hours due to weather. What is the new total flight time?,55,29,26
+The flight duration is 39 hours. The pilot adds 21 hours due to weather. What is the new total flight time?,60,39,21
+Henry practices piano for 34 minutes daily. Today they added 31 extra minutes. What was the total practice time?,65,34,31
+Henry practices piano for 49 minutes daily. Today they added 11 extra minutes. What was the total practice time?,60,49,11
+Chloe's account shows 45 dollars. A deposit of 20 dollars is added. What is the new balance?,65,45,20
+Chloe's account shows 14 dollars. A deposit of 3 dollars is added. What is the new balance?,17,14,3
+The item costs 42 dollars. The price increases by 37 dollars. What is the new cost?,79,42,37
+The item costs 14 dollars. The price increases by 12 dollars. What is the new cost?,26,14,12
+Jack budgets 46 dollars for groceries. An unexpected 1 dollar expense arises. What is the revised budget?,47,46,1
+Jack budgets 50 dollars for groceries. An unexpected 7 dollar expense arises. What is the revised budget?,57,50,7
+The fundraiser goal is 31 dollars. The target increases by 2 dollars. What is the new goal amount?,33,31,2
+The fundraiser goal is 37 dollars. The target increases by 16 dollars. What is the new goal amount?,53,37,16
+"Grace earns 50 dollars weekly. With 29 dollars in bonuses, what is the total compensation?",79,50,29
+"Grace earns 41 dollars weekly. With 33 dollars in bonuses, what is the total compensation?",74,41,33
+The container holds 30 liters. Nathan adds 9 more liters. What is the new volume?,39,30,9
+The container holds 42 liters. Nathan adds 18 more liters. What is the new volume?,60,42,18
+The rope measures 30 meters. Alexander attaches 3 more meters. What is the total length?,33,30,3
+The rope measures 47 meters. Alexander attaches 19 more meters. What is the total length?,66,47,19
+The building is 26 feet tall. The antenna adds 23 feet to its height. What is the new elevation?,49,26,23
+The building is 28 feet tall. The antenna adds 11 feet to its height. What is the new elevation?,39,28,11
+The package weighs 28 kilograms. Additional contents add 13 kilograms. What is the new weight?,41,28,13
+The package weighs 39 kilograms. Additional contents add 2 kilograms. What is the new weight?,41,39,2
+The pool contains 28 gallons. The hose adds 18 more gallons. What is the total volume?,46,28,18
+The pool contains 49 gallons. The hose adds 48 more gallons. What is the total volume?,97,49,48
+The store stocks 29 phones. A shipment adds 16 more phones. What is the new stock?,45,29,16
+The store stocks 3 phones. A shipment adds 2 more phones. What is the new stock?,5,3,2
+The warehouse has 39 boxes. A delivery brings 37 more boxes. What is the current count?,76,39,37
+The warehouse has 44 boxes. A delivery brings 2 more boxes. What is the current count?,46,44,2
+The library has 18 available books. New acquisitions add 13 books. What is the updated collection?,31,18,13
+The library has 22 available books. New acquisitions add 7 books. What is the updated collection?,29,22,7
+The bakery prepares 24 loaves. The afternoon batch makes 8 more loaves. What is the total production?,32,24,8
+The bakery prepares 43 loaves. The afternoon batch makes 5 more loaves. What is the total production?,48,43,5
+The farm has 14 chickens. New hatchlings increase the flock by 1. What is the new population?,15,14,1
+The farm has 41 chickens. New hatchlings increase the flock by 10. What is the new population?,51,41,10
+The exam has 25 questions. The teacher adds 6 bonus questions. What is the new total?,31,25,6
+The exam has 40 questions. The teacher adds 39 bonus questions. What is the new total?,79,40,39
+The assignment requires 38 pages. The professor extends it by 25 pages. What is the new requirement?,63,38,25
+The assignment requires 27 pages. The professor extends it by 23 pages. What is the new requirement?,50,27,23
+The textbook has 46 chapters. The new edition adds 20 chapters. What is the updated count?,66,46,20
+The textbook has 45 chapters. The new edition adds 39 chapters. What is the updated count?,84,45,39
+The course offers 33 credit hours. Michael adds 7 audit hours. What is the total course load?,40,33,7
+The course offers 29 credit hours. Michael adds 12 audit hours. What is the total course load?,41,29,12
+The lab has 35 experiments. The curriculum adds 18 new experiments. What is the updated schedule?,53,35,18
+The lab has 41 experiments. The curriculum adds 35 new experiments. What is the updated schedule?,76,41,35
+"The bus has 22 passengers. At the stop, 8 passengers board. What is the new passenger count?",30,22,8
+"The bus has 7 passengers. At the stop, 3 passengers board. What is the new passenger count?",10,7,3
+The train makes 41 stops. The schedule adds 25 express stops. What is the updated itinerary?,66,41,25
+The train makes 33 stops. The schedule adds 21 express stops. What is the updated itinerary?,54,33,21
+The plane has 18 empty seats. 11 passengers cancel their tickets. How many seats become available?,29,18,11
+The plane has 19 empty seats. 9 passengers cancel their tickets. How many seats become available?,28,19,9
+The parking lot has 28 spaces. 16 reserved spaces are added. What is the new capacity?,44,28,16
+The parking lot has 46 spaces. 31 reserved spaces are added. What is the new capacity?,77,46,31
+The highway project needs 16 workers. 7 temporary workers join. What is the current workforce?,23,16,7
+The highway project needs 46 workers. 16 temporary workers join. What is the current workforce?,62,46,16
+The item originally costs 35 dollars. The premium version costs 23 dollars more. What is the upgraded price?,58,35,23
+The item originally costs 29 dollars. The premium version costs 24 dollars more. What is the upgraded price?,53,29,24
+Daniel brings 18 dollars to the store. They find 8 dollars in their pocket. What is their total cash?,26,18,8
+Daniel brings 22 dollars to the store. They find 4 dollars in their pocket. What is their total cash?,26,22,4
+The shopping list has 49 items. Henry remembers 31 more items. What is the updated list count?,80,49,31
+The shopping list has 19 items. Henry remembers 17 more items. What is the updated list count?,36,19,17
+The coupon saves 20 dollars. The cashier applies 8 dollars in additional savings. What is the total discount?,28,20,8
+The coupon saves 21 dollars. The cashier applies 1 dollars in additional savings. What is the total discount?,22,21,1
+The loyalty card has 20 points. The bonus offer adds 5 points. What is the new point balance?,25,20,5
+The loyalty card has 42 points. The bonus offer adds 32 points. What is the new point balance?,74,42,32
+The recipe calls for 32 grams of flour. Alexander decides to add 4 more grams. What is the new measurement?,36,32,4
+The recipe calls for 33 grams of flour. Alexander decides to add 5 more grams. What is the new measurement?,38,33,5
+The oven needs 38 minutes to preheat. The recipe suggests 20 extra minutes. What is the total preheat time?,58,38,20
+The oven needs 9 minutes to preheat. The recipe suggests 7 extra minutes. What is the total preheat time?,16,9,7
+The batch makes 30 cookies. Daniel bakes 10 more cookies. What is the total yield?,40,30,10
+The batch makes 39 cookies. Daniel bakes 28 more cookies. What is the total yield?,67,39,28
+The stew requires 15 hours to cook. The chef extends cooking by 5 hours. What is the new duration?,20,15,5
+The stew requires 12 hours to cook. The chef extends cooking by 4 hours. What is the new duration?,16,12,4
+The jar holds 28 servings. James prepares 15 extra servings. What is the new total?,43,28,15
+The jar holds 46 servings. James prepares 39 extra servings. What is the new total?,85,46,39
+The garden has 45 plants. William transplants 15 new plants. What is the new plant count?,60,45,15
+The garden has 18 plants. William transplants 7 new plants. What is the new plant count?,25,18,7
+The flowerbed needs 19 liters of water. The rainfall provides 5 additional liters. What is the total hydration?,24,19,5
+The flowerbed needs 12 liters of water. The rainfall provides 5 additional liters. What is the total hydration?,17,12,5
+The seed packet contains 36 seeds. Olivia receives 32 bonus seeds. What is the new total?,68,36,32
+The seed packet contains 40 seeds. Olivia receives 3 bonus seeds. What is the new total?,43,40,3
+The tree grows 38 centimeters yearly. Fertilizer adds 3 extra centimeters. What is the total growth?,41,38,3
+The tree grows 50 centimeters yearly. Fertilizer adds 49 extra centimeters. What is the total growth?,99,50,49
+The plot fits 27 vegetables. Succession planting adds 25 more vegetables. What is the new capacity?,52,27,25
+The plot fits 37 vegetables. Succession planting adds 3 more vegetables. What is the new capacity?,40,37,3
+The phone has 25% battery. Charging adds 20% power. What is the new battery level?,45,25,20
+The phone has 50% battery. Charging adds 32% power. What is the new battery level?,82,50,32
+The download requires 30 megabytes. The update adds 29 more megabytes. What is the new total size?,59,30,29
+The download requires 46 megabytes. The update adds 32 more megabytes. What is the new total size?,78,46,32
+The storage has 37 gigabytes free. Cloud storage adds 27 gigabytes. What is the new capacity?,64,37,27
+The storage has 34 gigabytes free. Cloud storage adds 18 gigabytes. What is the new capacity?,52,34,18
+The video is 14 minutes long. Bonus content adds 10 minutes. What is the extended runtime?,24,14,10
+The video is 34 minutes long. Bonus content adds 9 minutes. What is the extended runtime?,43,34,9
+The app has 33 daily uses allowed. The premium version adds 10 more uses. What is the new limit?,43,33,10
+The app has 30 daily uses allowed. The premium version adds 18 more uses. What is the new limit?,48,30,18
+The game has 36 innings. Extra innings add 25 more. What is the total inning count?,61,36,25
+The game has 31 innings. Extra innings add 30 more. What is the total inning count?,61,31,30
+The scoreboard shows 11 points. The bonus round adds 8 points. What is the new total?,19,11,8
+The scoreboard shows 34 points. The bonus round adds 22 points. What is the new total?,56,34,22
+The tournament has 48 rounds. The format change adds 10 qualifying rounds. What is the new structure?,58,48,10
+The tournament has 28 rounds. The format change adds 21 qualifying rounds. What is the new structure?,49,28,21
+The athlete needs 23 meters to win. The course extends by 20 meters. What is the new distance?,43,23,20
+The athlete needs 46 meters to win. The course extends by 26 meters. What is the new distance?,72,46,26
+The team has 36 timeouts. The official grants 3 additional timeouts. What is the new allowance?,39,36,3
+The team has 17 timeouts. The official grants 10 additional timeouts. What is the new allowance?,27,17,10
+The prescription has 20 doses. The refill adds 12 more doses. What is the new total?,32,20,12
+The prescription has 35 doses. The refill adds 27 more doses. What is the new total?,62,35,27
+The treatment requires 41 sessions. The doctor adds 16 follow-up sessions. What is the new schedule?,57,41,16
+The treatment requires 42 sessions. The doctor adds 17 follow-up sessions. What is the new schedule?,59,42,17
+The patient needs 31 milligrams of medicine. The dosage increases by 29 milligrams. What is the new requirement?,60,31,29
+The patient needs 20 milligrams of medicine. The dosage increases by 18 milligrams. What is the new requirement?,38,20,18
+The therapy lasts 46 weeks. The extension adds 17 more weeks. What is the new duration?,63,46,17
+The therapy lasts 21 weeks. The extension adds 7 more weeks. What is the new duration?,28,21,7
+The fitness goal is 19 steps daily. The challenge increases by 1 steps. What is the new target?,20,19,1
+The fitness goal is 40 steps daily. The challenge increases by 32 steps. What is the new target?,72,40,32
+The project has 30 tasks. The scope expands by 2 tasks. What is the new workload?,32,30,2
+The project has 39 tasks. The scope expands by 24 tasks. What is the new workload?,63,39,24
+The workday is 36 hours long. Overtime adds 24 hours. What is the new shift length?,60,36,24
+The workday is 35 hours long. Overtime adds 33 hours. What is the new shift length?,68,35,33
+The quota requires 50 sales. The target increases by 15 sales. What is the new goal?,65,50,15
+The quota requires 45 sales. The target increases by 44 sales. What is the new goal?,89,45,44
+The budget allows 27 dollars. Additional funding provides 1 dollars. What is the new budget?,28,27,1
+The budget allows 18 dollars. Additional funding provides 4 dollars. What is the new budget?,22,18,4
+The contract lasts 32 months. The renewal adds 1 months. What is the new term?,33,32,1
+The contract lasts 41 months. The renewal adds 36 months. What is the new term?,77,41,36
+The trip covers 36 kilometers. The detour adds 9 kilometers. What is the new distance?,45,36,9
+The trip covers 26 kilometers. The detour adds 15 kilometers. What is the new distance?,41,26,15
+The vacation lasts 28 days. The airline extends it by 19 days. What is the new duration?,47,28,19
+The vacation lasts 49 days. The airline extends it by 47 days. What is the new duration?,96,49,47
+The suitcase holds 25 kilograms. The airline increases the limit by 18 kilograms. What is the new capacity?,43,25,18
+The suitcase holds 43 kilograms. The airline increases the limit by 23 kilograms. What is the new capacity?,66,43,23
+The itinerary includes 38 cities. Last-minute changes add 14 cities. What is the new plan?,52,38,14
+The itinerary includes 16 cities. Last-minute changes add 6 cities. What is the new plan?,22,16,6
+The cruise has 10 ports of call. Weather changes add 7 alternative ports. What is the new schedule?,17,10,7
+The cruise has 35 ports of call. Weather changes add 8 alternative ports. What is the new schedule?,43,35,8
+The guest list has 34 people. 15 last-minute RSVPs arrive. What is the new count?,49,34,15
+The guest list has 41 people. 3 last-minute RSVPs arrive. What is the new count?,44,41,3
+The venue seats 43 guests. Additional chairs increase capacity by 2. What is the new total?,45,43,2
+The venue seats 27 guests. Additional chairs increase capacity by 14. What is the new total?,41,27,14
+The event budget is 40 dollars. A sponsor contributes 10 dollars. What is the new budget?,50,40,10
+The event budget is 35 dollars. A sponsor contributes 19 dollars. What is the new budget?,54,35,19
+The schedule allows 43 minutes per speaker. The organizer adds 42 bonus minutes. What is the new limit?,85,43,42
+The schedule allows 37 minutes per speaker. The organizer adds 14 bonus minutes. What is the new limit?,51,37,14
+The conference has 28 sessions. The committee adds 24 breakout sessions. What is the new total?,52,28,24
+The conference has 29 sessions. The committee adds 11 breakout sessions. What is the new total?,40,29,11
+The blueprint requires 32 boards. The revision adds 3 more boards. What is the new requirement?,35,32,3
+The blueprint requires 49 boards. The revision adds 24 more boards. What is the new requirement?,73,49,24
+The project needs 24 nails. The supplier provides 4 extra nails. What is the new total?,28,24,4
+The project needs 38 nails. The supplier provides 33 extra nails. What is the new total?,71,38,33
+The wall needs 29 bricks. The design change requires 28 more bricks. What is the new count?,57,29,28
+The wall needs 37 bricks. The design change requires 36 more bricks. What is the new count?,73,37,36
+The job estimates 11 hours of labor. Complications add 1 hours. What is the new estimate?,12,11,1
+The job estimates 35 hours of labor. Complications add 14 hours. What is the new estimate?,49,35,14
+The order requires 12 tiles. The overage includes 10 extra tiles. What is the delivered quantity?,22,12,10
+The order requires 28 tiles. The overage includes 9 extra tiles. What is the delivered quantity?,37,28,9
+The production line makes 33 units per hour. Overtime adds 28 more units. What is the new output?,61,33,28
+The production line makes 13 units per hour. Overtime adds 3 more units. What is the new output?,16,13,3
+The machine processes 37 items daily. Maintenance increases capacity by 23 items. What is the new rate?,60,37,23
+The machine processes 49 items daily. Maintenance increases capacity by 3 items. What is the new rate?,52,49,3
+The quality check finds 42 defects. The tolerance allows 27 more defects. What is the acceptable range?,69,42,27
+The quality check finds 20 defects. The tolerance allows 4 more defects. What is the acceptable range?,24,20,4
+The shipment contains 29 products. The replacement adds 19 more products. What is the new inventory?,48,29,19
+The shipment contains 14 products. The replacement adds 13 more products. What is the new inventory?,27,14,13
+The order requires 31 components. The supplier includes 25 spare components. What is the delivered count?,56,31,25
+The order requires 38 components. The supplier includes 29 spare components. What is the delivered count?,67,38,29
+The battery stores 24 kilowatt-hours. Solar charging adds 17 kilowatt-hours. What is the new charge?,41,24,17
+The battery stores 25 kilowatt-hours. Solar charging adds 10 kilowatt-hours. What is the new charge?,35,25,10
+The tank holds 38 liters of fuel. Refueling adds 13 liters. What is the new quantity?,51,38,13
+The tank holds 32 liters of fuel. Refueling adds 17 liters. What is the new quantity?,49,32,17
+The generator provides 41 hours of power. Maintenance extends runtime by 11 hours. What is the new duration?,52,41,11
+The generator provides 25 hours of power. Maintenance extends runtime by 12 hours. What is the new duration?,37,25,12
+The solar panel produces 45 watts daily. Extra sunlight increases output by 25 watts. What is the adjusted production?,70,45,25
+The solar panel produces 20 watts daily. Extra sunlight increases output by 9 watts. What is the adjusted production?,29,20,9
+The circuit handles 40 amps safely. Upgrades increase capacity by 6 amps. What is the new limit?,46,40,6
+The circuit handles 26 amps safely. Upgrades increase capacity by 21 amps. What is the new limit?,47,26,21
+The forest has 23 trees. Replanting adds 16 new trees. What is the new count?,39,23,16
+The forest has 14 trees. Replanting adds 4 new trees. What is the new count?,18,14,4
+The lake contains 45 fish. Stocking adds 16 more fish. What is the new population?,61,45,16
+The lake contains 30 fish. Stocking adds 20 more fish. What is the new population?,50,30,20
+The reserve protects 34 acres. The expansion adds 27 acres. What is the new protected area?,61,34,27
+The reserve protects 40 acres. The expansion adds 9 acres. What is the new protected area?,49,40,9
+The cleanup targets 29 tons of waste. Additional dumping adds 3 tons. What is the new total?,32,29,3
+The cleanup targets 24 tons of waste. Additional dumping adds 1 tons. What is the new total?,25,24,1
+The air quality index shows 47 particles. Pollution adds 31 particles. What is the new measurement?,78,47,31
+The air quality index shows 11 particles. Pollution adds 9 particles. What is the new measurement?,20,11,9
+The puzzle has 38 pieces. The deluxe edition adds 16 more pieces. What is the new challenge?,54,38,16
+The puzzle has 35 pieces. The deluxe edition adds 24 more pieces. What is the new challenge?,59,35,24
+The collection contains 32 coins. An auction adds 2 rare coins. What is the new collection?,34,32,2
+The collection contains 42 coins. An auction adds 25 rare coins. What is the new collection?,67,42,25
+The playlist has 39 songs. New releases add 22 more songs. What is the updated playlist?,61,39,22
+The playlist has 23 songs. New releases add 21 more songs. What is the updated playlist?,44,23,21
+The gallery displays 27 paintings. A donation adds 18 paintings. What is the new exhibition?,45,27,18
+The gallery displays 32 paintings. A donation adds 9 paintings. What is the new exhibition?,41,32,9
+The book has 19 pages. The special edition includes 4 additional pages. What is the new length?,23,19,4
+The book has 26 pages. The special edition includes 11 additional pages. What is the new length?,37,26,11

@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has x bags with y apples in each. How many apples does Jack have total?,x,A team of 5 robots assembled 15 components. What was each robot's average output?,3,75,x,y,15,5
+Jack has x bags with y apples in each. How many apples does Jack have total?,x,A team of 7 robots assembled 28 components. What was each robot's average output?,4,196,x,y,28,7
+"There are x classrooms, each with y students. How many students total?",x,2 apples cost $18 altogether. What's the price per apple?,9,36,x,y,18,2
+"There are x classrooms, each with y students. How many students total?",x,46 apples cost $46 altogether. What's the price per apple?,1,2116,x,y,46,46
+"A baker prepares x trays, each with y cookies. What is the total number?",x,Artists used 6 pigments across 6 paintings. What was the average per painting?,1,36,x,y,6,6
+"A baker prepares x trays, each with y cookies. What is the total number?",x,Artists used 24 pigments across 24 paintings. What was the average per painting?,1,576,x,y,24,24
+"A book has x chapters, each with y pages. How many pages total?",x,The printer created 6 layers over 3 minutes. What was the average speed?,2,18,x,y,6,3
+"A book has x chapters, each with y pages. How many pages total?",x,The printer created 22 layers over 11 minutes. What was the average speed?,2,242,x,y,22,11
+Each of x boxes contains y pencils. What is the total count?,x,The cable transferred 24 TB over 6 hours. What was the average rate?,4,144,x,y,24,6
+Each of x boxes contains y pencils. What is the total count?,x,The cable transferred 49 TB over 7 hours. What was the average rate?,7,343,x,y,49,7
+Zoe reads x pages every hour for y hours. How many pages total?,x,A worker earned $3 from 3 items. What was the per-item rate?,1,9,x,y,3,3
+Zoe reads x pages every hour for y hours. How many pages total?,x,A worker earned $33 from 3 items. What was the per-item rate?,11,99,x,y,33,3
+A machine produces x widgets every minute for y minutes. What's the total?,x,The glacier retreated 24 inches over 4 days. What was the average daily recession?,6,96,x,y,24,4
+A machine produces x widgets every minute for y minutes. What's the total?,x,The glacier retreated 14 inches over 14 days. What was the average daily recession?,1,196,x,y,14,14
+A printer prints x pages every minute. How many pages in y minutes?,x,The nanobots repaired 34 cells during 17 minutes. What was their average repair rate?,2,578,x,y,34,17
+A printer prints x pages every minute. How many pages in y minutes?,x,The nanobots repaired 50 cells during 10 minutes. What was their average repair rate?,5,500,x,y,50,10
+A car travels x miles every gallon. How far can it go on y gallons?,x,The storm had 8 lightning flashes over 8 minutes. What was the flash rate?,1,64,x,y,8,8
+A car travels x miles every gallon. How far can it go on y gallons?,x,The storm had 16 lightning flashes over 4 minutes. What was the flash rate?,4,64,x,y,16,4
+William earns $x per hour and works y hours. What are the total earnings?,x,There were 48 arrivals during 2 minutes. What was the actual arrival frequency?,24,96,x,y,48,2
+William earns $x per hour and works y hours. What are the total earnings?,x,There were 34 arrivals during 34 minutes. What was the actual arrival frequency?,1,1156,x,y,34,34
+A garden has x rows with y plants per row. How many plants total?,x,The pyramid's 11 blocks weigh 11 tons total. What is the average block weight?,1,121,x,y,11,11
+A garden has x rows with y plants per row. How many plants total?,x,The pyramid's 2 blocks weigh 30 tons total. What is the average block weight?,15,60,x,y,30,2
+"A parking lot has x rows, each holding y cars. How many cars total?",x,A quilt's 24 squares are arranged in 24 equal columns. How many per column?,1,576,x,y,24,24
+"A parking lot has x rows, each holding y cars. How many cars total?",x,A quilt's 36 squares are arranged in 3 equal columns. How many per column?,12,108,x,y,36,3
+A quilt has x squares along its length and y squares across. How many total?,x,5 cartons hold 35 eggs total. How many eggs per carton?,7,175,x,y,35,5
+A quilt has x squares along its length and y squares across. How many total?,x,7 cartons hold 35 eggs total. How many eggs per carton?,5,245,x,y,35,7
+Each of x rows contains y desks. How many desks total?,x,Henry earned $28 by working 2 hours. What was the hourly wage?,14,56,x,y,28,2
+Each of x rows contains y desks. How many desks total?,x,Henry earned $50 by working 25 hours. What was the hourly wage?,2,1250,x,y,50,25
+"A bookshelf has x shelves, each holding y books. How many books total?",x,Grace paid $26 for 2 months of service. What was the monthly rate?,13,52,x,y,26,2
+"A bookshelf has x shelves, each holding y books. How many books total?",x,Grace paid $41 for 41 months of service. What was the monthly rate?,1,1681,x,y,41,41
+Tickets cost $x each. Alexander buys y tickets. What's the total cost?,x,The band sold 48 albums over 3 concerts. What was their average sales per concert?,16,144,x,y,48,3
+Tickets cost $x each. Alexander buys y tickets. What's the total cost?,x,The band sold 10 albums over 2 concerts. What was their average sales per concert?,5,20,x,y,10,2
+Each candy bag costs $x. How much for y bags?,x,The party found 7 coins distributed among 7 chests. What was the average per chest?,1,49,x,y,7,7
+Each candy bag costs $x. How much for y bags?,x,The party found 28 coins distributed among 2 chests. What was the average per chest?,14,56,x,y,28,2
+A toy is priced at $x each. How much for y toys?,x,The fungal network covered 48 square feet across 8 colonies. What was the average size?,6,384,x,y,48,8
+A toy is priced at $x each. How much for y toys?,x,The fungal network covered 24 square feet across 3 colonies. What was the average size?,8,72,x,y,24,3
+Apples cost $x per apple. How much for y apples?,x,The theater used 40 yards of fabric for 40 seats. How much fabric per seat?,1,1600,x,y,40,40
+Apples cost $x per apple. How much for y apples?,x,The theater used 27 yards of fabric for 27 seats. How much fabric per seat?,1,729,x,y,27,27
+A subscription costs $x monthly. What's the cost for y months?,x,Researchers found 48 turtle eggs in 4 nests. What was the average eggs per nest?,12,192,x,y,48,4
+A subscription costs $x monthly. What's the cost for y months?,x,Researchers found 27 turtle eggs in 27 nests. What was the average eggs per nest?,1,729,x,y,27,27
+A car drives x miles every hour for y hours. How far does it go?,x,48 bowls used 48 liters total. What was the amount per bowl?,1,2304,x,y,48,48
+A car drives x miles every hour for y hours. How far does it go?,x,34 bowls used 34 liters total. What was the amount per bowl?,1,1156,x,y,34,34
+A plane flies x miles per hour. How far in y hours?,x,Reservoirs dropped 44 feet during 22 months of drought. What was the average monthly decline?,2,968,x,y,44,22
+A plane flies x miles per hour. How far in y hours?,x,Reservoirs dropped 13 feet during 13 months of drought. What was the average monthly decline?,1,169,x,y,13,13
+A runner maintains x km every hour. How far in y hours?,x,5 cakes used 15 eggs total. How many eggs per cake?,3,75,x,y,15,5
+A runner maintains x km every hour. How far in y hours?,x,19 cakes used 19 eggs total. How many eggs per cake?,1,361,x,y,19,19
+A train travels x kilometers per hour. How far does it go in y hours?,x,The tsunami moved 10 tons of debris through 10 waves. What was the average debris per wave?,1,100,x,y,10,10
+A train travels x kilometers per hour. How far does it go in y hours?,x,The tsunami moved 36 tons of debris through 3 waves. What was the average debris per wave?,12,108,x,y,36,3
+A cyclist averages x miles every hour. How far in y hours?,x,The reef grew 45 centimeters over 15 years. What was its average annual growth?,3,675,x,y,45,15
+A cyclist averages x miles every hour. How far in y hours?,x,The reef grew 48 centimeters over 2 years. What was its average annual growth?,24,96,x,y,48,2
+A recipe requires x cups of flour per batch. Chloe makes y batches. How much flour?,x,The elevator ascended 15 kilometers over 15 days. What was its average daily climb?,1,225,x,y,15,15
+A recipe requires x cups of flour per batch. Chloe makes y batches. How much flour?,x,The elevator ascended 28 kilometers over 2 days. What was its average daily climb?,14,56,x,y,28,2
+Each cake needs x eggs. How many eggs for y cakes?,x,Olivia made 30 moves total across 3 puzzles. What was the average per puzzle?,10,90,x,y,30,3
+Each cake needs x eggs. How many eggs for y cakes?,x,Olivia made 19 moves total across 19 puzzles. What was the average per puzzle?,1,361,x,y,19,19
+Cookies require x chips per cookie. How many chips for y cookies?,x,The reactor produced 27 megawatts over 27 hours. What was its average hourly output?,1,729,x,y,27,27
+Cookies require x chips per cookie. How many chips for y cookies?,x,The reactor produced 20 megawatts over 20 hours. What was its average hourly output?,1,400,x,y,20,20
+Each serving requires x ounces. How much for y servings?,x,A team scored 15 points over 3 games. What was their average?,5,45,x,y,15,3
+Each serving requires x ounces. How much for y servings?,x,A team scored 44 points over 11 games. What was their average?,4,484,x,y,44,11
+Punch needs x liters per bowl. How much for y bowls?,x,Henry earned $18 by working 18 hours. What was the hourly pay?,1,324,x,y,18,18
+Punch needs x liters per bowl. How much for y bowls?,x,Henry earned $46 by working 23 hours. What was the hourly pay?,2,1058,x,y,46,23
+Isla earns $x per hour. How much for y hours?,x,A runner completed 2 km in 2 hours. What was the pace?,1,4,x,y,2,2
+Isla earns $x per hour. How much for y hours?,x,A runner completed 32 km in 2 hours. What was the pace?,16,64,x,y,32,2
+Workers are paid $x per item. How much for y items?,x,James spent $15 on 5 equally priced tickets. What was the price per ticket?,3,75,x,y,15,5
+Workers are paid $x per item. How much for y items?,x,James spent $30 on 10 equally priced tickets. What was the price per ticket?,3,300,x,y,30,10
+Each project pays $x. What's the income from y projects?,x,Observers counted 25 meteors over 25 hours. What was the hourly rate?,1,625,x,y,25,25
+Each project pays $x. What's the income from y projects?,x,Observers counted 12 meteors over 4 hours. What was the hourly rate?,3,48,x,y,12,4
+A consultant charges $x daily. What's the cost for y days?,x,42 cars are parked in 21 equal rows. How many cars per row?,2,882,x,y,42,21
+A consultant charges $x daily. What's the cost for y days?,x,45 cars are parked in 45 equal rows. How many cars per row?,1,2025,x,y,45,45
+Overtime pays $x per hour. How much for y overtime hours?,x,6 questions took 42 minutes altogether. What was the average time?,7,252,x,y,42,6
+Overtime pays $x per hour. How much for y overtime hours?,x,4 questions took 20 minutes altogether. What was the average time?,5,80,x,y,20,4
+Each crate holds x oranges. How many oranges in y crates?,x,The gene editor made 50 edits over 25 seconds. What was its editing speed?,2,1250,x,y,50,25
+Each crate holds x oranges. How many oranges in y crates?,x,The gene editor made 24 edits over 3 seconds. What was its editing speed?,8,72,x,y,24,3
+Egg cartons contain x eggs each. How many eggs in y cartons?,x,Thomas used 22 pounds of clay for 22 sculptures. How much clay per sculpture?,1,484,x,y,22,22
+Egg cartons contain x eggs each. How many eggs in y cartons?,x,Thomas used 36 pounds of clay for 18 sculptures. How much clay per sculpture?,2,648,x,y,36,18
+Jars contain x marbles each. How many marbles in y jars?,x,3 cookies used 45 chips altogether. What's the average per cookie?,15,135,x,y,45,3
+Jars contain x marbles each. How many marbles in y jars?,x,2 cookies used 16 chips altogether. What's the average per cookie?,8,32,x,y,16,2
+Cases hold x bottles each. How many bottles in y cases?,x,10 pencils are packaged equally in 10 boxes. How many in each box?,1,100,x,y,10,10
+Cases hold x bottles each. How many bottles in y cases?,x,49 pencils are packaged equally in 7 boxes. How many in each box?,7,343,x,y,49,7
+Packets have x seeds each. How many seeds in y packets?,x,7 projects earned $49 total. What was the average per project?,7,343,x,y,49,7
+Packets have x seeds each. How many seeds in y packets?,x,3 projects earned $3 total. What was the average per project?,1,9,x,y,3,3
+Tasks take x minutes each. How long for y tasks?,x,The hologram system uses 10 teraflops total across 5 projectors. What's the average per projector?,2,50,x,y,10,5
+Tasks take x minutes each. How long for y tasks?,x,The hologram system uses 7 teraflops total across 7 projectors. What's the average per projector?,1,49,x,y,7,7
+A process takes x hours per unit. How long for y units?,x,The shop used 44 spokes across 44 wheels. What was the average spokes per wheel?,1,1936,x,y,44,44
+A process takes x hours per unit. How long for y units?,x,The shop used 28 spokes across 14 wheels. What was the average spokes per wheel?,2,392,x,y,28,14
+Questions take x minutes each. How long for y questions?,x,The booth processed 16 cars over 16 minutes. What was its average processing rate?,1,256,x,y,16,16
+Questions take x minutes each. How long for y questions?,x,The booth processed 48 cars over 16 minutes. What was its average processing rate?,3,768,x,y,48,16
+A machine processes x items per hour. How many can it do in y hours?,x,Amelia paid $42 for 6 candy bags. What was the per-bag price?,7,252,x,y,42,6
+A machine processes x items per hour. How many can it do in y hours?,x,Amelia paid $21 for 21 candy bags. What was the per-bag price?,1,441,x,y,21,21
+Customers take x minutes each to serve. How long for y customers?,x,39 plants are arranged in 39 equal rows. How many plants per row?,1,1521,x,y,39,39
+Customers take x minutes each to serve. How long for y customers?,x,39 plants are arranged in 3 equal rows. How many plants per row?,13,117,x,y,39,3
+A team scores x points per game. How many points in y games?,x,The cabin's 9 seats weigh 9 pounds total. What is the average seat weight?,1,81,x,y,9,9
+A team scores x points per game. How many points in y games?,x,The cabin's 5 seats weigh 10 pounds total. What is the average seat weight?,2,50,x,y,10,5
+A player averages x rebounds per game. How many in y games?,x,Driftwood traveled 32 miles over 32 days. What was the average daily movement?,1,1024,x,y,32,32
+A player averages x rebounds per game. How many in y games?,x,Driftwood traveled 26 miles over 13 days. What was the average daily movement?,2,338,x,y,26,13
+Innings average x runs each. How many runs in y innings?,x,The submarine surveyed 46 square miles over 2 days. What was its average daily exploration?,23,92,x,y,46,2
+Innings average x runs each. How many runs in y innings?,x,The submarine surveyed 18 square miles over 2 days. What was its average daily exploration?,9,36,x,y,18,2
+A player makes x free throws per game. How many in y games?,x,Installing 14 updates took 28 minutes total. What was the average time?,2,392,x,y,28,14
+A player makes x free throws per game. How many in y games?,x,Installing 13 updates took 26 minutes total. What was the average time?,2,338,x,y,26,13
+A team allows x goals per match. How many in y matches?,x,The game loaded 47 textures over 47 seconds. What was the average loading speed?,1,2209,x,y,47,47
+A team allows x goals per match. How many in y matches?,x,The game loaded 9 textures over 3 seconds. What was the average loading speed?,3,27,x,y,9,3
+Matthew creates x paintings every month. How many paintings will be completed after y months?,x,The telescope took 4 images during 4 orbits. What was its average imaging rate?,1,16,x,y,4,4
+Matthew creates x paintings every month. How many paintings will be completed after y months?,x,The telescope took 20 images during 4 orbits. What was its average imaging rate?,5,80,x,y,20,4
+Each sculpture requires x pounds of clay. How much clay is needed to make y sculptures?,x,Explorers mapped 42 passages across 14 towers. What was the average per tower?,3,588,x,y,42,14
+Each sculpture requires x pounds of clay. How much clay is needed to make y sculptures?,x,Explorers mapped 36 passages across 18 towers. What was the average per tower?,2,648,x,y,36,18
+The dance troupe performs x shows in each city. How many shows will they perform on a y-city tour?,x,The sunflower grew 2 inches over 2 weeks. What was the average weekly growth?,1,4,x,y,2,2
+The dance troupe performs x shows in each city. How many shows will they perform on a y-city tour?,x,The sunflower grew 27 inches over 27 weeks. What was the average weekly growth?,1,729,x,y,27,27
+Each art class uses x paint tubes weekly. How many tubes are needed for y classes?,x,Ava has 39 apples to divide equally into 3 bags. How many apples go in each bag?,13,117,x,y,39,3
+Each art class uses x paint tubes weekly. How many tubes are needed for y classes?,x,Ava has 42 apples to divide equally into 21 bags. How many apples go in each bag?,2,882,x,y,42,21
+Henry writes x poetry lines daily. How many lines will be written in y consecutive days?,x,The tornado outbreak damaged 30 structures across 3 tornadoes. What was the average damage per tornado?,10,90,x,y,30,3
+Henry writes x poetry lines daily. How many lines will be written in y consecutive days?,x,The tornado outbreak damaged 10 structures across 2 tornadoes. What was the average damage per tornado?,5,20,x,y,10,2
+Each theater seat needs x yards of fabric. How much fabric is required for y seats?,x,Marine biologists documented 46 species among 23 reefs. What was the average per reef?,2,1058,x,y,46,23
+Each theater seat needs x yards of fabric. How much fabric is required for y seats?,x,Marine biologists documented 10 species among 2 reefs. What was the average per reef?,5,20,x,y,10,2
+The band sells x albums per concert. How many albums will they sell at y concerts?,x,7 servings used 42 ounces total. How much per serving?,6,294,x,y,42,7
+The band sells x albums per concert. How many albums will they sell at y concerts?,x,15 servings used 45 ounces total. How much per serving?,3,675,x,y,45,15
+Each mosaic tile covers x square inches. How much area can y tiles cover?,x,22 tasks took 44 minutes total. What was the average time per task?,2,968,x,y,44,22
+Each mosaic tile covers x square inches. How much area can y tiles cover?,x,7 tasks took 21 minutes total. What was the average time per task?,3,147,x,y,21,7
+The film crew shoots x scenes daily. How many scenes will they capture in y days?,x,11 customers were served in 11 minutes. What was the average service time?,1,121,x,y,11,11
+The film crew shoots x scenes daily. How many scenes will they capture in y days?,x,36 customers were served in 36 minutes. What was the average service time?,1,1296,x,y,36,36
+Each jewelry box holds x rings. How many rings can be stored in y boxes?,x,The hive produced 48 ounces of honey over 8 days. What was the average daily yield?,6,384,x,y,48,8
+Each jewelry box holds x rings. How many rings can be stored in y boxes?,x,The hive produced 48 ounces of honey over 24 days. What was the average daily yield?,2,1152,x,y,48,24
+The beehive produces x ounces of honey daily. What will be the total production after y days?,x,Energy demand increased by 12 megawatts over 4 heatwave days. What was the average daily increase?,3,48,x,y,12,4
+The beehive produces x ounces of honey daily. What will be the total production after y days?,x,Energy demand increased by 48 megawatts over 48 heatwave days. What was the average daily increase?,1,2304,x,y,48,48
+Each rainforest tree hosts x epiphyte species. How many species would be found on y trees?,x,A cyclist rode 30 miles over 30 hours. What was the average speed?,1,900,x,y,30,30
+Each rainforest tree hosts x epiphyte species. How many species would be found on y trees?,x,A cyclist rode 23 miles over 23 hours. What was the average speed?,1,529,x,y,23,23
+The volcano erupts x tons of ash hourly. How much ash will be ejected in y hours?,x,Benjamin has 30 cups of flour to make 5 batches. How much per batch?,6,150,x,y,30,5
+The volcano erupts x tons of ash hourly. How much ash will be ejected in y hours?,x,Benjamin has 30 cups of flour to make 30 batches. How much per batch?,1,900,x,y,30,30
+Each tide pool contains x hermit crabs. How many crabs would be in y pools?,x,A train went 40 km during 40 hours. What was its speed?,1,1600,x,y,40,40
+Each tide pool contains x hermit crabs. How many crabs would be in y pools?,x,A train went 14 km during 7 hours. What was its speed?,2,98,x,y,14,7
+The glacier recedes x inches daily. How much will it shrink after y days?,x,The rocket used 24 tons of fuel over 3 minutes. What was its average burn rate?,8,72,x,y,24,3
+The glacier recedes x inches daily. How much will it shrink after y days?,x,The rocket used 27 tons of fuel over 27 minutes. What was its average burn rate?,1,729,x,y,27,27
+The meteor shower produces x meteors hourly. How many might be seen during y hours?,x,28 packets contain 28 seeds total. How many seeds per packet?,1,784,x,y,28,28
+The meteor shower produces x meteors hourly. How many might be seen during y hours?,x,46 packets contain 46 seeds total. How many seeds per packet?,1,2116,x,y,46,46
+The sunflower grows x inches weekly. How tall will it be after y weeks?,x,Scientists deployed 45 instruments across 15 modules. What was the average per module?,3,675,x,y,45,15
+The sunflower grows x inches weekly. How tall will it be after y weeks?,x,Scientists deployed 48 instruments across 2 modules. What was the average per module?,24,96,x,y,48,2
+Each coral reef supports x fish species. How many species might exist across y reefs?,x,The caravan covered 14 miles in 14 days. What was its average daily distance?,1,196,x,y,14,14
+Each coral reef supports x fish species. How many species might exist across y reefs?,x,The caravan covered 48 miles in 2 days. What was its average daily distance?,24,96,x,y,48,2
+The thunderstorm produces x lightning flashes per minute. How many flashes in y minutes?,x,28 innings had 28 runs total. What was the average per inning?,1,784,x,y,28,28
+The thunderstorm produces x lightning flashes per minute. How many flashes in y minutes?,x,2 innings had 24 runs total. What was the average per inning?,12,48,x,y,24,2
+Each mushroom colony expands x square feet daily. How much area would y colonies cover?,x,The mission collected 27 grams from 27 samples. What was the average sample weight?,1,729,x,y,27,27
+Each mushroom colony expands x square feet daily. How much area would y colonies cover?,x,The mission collected 42 grams from 42 samples. What was the average sample weight?,1,1764,x,y,42,42
+The server handles x requests per second. How many requests in y seconds?,x,Builders used 28 stones across 7 walls. What was the average per wall?,4,196,x,y,28,7
+The server handles x requests per second. How many requests in y seconds?,x,Builders used 2 stones across 2 walls. What was the average per wall?,1,4,x,y,2,2
+Each smartphone has xGB storage. How much total storage for y phones?,x,A consultant's 16 days of work cost $16. What was the daily rate?,1,256,x,y,16,16
+Each smartphone has xGB storage. How much total storage for y phones?,x,A consultant's 5 days of work cost $40. What was the daily rate?,8,200,x,y,40,5
+The download speed is x MB per second. How much data will download in y seconds?,x,An oyster bed of 13 oysters filtered 39 gallons total. What was the average per oyster?,3,507,x,y,39,13
+The download speed is x MB per second. How much data will download in y seconds?,x,An oyster bed of 2 oysters filtered 4 gallons total. What was the average per oyster?,2,8,x,y,4,2
+Each robot assembles x components hourly. How many components can y robots assemble?,x,Adventurers found 18 traps across 9 levels. What was the average traps per level?,2,162,x,y,18,9
+Each robot assembles x components hourly. How many components can y robots assemble?,x,Adventurers found 8 traps across 2 levels. What was the average traps per level?,4,16,x,y,8,2
+Each server rack uses x kilowatts. What's the total power for y racks?,x,The volcano released 48 tons of ash over 2 hours. What was the hourly eruption rate?,24,96,x,y,48,2
+Each server rack uses x kilowatts. What's the total power for y racks?,x,The volcano released 39 tons of ash over 39 hours. What was the hourly eruption rate?,1,1521,x,y,39,39
+Each software update takes x minutes. How long will y updates take?,x,Dockworkers loaded 30 containers over 10 hours. What was their average hourly rate?,3,300,x,y,30,10
+Each software update takes x minutes. How long will y updates take?,x,Dockworkers loaded 8 containers over 4 hours. What was their average hourly rate?,2,32,x,y,8,4
+The fiber cable transmits x TB per hour. How much data in y hours?,x,A team of 13 exoskeletons lifted 26 kg total. What was the average lifting capacity?,2,338,x,y,26,13
+The fiber cable transmits x TB per hour. How much data in y hours?,x,A team of 2 exoskeletons lifted 34 kg total. What was the average lifting capacity?,17,68,x,y,34,2
+Each smartwatch tracks x health metrics. How many metrics for y watches?,x,The art department has 37 paint tubes to share equally among 37 classes. How many per class?,1,1369,x,y,37,37
+Each smartwatch tracks x health metrics. How many metrics for y watches?,x,The art department has 20 paint tubes to share equally among 2 classes. How many per class?,10,40,x,y,20,2
+The 3D printer makes x layers per minute. How many layers in y minutes?,x,Nathan read 38 pages over 2 hours. What was the hourly rate?,19,76,x,y,38,2
+The 3D printer makes x layers per minute. How many layers in y minutes?,x,Nathan read 20 pages over 20 hours. What was the hourly rate?,1,400,x,y,20,20
+Each VR headset needs x sensors. How many sensors for y headsets?,x,Mission Control spent 38 hours prepping for 2 spacewalks. What was the average prep time?,19,76,x,y,38,2
+Each VR headset needs x sensors. How many sensors for y headsets?,x,Mission Control spent 28 hours prepping for 2 spacewalks. What was the average prep time?,14,56,x,y,28,2
+The ferry transports x vehicles per trip. How many vehicles can it carry in y trips?,x,The 15-page manuscript took 3 days to copy. What was the average daily output?,5,45,x,y,15,3
+The ferry transports x vehicles per trip. How many vehicles can it carry in y trips?,x,The 8-page manuscript took 2 days to copy. What was the average daily output?,4,16,x,y,8,2
+Each airplane seat weighs x pounds. What is the total weight of y seats?,x,A team conceded 22 goals during 22 matches. What was the average?,1,484,x,y,22,22
+Each airplane seat weighs x pounds. What is the total weight of y seats?,x,A team conceded 24 goals during 12 matches. What was the average?,2,288,x,y,24,12
+A subway train arrives every x minutes. How many arrivals will there be in y minutes?,x,22 oranges are packed equally in 2 crates. How many per crate?,11,44,x,y,22,2
+A subway train arrives every x minutes. How many arrivals will there be in y minutes?,x,32 oranges are packed equally in 8 crates. How many per crate?,4,256,x,y,32,8
+Each scooter travels x miles per charge. How far can y scooters travel?,x,The ferry carried 11 vehicles over 11 trips. What was the average vehicles per trip?,1,121,x,y,11,11
+Each scooter travels x miles per charge. How far can y scooters travel?,x,The ferry carried 33 vehicles over 33 trips. What was the average vehicles per trip?,1,1089,x,y,33,33
+The cargo ship loads x containers hourly. How many containers can it load in y hours?,x,The system collected 46 metrics from 2 watches. What was the average per watch?,23,92,x,y,46,2
+The cargo ship loads x containers hourly. How many containers can it load in y hours?,x,The system collected 6 metrics from 6 watches. What was the average per watch?,1,36,x,y,6,6
+Each bicycle wheel requires x spokes. How many spokes are needed for y wheels?,x,24 overtime hours earned $48. What was the overtime rate?,2,1152,x,y,48,24
+Each bicycle wheel requires x spokes. How many spokes are needed for y wheels?,x,2 overtime hours earned $8. What was the overtime rate?,4,16,x,y,8,2
+The toll booth processes x cars per minute. How many cars can pass in y minutes?,x,The 40-mile road consists of 2 segments. What is the average segment length?,20,80,x,y,40,2
+The toll booth processes x cars per minute. How many cars can pass in y minutes?,x,The 30-mile road consists of 30 segments. What is the average segment length?,1,900,x,y,30,30
+Each train carriage has x seats. How many seats are in y carriages?,x,A printer produced 44 pages during 22 minutes. How many per minute?,2,968,x,y,44,22
+Each train carriage has x seats. How many seats are in y carriages?,x,A printer produced 36 pages during 4 minutes. How many per minute?,9,144,x,y,36,4
+The helicopter uses x gallons of fuel hourly. How much fuel will it use in y hours?,x,A machine completed 27 items over 3 hours. What was its processing rate?,9,81,x,y,27,3
+The helicopter uses x gallons of fuel hourly. How much fuel will it use in y hours?,x,A machine completed 40 items over 2 hours. What was its processing rate?,20,80,x,y,40,2
+Each electric vehicle charges at x kW. What's the total power needed for y vehicles?,x,The server processed 46 requests over 2 seconds. What was the request rate?,23,92,x,y,46,2
+Each electric vehicle charges at x kW. What's the total power needed for y vehicles?,x,The server processed 35 requests over 5 seconds. What was the request rate?,7,175,x,y,35,5
+The Mars rover travels x meters daily. How far will it go in y days?,x,The shield blocked 32 units over 8 hours. What was its average protection rate?,4,256,x,y,32,8
+The Mars rover travels x meters daily. How far will it go in y days?,x,The shield blocked 16 units over 4 hours. What was its average protection rate?,4,64,x,y,16,4
+Each astronaut consumes x pounds of food weekly. How much food is needed for y weeks?,x,The region received 30 inches of rain from 15 hurricanes. What was the average rainfall per hurricane?,2,450,x,y,30,15
+Each astronaut consumes x pounds of food weekly. How much food is needed for y weeks?,x,The region received 32 inches of rain from 4 hurricanes. What was the average rainfall per hurricane?,8,128,x,y,32,4
+The satellite completes x orbits daily. How many orbits in y days?,x,A fleet of 3 scooters traveled 30 miles total. What was the average distance per scooter?,10,90,x,y,30,3
+The satellite completes x orbits daily. How many orbits in y days?,x,A fleet of 8 scooters traveled 16 miles total. What was the average distance per scooter?,2,128,x,y,16,8
+Each spacewalk requires x hours of prep. How much prep time for y spacewalks?,x,Scientists measured 36 oxygen molecules from 3 phytoplankton clusters. What was the average production rate?,12,108,x,y,36,3
+Each spacewalk requires x hours of prep. How much prep time for y spacewalks?,x,Scientists measured 48 oxygen molecules from 8 phytoplankton clusters. What was the average production rate?,6,384,x,y,48,8
+The rocket burns x tons of fuel per minute. How much fuel will it use in y minutes?,x,The kelp grew 47 feet over 47 months. What was its average monthly growth?,1,2209,x,y,47,47
+The rocket burns x tons of fuel per minute. How much fuel will it use in y minutes?,x,The kelp grew 29 feet over 29 months. What was its average monthly growth?,1,841,x,y,29,29
+Each lunar module carries x instruments. How many instruments can y modules carry?,x,The charging station provided 48 kW total to 24 vehicles. What was the average per vehicle?,2,1152,x,y,48,24
+Each lunar module carries x instruments. How many instruments can y modules carry?,x,The charging station provided 42 kW total to 2 vehicles. What was the average per vehicle?,21,84,x,y,42,2
+The telescope captures x images per orbit. How many images in y orbits?,x,A car went 24 miles using 3 gallons. What was the mileage per gallon?,8,72,x,y,24,3
+The telescope captures x images per orbit. How many images in y orbits?,x,A car went 42 miles using 6 gallons. What was the mileage per gallon?,7,252,x,y,42,6
+Each asteroid sample weighs x grams. What is the total weight of y samples?,x,12 desks are arranged in 6 equal rows. How many desks per row?,2,72,x,y,12,6
+Each asteroid sample weighs x grams. What is the total weight of y samples?,x,44 desks are arranged in 44 equal rows. How many desks per row?,1,1936,x,y,44,44
+The spaceship's shield blocks x radiation units hourly. How much radiation can it block in y hours?,x,The miner extracted 25 ounces over 5 weeks. What was the average weekly yield?,5,125,x,y,25,5
+The spaceship's shield blocks x radiation units hourly. How much radiation can it block in y hours?,x,The miner extracted 24 ounces over 8 weeks. What was the average weekly yield?,3,192,x,y,24,8
+Each Mars transmission takes x minutes. How long will y transmissions take?,x,The floodwaters covered 6 acres over 3 hours. What was the average expansion rate?,2,18,x,y,6,3
+Each Mars transmission takes x minutes. How long will y transmissions take?,x,The floodwaters covered 26 acres over 2 hours. What was the average expansion rate?,13,52,x,y,26,2
+Each magic potion needs x dragon scales. How many scales for y potions?,x,A book's 12 pages are divided equally into 2 chapters. How many per chapter?,6,24,x,y,12,2
+Each magic potion needs x dragon scales. How many scales for y potions?,x,A book's 38 pages are divided equally into 19 chapters. How many per chapter?,2,722,x,y,38,19
+The dungeon has x traps per level. How many traps in y levels?,x,Henry spent $36 on 4 identical toys. What was each toy's price?,9,144,x,y,36,4
+The dungeon has x traps per level. How many traps in y levels?,x,Henry spent $36 on 18 identical toys. What was each toy's price?,2,648,x,y,36,18
+Each spell costs x mana points. How much mana to cast y spells?,x,3 cases contain 3 bottles total. How many per case?,1,9,x,y,3,3
+Each spell costs x mana points. How much mana to cast y spells?,x,3 cases contain 39 bottles total. How many per case?,13,117,x,y,39,3
+The character earns x XP per quest. How much XP from y quests?,x,Charlotte downloaded 45 MB over 3 seconds. What was the download speed?,15,135,x,y,45,3
+The character earns x XP per quest. How much XP from y quests?,x,Charlotte downloaded 9 MB over 3 seconds. What was the download speed?,3,27,x,y,9,3
+Each treasure chest holds x coins. How many coins in y chests?,x,Fishermen emptied 16 fish from 4 nets. What was the average catch per net?,4,64,x,y,16,4
+Each treasure chest holds x coins. How many coins in y chests?,x,Fishermen emptied 17 fish from 17 nets. What was the average catch per net?,1,289,x,y,17,17
+The castle has x passages per tower. How many passages in y towers?,x,A machine made 50 widgets in 2 minutes. What was its per-minute rate?,25,100,x,y,50,2
+The castle has x passages per tower. How many passages in y towers?,x,A machine made 40 widgets in 5 minutes. What was its per-minute rate?,8,200,x,y,40,5
+Each monster drops x items. How many items from y monsters?,x,The fleet of 11 ships transported 44 warriors total. What was the average per ship?,4,484,x,y,44,11
+Each monster drops x items. How many items from y monsters?,x,The fleet of 47 ships transported 47 warriors total. What was the average per ship?,1,2209,x,y,47,47
+The spellbook has x pages per chapter. How many pages in y chapters?,x,The alchemist used 19 scales to make 19 potions. What was the average per potion?,1,361,x,y,19,19
+The spellbook has x pages per chapter. How many pages in y chapters?,x,The alchemist used 40 scales to make 10 potions. What was the average per potion?,4,400,x,y,40,10
+Each puzzle takes x moves to solve. How many moves for y puzzles?,x,A baker divides 26 cookies equally among 13 trays. How many per tray?,2,338,x,y,26,13
+Each puzzle takes x moves to solve. How many moves for y puzzles?,x,A baker divides 45 cookies equally among 5 trays. How many per tray?,9,225,x,y,45,5
+The game loads x textures per second. How many textures in y seconds?,x,Scientists observed 25 hermit crabs distributed equally among 25 pools. What was the average per pool?,1,625,x,y,25,25
+The game loads x textures per second. How many textures in y seconds?,x,Scientists observed 40 hermit crabs distributed equally among 4 pools. What was the average per pool?,10,160,x,y,40,4
+Each pyramid block weighs x tons. What is the total weight of y blocks?,x,Lucas wrote 29 poetry lines over 29 days. What was the average daily output?,1,841,x,y,29,29
+Each pyramid block weighs x tons. What is the total weight of y blocks?,x,Lucas wrote 28 poetry lines over 4 days. What was the average daily output?,7,112,x,y,28,4
+The scribe copies x pages daily. How many pages in y days?,x,The storm dropped 46 hailstones across 23 square yards. What was the average concentration?,2,1058,x,y,46,23
+The scribe copies x pages daily. How many pages in y days?,x,The storm dropped 18 hailstones across 2 square yards. What was the average concentration?,9,36,x,y,18,2
+Each Viking ship carries x warriors. How many warriors can y ships carry?,x,Amelia completed 36 paintings over 4 months. How many paintings per month on average?,9,144,x,y,36,4
+Each Viking ship carries x warriors. How many warriors can y ships carry?,x,Amelia completed 24 paintings over 3 months. How many paintings per month on average?,8,72,x,y,24,3
+The castle requires x stones per wall. How many stones for y walls?,x,The movement gained 37 supporters over 37 days. What was the average daily growth?,1,1369,x,y,37,37
+The castle requires x stones per wall. How many stones for y walls?,x,The movement gained 46 supporters over 23 days. What was the average daily growth?,2,1058,x,y,46,23
+Each Roman road segment is x miles long. How long is a road with y segments?,x,A player got 10 rebounds in 5 games. What was the average?,2,50,x,y,10,5
+Each Roman road segment is x miles long. How long is a road with y segments?,x,A player got 38 rebounds in 38 games. What was the average?,1,1444,x,y,38,38
+The revolution gains x supporters daily. How many supporters in y days?,x,Researchers documented 48 species across 48 tidal surveys. What was the average per survey?,1,2304,x,y,48,48
+The revolution gains x supporters daily. How many supporters in y days?,x,Researchers documented 48 species across 16 tidal surveys. What was the average per survey?,3,768,x,y,48,16
+Each samurai sword takes x hours to forge. How long to forge y swords?,x,Researchers found 3 epiphyte species on 3 trees. What was the average per tree?,1,9,x,y,3,3
+Each samurai sword takes x hours to forge. How long to forge y swords?,x,Researchers found 30 epiphyte species on 5 trees. What was the average per tree?,6,150,x,y,30,5
+The caravan travels x miles daily. How far will it go in y days?,x,The colony used 46 liters over 46 days. What was their average daily usage?,1,2116,x,y,46,46
+The caravan travels x miles daily. How far will it go in y days?,x,The colony used 24 liters over 6 days. What was their average daily usage?,4,144,x,y,24,6
+Each Renaissance painting uses x pigments. How many pigments for y paintings?,x,The VR setup uses 28 sensors across 4 headsets. What's the average per headset?,7,112,x,y,28,4
+Each Renaissance painting uses x pigments. How many pigments for y paintings?,x,The VR setup uses 42 sensors across 21 headsets. What's the average per headset?,2,882,x,y,42,21
+The miner finds x ounces of gold weekly. How much gold in y weeks?,x,Jacob has 32 rings to distribute equally among 32 boxes. How many rings per box?,1,1024,x,y,32,32
+The miner finds x ounces of gold weekly. How much gold in y weeks?,x,Jacob has 42 rings to distribute equally among 2 boxes. How many rings per box?,21,84,x,y,42,2
+Each hurricane produces x inches of rain. How much rain will y hurricanes bring?,x,The crew ate 45 pounds of food over 45 weeks. What was their average weekly consumption?,1,2025,x,y,45,45
+Each hurricane produces x inches of rain. How much rain will y hurricanes bring?,x,The crew ate 36 pounds of food over 9 weeks. What was their average weekly consumption?,4,324,x,y,36,9
+The blizzard drops x snowflakes per square inch. How many flakes will fall on y square inches?,x,3 units were made in 6 hours total. What was the time per unit?,2,18,x,y,6,3
+The blizzard drops x snowflakes per square inch. How many flakes will fall on y square inches?,x,17 units were made in 17 hours total. What was the time per unit?,1,289,x,y,17,17
+Each tornado damages x structures. How many structures will y tornadoes affect?,x,The crew shot 27 scenes over 9 days. What was their average daily scenes?,3,243,x,y,27,9
+Each tornado damages x structures. How many structures will y tornadoes affect?,x,The crew shot 32 scenes over 4 days. What was their average daily scenes?,8,128,x,y,32,4
+The heatwave increases energy demand by x megawatts daily. How much extra power will be needed over y days?,x,The rover traveled 32 meters over 32 days. What was its average daily distance?,1,1024,x,y,32,32
+The heatwave increases energy demand by x megawatts daily. How much extra power will be needed over y days?,x,The rover traveled 28 meters over 14 days. What was its average daily distance?,2,392,x,y,28,14
+Each lightning strike releases x gigajoules. How much energy will y strikes release?,x,A player made 12 free throws over 4 games. What was the average?,3,48,x,y,12,4
+Each lightning strike releases x gigajoules. How much energy will y strikes release?,x,A player made 5 free throws over 5 games. What was the average?,1,25,x,y,5,5
+The flood submerges x acres hourly. How many acres will be flooded in y hours?,x,The helicopter consumed 33 gallons over 33 hours. What was its average hourly usage?,1,1089,x,y,33,33
+The flood submerges x acres hourly. How many acres will be flooded in y hours?,x,The helicopter consumed 11 gallons over 11 hours. What was its average hourly usage?,1,121,x,y,11,11
+Each hailstorm produces x ice chunks per square yard. How many chunks will fall on y square yards?,x,The 6-chapter spellbook has 6 pages total. How many pages per chapter?,1,36,x,y,6,6
+Each hailstorm produces x ice chunks per square yard. How many chunks will fall on y square yards?,x,The 22-chapter spellbook has 22 pages total. How many pages per chapter?,1,484,x,y,22,22
+The drought lowers water levels by x feet monthly. How much will levels drop over y months?,x,The storm released 18 gigajoules through 18 lightning strikes. What was the average energy per strike?,1,324,x,y,18,18
+The drought lowers water levels by x feet monthly. How much will levels drop over y months?,x,The storm released 42 gigajoules through 6 lightning strikes. What was the average energy per strike?,7,252,x,y,42,6
+Each tsunami wave carries x tons of debris. How much debris will y waves move?,x,A plane covered 24 miles over 4 hours. What was its speed?,6,96,x,y,24,4
+Each tsunami wave carries x tons of debris. How much debris will y waves move?,x,A plane covered 27 miles over 3 hours. What was its speed?,9,81,x,y,27,3
+The sandstorm reduces visibility by x meters per minute. How much visibility will be lost in y minutes?,x,Charlotte covered 50 square inches with 25 tiles. What was the average coverage per tile?,2,1250,x,y,50,25
+The sandstorm reduces visibility by x meters per minute. How much visibility will be lost in y minutes?,x,Charlotte covered 20 square inches with 2 tiles. What was the average coverage per tile?,10,40,x,y,20,2
+Each whale consumes x krill daily. How many krill will y whales eat?,x,The AI processed 48 data points through 24 cycles. What was the average per cycle?,2,1152,x,y,48,24
+Each whale consumes x krill daily. How many krill will y whales eat?,x,The AI processed 36 data points through 2 cycles. What was the average per cycle?,18,72,x,y,36,2
+The coral reef grows x centimeters annually. How much will it grow in y years?,x,Visibility decreased by 22 meters over 11 minutes. What was the average rate of visibility loss?,2,242,x,y,22,11
+The coral reef grows x centimeters annually. How much will it grow in y years?,x,Visibility decreased by 49 meters over 49 minutes. What was the average rate of visibility loss?,1,2401,x,y,49,49
+Each sea turtle lays x eggs per nest. How many eggs will y nests contain?,x,6 jars have 30 marbles total. What's the average per jar?,5,180,x,y,30,6
+Each sea turtle lays x eggs per nest. How many eggs will y nests contain?,x,2 jars have 16 marbles total. What's the average per jar?,8,32,x,y,16,2
+The ocean current moves x miles daily. How far will objects drift in y days?,x,The quantum computer completed 39 operations over 13 seconds. What was its operation rate?,3,507,x,y,39,13
+The ocean current moves x miles daily. How far will objects drift in y days?,x,The quantum computer completed 11 operations over 11 seconds. What was its operation rate?,1,121,x,y,11,11
+Each phytoplankton cluster produces x oxygen molecules hourly. How much oxygen will y clusters produce?,x,33 students are divided equally into 3 classrooms. How many in each?,11,99,x,y,33,3
+Each phytoplankton cluster produces x oxygen molecules hourly. How much oxygen will y clusters produce?,x,38 students are divided equally into 38 classrooms. How many in each?,1,1444,x,y,38,38
+The kelp forest grows x feet monthly. How tall will it become after y months?,x,The troupe performed 34 shows across 34 cities. What was their average shows per city?,1,1156,x,y,34,34
+The kelp forest grows x feet monthly. How tall will it become after y months?,x,The troupe performed 20 shows across 20 cities. What was their average shows per city?,1,400,x,y,20,20
+Each fishing net catches x fish when full. How many fish will y full nets catch?,x,A pod of 4 whales consumed 28 krill total. What was the average krill per whale?,7,112,x,y,28,4
+Each fishing net catches x fish when full. How many fish will y full nets catch?,x,A pod of 14 whales consumed 42 krill total. What was the average krill per whale?,3,588,x,y,42,14
+The submarine explores x square miles daily. How much area can it survey in y days?,x,The character gained 49 XP over 49 quests. What was the average XP per quest?,1,2401,x,y,49,49
+The submarine explores x square miles daily. How much area can it survey in y days?,x,The character gained 32 XP over 2 quests. What was the average XP per quest?,16,64,x,y,32,2
+Each oyster filters x gallons of water hourly. How much water will y oysters filter?,x,Mission Control spent 12 minutes on 12 transmissions. What was the average time per transmission?,1,144,x,y,12,12
+Each oyster filters x gallons of water hourly. How much water will y oysters filter?,x,Mission Control spent 40 minutes on 10 transmissions. What was the average time per transmission?,4,400,x,y,40,10
+The tidal zone reveals x new species per survey. How many species might be found in y surveys?,x,The swordsmith spent 41 hours making 41 swords. What was the average time per sword?,1,1681,x,y,41,41
+The tidal zone reveals x new species per survey. How many species might be found in y surveys?,x,The swordsmith spent 50 hours making 50 swords. What was the average time per sword?,1,2500,x,y,50,50
+Each quantum computer performs x operations per second. How many operations in y seconds?,x,The train has 6 seats total across 6 carriages. What's the average per carriage?,1,36,x,y,6,6
+Each quantum computer performs x operations per second. How many operations in y seconds?,x,The train has 21 seats total across 3 carriages. What's the average per carriage?,7,63,x,y,21,3
+The nanobot swarm repairs x cells per minute. How many cells can it repair in y minutes?,x,The data center used 34 kilowatts across 2 racks. What was the average per rack?,17,68,x,y,34,2
+The nanobot swarm repairs x cells per minute. How many cells can it repair in y minutes?,x,The data center used 33 kilowatts across 3 racks. What was the average per rack?,11,99,x,y,33,3
+Each hologram projector uses x teraflops. How much processing power for y projectors?,x,Scientists measured 50 snowflakes across 2 square inches. What was the average snowflake density?,25,100,x,y,50,2
+Each hologram projector uses x teraflops. How much processing power for y projectors?,x,Scientists measured 48 snowflakes across 3 square inches. What was the average snowflake density?,16,144,x,y,48,3
+The fusion reactor generates x megawatts hourly. How much energy in y hours?,x,The drone completed 21 deliveries over 21 hours. What was its average delivery rate?,1,441,x,y,21,21
+The fusion reactor generates x megawatts hourly. How much energy in y hours?,x,The drone completed 25 deliveries over 25 hours. What was its average delivery rate?,1,625,x,y,25,25
+Each AI training cycle processes x data points. How many points in y cycles?,x,A car traveled 25 miles in 25 hours. What was its speed in mph?,1,625,x,y,25,25
+Each AI training cycle processes x data points. How many points in y cycles?,x,A car traveled 42 miles in 42 hours. What was its speed in mph?,1,1764,x,y,42,42
+The space elevator climbs x kilometers daily. How far will it ascend in y days?,x,A shipment of 5 phones has 5GB total storage. What's the average per phone?,1,25,x,y,5,5
+The space elevator climbs x kilometers daily. How far will it ascend in y days?,x,A shipment of 6 phones has 24GB total storage. What's the average per phone?,4,144,x,y,24,6
+Each gene editor modifies x base pairs per second. How many edits in y seconds?,x,Defeating 2 monsters yielded 26 items total. What was the average drop?,13,52,x,y,26,2
+Each gene editor modifies x base pairs per second. How many edits in y seconds?,x,Defeating 24 monsters yielded 48 items total. What was the average drop?,2,1152,x,y,48,24
+The Mars colony uses x liters of water daily. How much water will be needed for y days?,x,48 books are placed equally on 2 shelves. How many books per shelf?,24,96,x,y,48,2
+The Mars colony uses x liters of water daily. How much water will be needed for y days?,x,33 books are placed equally on 11 shelves. How many books per shelf?,3,363,x,y,33,11
+Each exoskeleton lifts x kilograms. How much can y exoskeletons lift together?,x,The satellite made 47 orbits in 47 days. What was its actual daily orbit count?,1,2209,x,y,47,47
+Each exoskeleton lifts x kilograms. How much can y exoskeletons lift together?,x,The satellite made 34 orbits in 2 days. What was its actual daily orbit count?,17,68,x,y,34,2
+The drone makes x deliveries per hour. How many deliveries in y hours?,x,The wizard spent 30 mana on 10 spells. What was the average cost per spell?,3,300,x,y,30,10
+The drone makes x deliveries per hour. How many deliveries in y hours?,x,The wizard spent 24 mana on 24 spells. What was the average cost per spell?,1,576,x,y,24,24

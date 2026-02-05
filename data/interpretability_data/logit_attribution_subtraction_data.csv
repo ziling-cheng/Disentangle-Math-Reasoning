@@ -1,0 +1,301 @@
+prompt,gt_answer,operand1,operand2
+Jack has 9 apples. Their friend takes 1 apples. How many apples does Jack have now?,8,9,1
+Jack has 49 apples. Their friend takes 18 apples. How many apples does Jack have now?,31,49,18
+Chloe picks 49 oranges. They drop 35 oranges. How many oranges does Chloe have now?,14,49,35
+Chloe picks 7 oranges. They drop 5 oranges. How many oranges does Chloe have now?,2,7,5
+Henry buys 16 bananas. The cashier takes back 9 bananas. How many bananas does Henry have now?,7,16,9
+Henry buys 40 bananas. The cashier takes back 2 bananas. How many bananas does Henry have now?,38,40,2
+Lucas grows 36 strawberries. 27 strawberries get eaten by birds. How many strawberries does Lucas have now?,9,36,27
+Lucas grows 39 strawberries. 18 strawberries get eaten by birds. How many strawberries does Lucas have now?,21,39,18
+Benjamin collects 15 mangoes. They share 13 mangoes with their neighbor. How many mangoes does Benjamin have now?,2,15,13
+Benjamin collects 23 mangoes. They share 4 mangoes with their neighbor. How many mangoes does Benjamin have now?,19,23,4
+Nora has 24 pencils. The teacher collects 20 pencils. How many pencils does Nora have now?,4,24,20
+Nora has 18 pencils. The teacher collects 2 pencils. How many pencils does Nora have now?,16,18,2
+Isla brings 26 notebooks to class. A classmate borrows 3 notebooks. How many notebooks does Isla have now?,23,26,3
+Isla brings 37 notebooks to class. A classmate borrows 19 notebooks. How many notebooks does Isla have now?,18,37,19
+Henry finds 47 erasers in their desk. They lose 5 erasers. How many erasers does Henry have now?,42,47,5
+Henry finds 4 erasers in their desk. They lose 3 erasers. How many erasers does Henry have now?,1,4,3
+Nora has 16 markers. Their art teacher removes 14 markers from their collection. How many markers does Nora have now?,2,16,14
+Nora has 19 markers. Their art teacher removes 15 markers from their collection. How many markers does Nora have now?,4,19,15
+Chloe receives 19 stickers for good behavior. The principal revokes 3 stickers. How many stickers does Chloe have now?,16,19,3
+Chloe receives 40 stickers for good behavior. The principal revokes 11 stickers. How many stickers does Chloe have now?,29,40,11
+Jacob owns 19 toy cars. They donate 18 toy cars to charity. How many toy cars does Jacob have now?,1,19,18
+Jacob owns 16 toy cars. They donate 11 toy cars to charity. How many toy cars does Jacob have now?,5,16,11
+William has 15 building blocks. Their sibling takes 10 blocks from their tower. How many blocks does William have now?,5,15,10
+William has 47 building blocks. Their sibling takes 21 blocks from their tower. How many blocks does William have now?,26,47,21
+Nathan collects 43 action figures. They trade away 30 figures. How many action figures does Nathan have now?,13,43,30
+Nathan collects 11 action figures. They trade away 5 figures. How many action figures does Nathan have now?,6,11,5
+Grace has 18 board games. Their family gives away 14 board games. How many board games does Grace have now?,4,18,14
+Grace has 39 board games. Their family gives away 26 board games. How many board games does Grace have now?,13,39,26
+Lily owns 7 stuffed animals. They give 1 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,6,7,1
+Lily owns 9 stuffed animals. They give 3 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,6,9,3
+Ella finds 6 seashells at the beach. The tide washes away 4 seashells. How many seashells does Ella have now?,2,6,4
+Ella finds 26 seashells at the beach. The tide washes away 20 seashells. How many seashells does Ella have now?,6,26,20
+"Chloe counts 48 birds in the morning. By afternoon, 8 birds fly away. How many birds does Chloe see now?",40,48,8
+"Chloe counts 45 birds in the morning. By afternoon, 35 birds fly away. How many birds does Chloe see now?",10,45,35
+Olivia plants 20 flowers. A storm damages 14 flowers. How many flowers does Olivia have now?,6,20,14
+Olivia plants 34 flowers. A storm damages 12 flowers. How many flowers does Olivia have now?,22,34,12
+Matthew catches 42 fireflies. They release 33 fireflies. How many fireflies does Matthew have now?,9,42,33
+Matthew catches 40 fireflies. They release 13 fireflies. How many fireflies does Matthew have now?,27,40,13
+Grace collects 35 acorns. Squirrels steal 1 acorns. How many acorns does Grace have now?,34,35,1
+Grace collects 40 acorns. Squirrels steal 21 acorns. How many acorns does Grace have now?,19,40,21
+Nathan bakes 21 cookies. Their sibling eats 8 cookies. How many cookies does Nathan have now?,13,21,8
+Nathan bakes 5 cookies. Their sibling eats 2 cookies. How many cookies does Nathan have now?,3,5,2
+Lily buys 6 donuts. Their family eats 5 donuts. How many donuts does Lily have now?,1,6,5
+Lily buys 10 donuts. Their family eats 3 donuts. How many donuts does Lily have now?,7,10,3
+Alexander makes 35 sandwiches. Their friends eat 28 sandwiches. How many sandwiches does Alexander have now?,7,35,28
+Alexander makes 15 sandwiches. Their friends eat 9 sandwiches. How many sandwiches does Alexander have now?,6,15,9
+Lucas has 21 candies in their bag. Their teacher takes 13 candies. How many candies does Lucas have now?,8,21,13
+Lucas has 44 candies in their bag. Their teacher takes 42 candies. How many candies does Lucas have now?,2,44,42
+Olivia buys 39 juice boxes. Their classmates drink 15 juice boxes. How many juice boxes does Olivia have now?,24,39,15
+Olivia buys 47 juice boxes. Their classmates drink 41 juice boxes. How many juice boxes does Olivia have now?,6,47,41
+Michael has 17 baseballs. Their coach takes 9 baseballs for practice. How many baseballs does Michael have now?,8,17,9
+Michael has 44 baseballs. Their coach takes 32 baseballs for practice. How many baseballs does Michael have now?,12,44,32
+Zoe owns 28 tennis balls. The club replaces 7 old tennis balls. How many tennis balls does Zoe have now?,21,28,7
+Zoe owns 8 tennis balls. The club replaces 1 old tennis balls. How many tennis balls does Zoe have now?,7,8,1
+Mia has 31 basketballs. Their team donates 28 basketballs. How many basketballs does Mia have now?,3,31,28
+Mia has 48 basketballs. Their team donates 4 basketballs. How many basketballs does Mia have now?,44,48,4
+Emma brings 27 soccer balls to practice. The league redistributes 24 soccer balls. How many soccer balls does Emma have now?,3,27,24
+Emma brings 17 soccer balls to practice. The league redistributes 7 soccer balls. How many soccer balls does Emma have now?,10,17,7
+Mia has 13 hockey pucks. Their teammate borrows 5 hockey pucks. How many hockey pucks does Mia have now?,8,13,5
+Mia has 31 hockey pucks. Their teammate borrows 8 hockey pucks. How many hockey pucks does Mia have now?,23,31,8
+William has 50 crayons. Their art set is missing 16 crayons. How many crayons does William have now?,34,50,16
+William has 12 crayons. Their art set is missing 7 crayons. How many crayons does William have now?,5,12,7
+Jacob owns 26 paintbrushes. Their teacher collects 1 paintbrushes for cleaning. How many paintbrushes does Jacob have now?,25,26,1
+Jacob owns 26 paintbrushes. Their teacher collects 9 paintbrushes for cleaning. How many paintbrushes does Jacob have now?,17,26,9
+Harper has 37 sketchbooks. Their parents archive 32 old sketchbooks. How many sketchbooks does Harper have now?,5,37,32
+Harper has 11 sketchbooks. Their parents archive 4 old sketchbooks. How many sketchbooks does Harper have now?,7,11,4
+Emma collects 5 colored pencils. A set gets damaged and loses 4 colored pencils. How many colored pencils does Emma have now?,1,5,4
+Emma collects 34 colored pencils. A set gets damaged and loses 11 colored pencils. How many colored pencils does Emma have now?,23,34,11
+Chloe has 17 clay pots. Their art class breaks 13 clay pots. How many clay pots does Chloe have now?,4,17,13
+Chloe has 9 clay pots. Their art class breaks 4 clay pots. How many clay pots does Chloe have now?,5,9,4
+Mia has 44 storybooks. The library recalls 38 storybooks. How many storybooks does Mia have now?,6,44,38
+Mia has 38 storybooks. The library recalls 34 storybooks. How many storybooks does Mia have now?,4,38,34
+Chloe owns 43 comic books. A friend borrows 20 comic books. How many comic books does Chloe have now?,23,43,20
+Chloe owns 31 comic books. A friend borrows 11 comic books. How many comic books does Chloe have now?,20,31,11
+Olivia collects 18 magazines. Their subscription expires for 5 magazines. How many magazines does Olivia have now?,13,18,5
+Olivia collects 24 magazines. Their subscription expires for 3 magazines. How many magazines does Olivia have now?,21,24,3
+Daniel has 36 picture books. Their relative asks for 20 picture books back. How many picture books does Daniel have now?,16,36,20
+Daniel has 41 picture books. Their relative asks for 34 picture books back. How many picture books does Daniel have now?,7,41,34
+Harper reads 37 chapter books. Their school collects 10 chapter books for inventory. How many chapter books does Harper have now?,27,37,10
+Harper reads 19 chapter books. Their school collects 10 chapter books for inventory. How many chapter books does Harper have now?,9,19,10
+Henry has 45 t-shirts. Their laundry loses 41 t-shirts. How many t-shirts does Henry have now?,4,45,41
+Henry has 18 t-shirts. Their laundry loses 17 t-shirts. How many t-shirts does Henry have now?,1,18,17
+Matthew owns 19 pairs of socks. Their washing machine ruins 2 pairs of socks. How many pairs of socks does Matthew have now?,17,19,2
+Matthew owns 37 pairs of socks. Their washing machine ruins 28 pairs of socks. How many pairs of socks does Matthew have now?,9,37,28
+Grace has 39 hats. Their collection decreases by 36 hats. How many hats does Grace have now?,3,39,36
+Grace has 11 hats. Their collection decreases by 7 hats. How many hats does Grace have now?,4,11,7
+Nathan wears 17 jackets. Their closet donates 4 jackets. How many jackets does Nathan have now?,13,17,4
+Nathan wears 24 jackets. Their closet donates 18 jackets. How many jackets does Nathan have now?,6,24,18
+Isla has 17 pairs of shoes. Their family replaces 6 old pairs of shoes. How many pairs of shoes does Isla have now?,11,17,6
+Isla has 13 pairs of shoes. Their family replaces 7 old pairs of shoes. How many pairs of shoes does Isla have now?,6,13,7
+Chloe saves 49 coins. Their piggybank loses 16 coins. How many coins does Chloe have now?,33,49,16
+Chloe saves 19 coins. Their piggybank loses 6 coins. How many coins does Chloe have now?,13,19,6
+Nora has 32 keys on their keychain. They remove 8 keys. How many keys does Nora have now?,24,32,8
+Nora has 14 keys on their keychain. They remove 8 keys. How many keys does Nora have now?,6,14,8
+James collects 44 bottle caps. Their friend takes 13 bottle caps for a project. How many bottle caps does James have now?,31,44,13
+James collects 27 bottle caps. Their friend takes 11 bottle caps for a project. How many bottle caps does James have now?,16,27,11
+Jacob has 23 photos in their album. They remove 1 photos. How many photos does Jacob have now?,22,23,1
+Jacob has 9 photos in their album. They remove 5 photos. How many photos does Jacob have now?,4,9,5
+Mia owns 24 video games. The store recalls 11 video games. How many video games does Mia have now?,13,24,11
+Mia owns 29 video games. The store recalls 20 video games. How many video games does Mia have now?,9,29,20
+Henry has 47 minutes to complete a task. The timer shows 28 minutes have passed. What is the current remaining time?,19,47,28
+Henry has 25 minutes to complete a task. The timer shows 14 minutes have passed. What is the current remaining time?,11,25,14
+The concert starts in 21 minutes. Harper needs 17 minutes to get ready. What is the latest possible departure time?,4,21,17
+The concert starts in 21 minutes. Harper needs 14 minutes to get ready. What is the latest possible departure time?,7,21,14
+"Grace's meeting lasts 28 minutes. After 22 minutes, how much meeting time is left?",6,28,22
+"Grace's meeting lasts 26 minutes. After 22 minutes, how much meeting time is left?",4,26,22
+"The flight duration is 29 hours. After 26 hours in the air, how much longer until landing?",3,29,26
+"The flight duration is 39 hours. After 21 hours in the air, how much longer until landing?",18,39,21
+Henry practices piano for 34 minutes daily. Today they stopped after 31 minutes. How much practice was skipped?,3,34,31
+Henry practices piano for 49 minutes daily. Today they stopped after 11 minutes. How much practice was skipped?,38,49,11
+"Chloe's account shows 45 dollars. After a purchase of 20 dollars, what is the current balance?",25,45,20
+"Chloe's account shows 14 dollars. After a purchase of 3 dollars, what is the current balance?",11,14,3
+The item costs 37 dollars. Nathan pays with 42 dollars. What is the amount to be returned?,5,42,37
+The item costs 12 dollars. Nathan pays with 14 dollars. What is the amount to be returned?,2,14,12
+Jack budgets 46 dollars for groceries. The receipt shows 1 dollars spent. How much remains in the budget?,45,46,1
+Jack budgets 50 dollars for groceries. The receipt shows 7 dollars spent. How much remains in the budget?,43,50,7
+The fundraiser goal is 31 dollars. Michael contributes 2 dollars. What is the remaining gap to the goal after the contribution?,29,31,2
+The fundraiser goal is 37 dollars. Michael contributes 16 dollars. What is the remaining gap to the goal after the contribution?,21,37,16
+"Grace earns 50 dollars weekly. After 29 dollars in deductions, what is the take-home amount?",21,50,29
+"Grace earns 41 dollars weekly. After 33 dollars in deductions, what is the take-home amount?",8,41,33
+The container holds 30 liters. Nathan pours out 9 liters. What is the remaining capacity?,21,30,9
+The container holds 42 liters. Nathan pours out 18 liters. What is the remaining capacity?,24,42,18
+The rope measures 30 meters. Alexander cuts off 3 meters. What length remains?,27,30,3
+The rope measures 47 meters. Alexander cuts off 19 meters. What length remains?,28,47,19
+"The building is 26 feet tall. The top floor is removed, reducing height by 23 feet. What is the current height?",3,26,23
+"The building is 28 feet tall. The top floor is removed, reducing height by 11 feet. What is the current height?",17,28,11
+"The package weighs 28 kilograms. After removing 13 kilograms, what is the current weight?",15,28,13
+"The package weighs 39 kilograms. After removing 2 kilograms, what is the current weight?",37,39,2
+The pool contains 28 gallons. James drains 18 gallons for cleaning. What volume remains?,10,28,18
+The pool contains 49 gallons. James drains 48 gallons for cleaning. What volume remains?,1,49,48
+"The store stocks 29 phones. By closing, 16 phones are sold. What is the remaining inventory?",13,29,16
+"The store stocks 3 phones. By closing, 2 phones are sold. What is the remaining inventory?",1,3,2
+The warehouse has 39 boxes. Harper ships out 37 boxes. How many boxes remain stored?,2,39,37
+The warehouse has 44 boxes. Harper ships out 2 boxes. How many boxes remain stored?,42,44,2
+The library has 18 available books. Emma checks out 13 books. How many stay on shelves?,5,18,13
+The library has 22 available books. Emma checks out 7 books. How many stay on shelves?,15,22,7
+The bakery prepares 24 loaves. Customers purchase 8 loaves. How many loaves are left?,16,24,8
+The bakery prepares 43 loaves. Customers purchase 5 loaves. How many loaves are left?,38,43,5
+The farm has 14 chickens. Amelia sells 1 chickens at market. How many chickens remain?,13,14,1
+The farm has 41 chickens. Amelia sells 10 chickens at market. How many chickens remain?,31,41,10
+The exam has 25 questions. Alexander answers 6 questions. How many questions remain?,19,25,6
+The exam has 40 questions. Alexander answers 39 questions. How many questions remain?,1,40,39
+The assignment requires 38 pages. Ethan writes 25 pages. How much more is needed?,13,38,25
+The assignment requires 27 pages. Ethan writes 23 pages. How much more is needed?,4,27,23
+The textbook has 46 chapters. Olivia studies 20 chapters. How many chapters remain?,26,46,20
+The textbook has 45 chapters. Olivia studies 39 chapters. How many chapters remain?,6,45,39
+The course offers 33 credit hours. Michael drops 7 credit hours. How many credits remain?,26,33,7
+The course offers 29 credit hours. Michael drops 12 credit hours. How many credits remain?,17,29,12
+The lab has 35 experiments. Mia completes 18 experiments. How many experiments remain?,17,35,18
+The lab has 41 experiments. Mia completes 35 experiments. How many experiments remain?,6,41,35
+"The bus has 22 passengers. At the stop, 8 passengers exit. How many continue the ride?",14,22,8
+"The bus has 7 passengers. At the stop, 3 passengers exit. How many continue the ride?",4,7,3
+"The train makes 41 stops. After 25 stops, how many remain on the route?",16,41,25
+"The train makes 33 stops. After 21 stops, how many remain on the route?",12,33,21
+The plane has 18 empty seats. 11 standby passengers are accommodated. How many seats remain?,7,18,11
+The plane has 19 empty seats. 9 standby passengers are accommodated. How many seats remain?,10,19,9
+The parking lot has 28 cars. 16 cars leave the lot. How many spaces are still occupied?,12,28,16
+The parking lot has 46 cars. 31 cars leave the lot. How many spaces are still occupied?,15,46,31
+The highway project needs 16 workers. 7 workers finish their shift. How many workers are needed?,9,16,7
+The highway project needs 46 workers. 16 workers finish their shift. How many workers are needed?,30,46,16
+The item originally costs 35 dollars. The discount reduces it by 23 dollars. What is the sale price?,12,35,23
+The item originally costs 29 dollars. The discount reduces it by 24 dollars. What is the sale price?,5,29,24
+Daniel brings 18 dollars to the store. They spend 8 dollars. What amount remains?,10,18,8
+Daniel brings 22 dollars to the store. They spend 4 dollars. What amount remains?,18,22,4
+The shopping list has 49 items. Henry crosses off 31 items. How many items remain?,18,49,31
+The shopping list has 19 items. Henry crosses off 17 items. How many items remain?,2,19,17
+The coupon saves 20 dollars. The fine print deducts 8 dollars from the savings. What is the net discount?,12,20,8
+The coupon saves 21 dollars. The fine print deducts 1 dollars from the savings. What is the net discount?,20,21,1
+The loyalty card has 20 points. Grace redeems 5 points. How many points remain?,15,20,5
+The loyalty card has 42 points. Grace redeems 32 points. How many points remain?,10,42,32
+The recipe calls for 32 grams of flour. Alexander uses 4 grams. How much flour remains?,28,32,4
+The recipe calls for 33 grams of flour. Alexander uses 5 grams. How much flour remains?,28,33,5
+"The oven needs 38 minutes to preheat. After 20 minutes, how much longer is needed?",18,38,20
+"The oven needs 9 minutes to preheat. After 7 minutes, how much longer is needed?",2,9,7
+The batch makes 30 cookies. Daniel eats 10 cookies. How many cookies remain?,20,30,10
+The batch makes 39 cookies. Daniel eats 28 cookies. How many cookies remain?,11,39,28
+"The stew requires 15 hours to cook. After 5 hours, how much cooking time remains?",10,15,5
+"The stew requires 12 hours to cook. After 4 hours, how much cooking time remains?",8,12,4
+The jar holds 28 servings. James consumes 15 servings. How many servings remain?,13,28,15
+The jar holds 46 servings. James consumes 39 servings. How many servings remain?,7,46,39
+The garden has 45 plants. William removes 15 weeds. How many desired plants remain?,30,45,15
+The garden has 18 plants. William removes 7 weeds. How many desired plants remain?,11,18,7
+The flowerbed needs 19 liters of water. Isla adds 5 liters. How much more water is needed?,14,19,5
+The flowerbed needs 12 liters of water. Isla adds 5 liters. How much more water is needed?,7,12,5
+The seed packet contains 36 seeds. Olivia plants 32 seeds. How many seeds remain?,4,36,32
+The seed packet contains 40 seeds. Olivia plants 3 seeds. How many seeds remain?,37,40,3
+"The tree grows 38 centimeters yearly. After 3 centimeters are trimmed, what is the net growth?",35,38,3
+"The tree grows 50 centimeters yearly. After 49 centimeters are trimmed, what is the net growth?",1,50,49
+The plot fits 27 vegetables. Chloe harvests 25 vegetables. How many vegetables remain?,2,27,25
+The plot fits 37 vegetables. Chloe harvests 3 vegetables. How many vegetables remain?,34,37,3
+"The phone has 25% battery. After 20% is used, what percentage remains?",5,25,20
+"The phone has 50% battery. After 32% is used, what percentage remains?",18,50,32
+The download requires 30 megabytes. 29 megabytes complete. How much data remains?,1,30,29
+The download requires 46 megabytes. 32 megabytes complete. How much data remains?,14,46,32
+The storage has 37 gigabytes free. James saves 27 gigabytes of photos. How much space remains?,10,37,27
+The storage has 34 gigabytes free. James saves 18 gigabytes of photos. How much space remains?,16,34,18
+The video is 14 minutes long. Grace watches 10 minutes. How much video remains?,4,14,10
+The video is 34 minutes long. Grace watches 9 minutes. How much video remains?,25,34,9
+The app has 33 daily uses allowed. Chloe uses it 10 times. How many uses remain?,23,33,10
+The app has 30 daily uses allowed. Chloe uses it 18 times. How many uses remain?,12,30,18
+"The game has 36 innings. After 25 innings, how many remain?",11,36,25
+"The game has 31 innings. After 30 innings, how many remain?",1,31,30
+The scoreboard shows 11 points. The referee deducts 8 points. What is the adjusted score?,3,11,8
+The scoreboard shows 34 points. The referee deducts 22 points. What is the adjusted score?,12,34,22
+The tournament has 48 rounds. James completes 10 rounds. How many rounds remain?,38,48,10
+The tournament has 28 rounds. James completes 21 rounds. How many rounds remain?,7,28,21
+The athlete needs 23 meters to win. They complete 20 meters. How much farther is needed?,3,23,20
+The athlete needs 46 meters to win. They complete 26 meters. How much farther is needed?,20,46,26
+The team has 36 timeouts. They call 3 timeouts. How many timeouts remain?,33,36,3
+The team has 17 timeouts. They call 10 timeouts. How many timeouts remain?,7,17,10
+The prescription has 20 doses. Daniel takes 12 doses. How many doses remain?,8,20,12
+The prescription has 35 doses. Daniel takes 27 doses. How many doses remain?,8,35,27
+The treatment requires 41 sessions. William attends 16 sessions. How many sessions remain?,25,41,16
+The treatment requires 42 sessions. William attends 17 sessions. How many sessions remain?,25,42,17
+The patient needs 31 milligrams of medicine. The nurse administers 29 milligrams. How much more is needed?,2,31,29
+The patient needs 20 milligrams of medicine. The nurse administers 18 milligrams. How much more is needed?,2,20,18
+"The therapy lasts 46 weeks. After 17 weeks, how much longer will it continue?",29,46,17
+"The therapy lasts 21 weeks. After 7 weeks, how much longer will it continue?",14,21,7
+The fitness goal is 19 steps daily. Ava records 1 steps. How many more steps are needed?,18,19,1
+The fitness goal is 40 steps daily. Ava records 32 steps. How many more steps are needed?,8,40,32
+The project has 30 tasks. Ava completes 2 tasks. How many tasks remain?,28,30,2
+The project has 39 tasks. Ava completes 24 tasks. How many tasks remain?,15,39,24
+"The workday is 36 hours long. After 24 hours, how much time remains?",12,36,24
+"The workday is 35 hours long. After 33 hours, how much time remains?",2,35,33
+The quota requires 50 sales. Zoe makes 15 sales. How many more are needed?,35,50,15
+The quota requires 45 sales. Zoe makes 44 sales. How many more are needed?,1,45,44
+The budget allows 27 dollars. William spends 1 dollars. How much remains?,26,27,1
+The budget allows 18 dollars. William spends 4 dollars. How much remains?,14,18,4
+"The contract lasts 32 months. After 1 months, how much time remains?",31,32,1
+"The contract lasts 41 months. After 36 months, how much time remains?",5,41,36
+"The trip covers 36 kilometers. After 9 kilometers, how much farther is the destination?",27,36,9
+"The trip covers 26 kilometers. After 15 kilometers, how much farther is the destination?",11,26,15
+"The vacation lasts 28 days. After 19 days, how many days remain?",9,28,19
+"The vacation lasts 49 days. After 47 days, how many days remain?",2,49,47
+The suitcase holds 25 kilograms. Henry packs 18 kilograms. How much more weight is allowed?,7,25,18
+The suitcase holds 43 kilograms. Henry packs 23 kilograms. How much more weight is allowed?,20,43,23
+"The itinerary includes 38 cities. After visiting 14 cities, how many remain?",24,38,14
+"The itinerary includes 16 cities. After visiting 6 cities, how many remain?",10,16,6
+"The cruise has 10 ports of call. After 7 stops, how many ports remain?",3,10,7
+"The cruise has 35 ports of call. After 8 stops, how many ports remain?",27,35,8
+The guest list has 34 people. 15 people cancel. How many attendees are expected?,19,34,15
+The guest list has 41 people. 3 people cancel. How many attendees are expected?,38,41,3
+The venue seats 43 guests. 2 seats are reserved. How many seats are open?,41,43,2
+The venue seats 27 guests. 14 seats are reserved. How many seats are open?,13,27,14
+The event budget is 40 dollars. 10 dollars are spent. How much remains?,30,40,10
+The event budget is 35 dollars. 19 dollars are spent. How much remains?,16,35,19
+"The schedule allows 43 minutes per speaker. After 42 minutes, how much time remains?",1,43,42
+"The schedule allows 37 minutes per speaker. After 14 minutes, how much time remains?",23,37,14
+The conference has 28 sessions. Jacob attends 24 sessions. How many sessions remain?,4,28,24
+The conference has 29 sessions. Jacob attends 11 sessions. How many sessions remain?,18,29,11
+The blueprint requires 32 boards. Chloe cuts 3 boards. How many more are needed?,29,32,3
+The blueprint requires 49 boards. Chloe cuts 24 boards. How many more are needed?,25,49,24
+The project needs 24 nails. The box contains 4 nails. How many additional nails are needed?,20,24,4
+The project needs 38 nails. The box contains 33 nails. How many additional nails are needed?,5,38,33
+The wall needs 29 bricks. Zoe lays 28 bricks. How many bricks remain?,1,29,28
+The wall needs 37 bricks. Zoe lays 36 bricks. How many bricks remain?,1,37,36
+"The job estimates 11 hours of labor. After 1 hours, how much work remains?",10,11,1
+"The job estimates 35 hours of labor. After 14 hours, how much work remains?",21,35,14
+The order requires 12 tiles. Thomas breaks 10 tiles. How many usable tiles remain?,2,12,10
+The order requires 28 tiles. Thomas breaks 9 tiles. How many usable tiles remain?,19,28,9
+The production line makes 33 units per hour. Maintenance removes 28 units. What is the new output?,5,33,28
+The production line makes 13 units per hour. Maintenance removes 3 units. What is the new output?,10,13,3
+The machine processes 37 items daily. 23 items complete. How many items remain?,14,37,23
+The machine processes 49 items daily. 3 items complete. How many items remain?,46,49,3
+The quality check finds 27 defects in 42 items. How many items pass inspection?,15,42,27
+The quality check finds 4 defects in 20 items. How many items pass inspection?,16,20,4
+The shipment contains 29 products. 19 products are damaged. How many are intact?,10,29,19
+The shipment contains 14 products. 13 products are damaged. How many are intact?,1,14,13
+The order requires 31 components. The bin has 25 components. How many more are needed?,6,31,25
+The order requires 38 components. The bin has 29 components. How many more are needed?,9,38,29
+The battery stores 24 kilowatt-hours. 17 kilowatt-hours are used. How much energy remains?,7,24,17
+The battery stores 25 kilowatt-hours. 10 kilowatt-hours are used. How much energy remains?,15,25,10
+The tank holds 38 liters of fuel. Daniel uses 13 liters. How much fuel remains?,25,38,13
+The tank holds 32 liters of fuel. Daniel uses 17 liters. How much fuel remains?,15,32,17
+"The generator provides 41 hours of power. After 11 hours, how much runtime remains?",30,41,11
+"The generator provides 25 hours of power. After 12 hours, how much runtime remains?",13,25,12
+The solar panel produces 45 watts daily. 25 watts are consumed. What is the net production?,20,45,25
+The solar panel produces 20 watts daily. 9 watts are consumed. What is the net production?,11,20,9
+The circuit handles 40 amps safely. 6 amps are flowing. How much additional load is possible?,34,40,6
+The circuit handles 26 amps safely. 21 amps are flowing. How much additional load is possible?,5,26,21
+The forest has 23 trees. Loggers remove 16 trees. How many trees remain?,7,23,16
+The forest has 14 trees. Loggers remove 4 trees. How many trees remain?,10,14,4
+The lake contains 45 fish. 16 fish are caught. How many fish remain?,29,45,16
+The lake contains 30 fish. 20 fish are caught. How many fish remain?,10,30,20
+The reserve protects 34 acres. Development reduces it by 27 acres. What is the current size?,7,34,27
+The reserve protects 40 acres. Development reduces it by 9 acres. What is the current size?,31,40,9
+The cleanup targets 29 tons of waste. Volunteers remove 3 tons. How much waste remains?,26,29,3
+The cleanup targets 24 tons of waste. Volunteers remove 1 tons. How much waste remains?,23,24,1
+The air quality index shows 47 particles. Filters remove 31 particles. What is the improved reading?,16,47,31
+The air quality index shows 11 particles. Filters remove 9 particles. What is the improved reading?,2,11,9
+The puzzle has 38 pieces. Jack connects 16 pieces. How many pieces remain?,22,38,16
+The puzzle has 35 pieces. Jack connects 24 pieces. How many pieces remain?,11,35,24
+The collection contains 32 coins. Jacob sells 2 coins. How many coins remain?,30,32,2
+The collection contains 42 coins. Jacob sells 25 coins. How many coins remain?,17,42,25
+The playlist has 39 songs. Sophia skips 22 songs. How many songs will play?,17,39,22
+The playlist has 23 songs. Sophia skips 21 songs. How many songs will play?,2,23,21
+The gallery displays 27 paintings. 18 paintings go on tour. How many remain on view?,9,27,18
+The gallery displays 32 paintings. 9 paintings go on tour. How many remain on view?,23,32,9
+The book has 19 pages. Nora reads 4 pages. How many pages remain?,15,19,4
+The book has 26 pages. Nora reads 11 pages. How many pages remain?,15,26,11
