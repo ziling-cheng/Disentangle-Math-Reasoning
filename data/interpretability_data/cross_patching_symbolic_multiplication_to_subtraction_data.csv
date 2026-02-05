@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has x bags with y apples in each. How many apples does Jack have total?,x,The course offers 9 credit hours. Jack drops 1 credit hours. How many credits remain?,8,9,x,y,9,1
+Jack has x bags with y apples in each. How many apples does Jack have total?,x,The course offers 17 credit hours. Jack drops 8 credit hours. How many credits remain?,9,136,x,y,17,8
+"There are x classrooms, each with y students. How many students total?",x,Amelia catches 49 fireflies. They release 35 fireflies. How many fireflies does Amelia have now?,14,1715,x,y,49,35
+"There are x classrooms, each with y students. How many students total?",x,Amelia catches 29 fireflies. They release 2 fireflies. How many fireflies does Amelia have now?,27,58,x,y,29,2
+"A baker prepares x trays, each with y cookies. What is the total number?",x,"The itinerary includes 16 cities. After visiting 9 cities, how many remain?",7,144,x,y,16,9
+"A baker prepares x trays, each with y cookies. What is the total number?",x,"The itinerary includes 37 cities. After visiting 13 cities, how many remain?",24,481,x,y,37,13
+"A book has x chapters, each with y pages. How many pages total?",x,The parking lot has 36 cars. 27 cars leave the lot. How many spaces are still occupied?,9,972,x,y,36,27
+"A book has x chapters, each with y pages. How many pages total?",x,The parking lot has 46 cars. 28 cars leave the lot. How many spaces are still occupied?,18,1288,x,y,46,28
+Each of x boxes contains y pencils. What is the total count?,x,"The train makes 15 stops. After 13 stops, how many remain on the route?",2,195,x,y,15,13
+Each of x boxes contains y pencils. What is the total count?,x,"The train makes 7 stops. After 4 stops, how many remain on the route?",3,28,x,y,7,4
+Zoe reads x pages every hour for y hours. How many pages total?,x,Zoe owns 24 paintbrushes. Their teacher collects 20 paintbrushes for cleaning. How many paintbrushes does Zoe have now?,4,480,x,y,24,20
+Zoe reads x pages every hour for y hours. How many pages total?,x,Zoe owns 48 paintbrushes. Their teacher collects 30 paintbrushes for cleaning. How many paintbrushes does Zoe have now?,18,1440,x,y,48,30
+A machine produces x widgets every minute for y minutes. What's the total?,x,The pool contains 26 gallons. Benjamin drains 3 gallons for cleaning. What volume remains?,23,78,x,y,26,3
+A machine produces x widgets every minute for y minutes. What's the total?,x,The pool contains 42 gallons. Benjamin drains 40 gallons for cleaning. What volume remains?,2,1680,x,y,42,40
+A printer prints x pages every minute. How many pages in y minutes?,x,The lake contains 47 fish. 5 fish are caught. How many fish remain?,42,235,x,y,47,5
+A printer prints x pages every minute. How many pages in y minutes?,x,The lake contains 16 fish. 13 fish are caught. How many fish remain?,3,208,x,y,16,13
+A car travels x miles every gallon. How far can it go on y gallons?,x,The bakery prepares 16 loaves. Customers purchase 14 loaves. How many loaves are left?,2,224,x,y,16,14
+A car travels x miles every gallon. How far can it go on y gallons?,x,The bakery prepares 42 loaves. Customers purchase 24 loaves. How many loaves are left?,18,1008,x,y,42,24
+William earns $x per hour and works y hours. What are the total earnings?,x,The shopping list has 19 items. William crosses off 3 items. How many items remain?,16,57,x,y,19,3
+William earns $x per hour and works y hours. What are the total earnings?,x,The shopping list has 36 items. William crosses off 16 items. How many items remain?,20,576,x,y,36,16
+A garden has x rows with y plants per row. How many plants total?,x,The project has 19 tasks. Henry completes 18 tasks. How many tasks remain?,1,342,x,y,19,18
+A garden has x rows with y plants per row. How many plants total?,x,The project has 22 tasks. Henry completes 2 tasks. How many tasks remain?,20,44,x,y,22,2
+"A parking lot has x rows, each holding y cars. How many cars total?",x,Nora collects 15 action figures. They trade away 10 figures. How many action figures does Nora have now?,5,150,x,y,15,10
+"A parking lot has x rows, each holding y cars. How many cars total?",x,Nora collects 15 action figures. They trade away 11 figures. How many action figures does Nora have now?,4,165,x,y,15,11
+A quilt has x squares along its length and y squares across. How many total?,x,Daniel owns 43 comic books. A friend borrows 30 comic books. How many comic books does Daniel have now?,13,1290,x,y,43,30
+A quilt has x squares along its length and y squares across. How many total?,x,Daniel owns 10 comic books. A friend borrows 4 comic books. How many comic books does Daniel have now?,6,40,x,y,10,4
+Each of x rows contains y desks. How many desks total?,x,Henry receives 18 stickers for good behavior. The principal revokes 14 stickers. How many stickers does Henry have now?,4,252,x,y,18,14
+Each of x rows contains y desks. How many desks total?,x,Henry receives 25 stickers for good behavior. The principal revokes 8 stickers. How many stickers does Henry have now?,17,200,x,y,25,8
+"A bookshelf has x shelves, each holding y books. How many books total?",x,Grace collects 7 acorns. Squirrels steal 1 acorns. How many acorns does Grace have now?,6,7,x,y,7,1
+"A bookshelf has x shelves, each holding y books. How many books total?",x,Grace collects 42 acorns. Squirrels steal 11 acorns. How many acorns does Grace have now?,31,462,x,y,42,11
+Tickets cost $x each. Alexander buys y tickets. What's the total cost?,x,The item costs 4 dollars. Alexander pays with 6 dollars. What is the amount to be returned?,2,24,x,y,6,4
+Tickets cost $x each. Alexander buys y tickets. What's the total cost?,x,The item costs 17 dollars. Alexander pays with 31 dollars. What is the amount to be returned?,14,527,x,y,31,17
+Each candy bag costs $x. How much for y bags?,x,The team has 48 timeouts. They call 8 timeouts. How many timeouts remain?,40,384,x,y,48,8
+Each candy bag costs $x. How much for y bags?,x,The team has 50 timeouts. They call 18 timeouts. How many timeouts remain?,32,900,x,y,50,18
+A toy is priced at $x each. How much for y toys?,x,The farm has 20 chickens. Henry sells 14 chickens at market. How many chickens remain?,6,280,x,y,20,14
+A toy is priced at $x each. How much for y toys?,x,The farm has 34 chickens. Henry sells 7 chickens at market. How many chickens remain?,27,238,x,y,34,7
+Apples cost $x per apple. How much for y apples?,x,"Jacob's account shows 42 dollars. After a purchase of 33 dollars, what is the current balance?",9,1386,x,y,42,33
+Apples cost $x per apple. How much for y apples?,x,"Jacob's account shows 11 dollars. After a purchase of 6 dollars, what is the current balance?",5,66,x,y,11,6
+A subscription costs $x monthly. What's the cost for y months?,x,The quality check finds 1 defects in 35 items. How many items pass inspection?,34,35,x,y,35,1
+A subscription costs $x monthly. What's the cost for y months?,x,The quality check finds 2 defects in 33 items. How many items pass inspection?,31,66,x,y,33,2
+A car drives x miles every hour for y hours. How far does it go?,x,Nathan has 21 hockey pucks. Their teammate borrows 8 hockey pucks. How many hockey pucks does Nathan have now?,13,168,x,y,21,8
+A car drives x miles every hour for y hours. How far does it go?,x,Nathan has 38 hockey pucks. Their teammate borrows 6 hockey pucks. How many hockey pucks does Nathan have now?,32,228,x,y,38,6
+A plane flies x miles per hour. How far in y hours?,x,The wall needs 6 bricks. Benjamin lays 5 bricks. How many bricks remain?,1,30,x,y,6,5
+A plane flies x miles per hour. How far in y hours?,x,The wall needs 44 bricks. Benjamin lays 31 bricks. How many bricks remain?,13,1364,x,y,44,31
+A runner maintains x km every hour. How far in y hours?,x,Nora owns 35 tennis balls. The club replaces 28 old tennis balls. How many tennis balls does Nora have now?,7,980,x,y,35,28
+A runner maintains x km every hour. How far in y hours?,x,Nora owns 50 tennis balls. The club replaces 47 old tennis balls. How many tennis balls does Nora have now?,3,2350,x,y,50,47
+A train travels x kilometers per hour. How far does it go in y hours?,x,"The job estimates 21 hours of labor. After 13 hours, how much work remains?",8,273,x,y,21,13
+A train travels x kilometers per hour. How far does it go in y hours?,x,"The job estimates 25 hours of labor. After 15 hours, how much work remains?",10,375,x,y,25,15
+A cyclist averages x miles every hour. How far in y hours?,x,The machine processes 39 items daily. 15 items complete. How many items remain?,24,585,x,y,39,15
+A cyclist averages x miles every hour. How far in y hours?,x,The machine processes 6 items daily. 1 items complete. How many items remain?,5,6,x,y,6,1
+A recipe requires x cups of flour per batch. Chloe makes y batches. How much flour?,x,The puzzle has 17 pieces. Chloe connects 9 pieces. How many pieces remain?,8,153,x,y,17,9
+A recipe requires x cups of flour per batch. Chloe makes y batches. How much flour?,x,The puzzle has 10 pieces. Chloe connects 8 pieces. How many pieces remain?,2,80,x,y,10,8
+Each cake needs x eggs. How many eggs for y cakes?,x,"The therapy lasts 28 weeks. After 7 weeks, how much longer will it continue?",21,196,x,y,28,7
+Each cake needs x eggs. How many eggs for y cakes?,x,"The therapy lasts 44 weeks. After 28 weeks, how much longer will it continue?",16,1232,x,y,44,28
+Cookies require x chips per cookie. How many chips for y cookies?,x,The cleanup targets 31 tons of waste. Volunteers remove 28 tons. How much waste remains?,3,868,x,y,31,28
+Cookies require x chips per cookie. How many chips for y cookies?,x,The cleanup targets 45 tons of waste. Volunteers remove 42 tons. How much waste remains?,3,1890,x,y,45,42
+Each serving requires x ounces. How much for y servings?,x,Isla saves 27 coins. Their piggybank loses 24 coins. How many coins does Isla have now?,3,648,x,y,27,24
+Each serving requires x ounces. How much for y servings?,x,Isla saves 14 coins. Their piggybank loses 9 coins. How many coins does Isla have now?,5,126,x,y,14,9
+Punch needs x liters per bowl. How much for y bowls?,x,Henry has 13 crayons. Their art set is missing 5 crayons. How many crayons does Henry have now?,8,65,x,y,13,5
+Punch needs x liters per bowl. How much for y bowls?,x,Henry has 37 crayons. Their art set is missing 7 crayons. How many crayons does Henry have now?,30,259,x,y,37,7
+Isla earns $x per hour. How much for y hours?,x,Isla makes 50 sandwiches. Their friends eat 16 sandwiches. How many sandwiches does Isla have now?,34,800,x,y,50,16
+Isla earns $x per hour. How much for y hours?,x,Isla makes 33 sandwiches. Their friends eat 31 sandwiches. How many sandwiches does Isla have now?,2,1023,x,y,33,31
+Workers are paid $x per item. How much for y items?,x,James finds 26 seashells at the beach. The tide washes away 1 seashells. How many seashells does James have now?,25,26,x,y,26,1
+Workers are paid $x per item. How much for y items?,x,James finds 31 seashells at the beach. The tide washes away 10 seashells. How many seashells does James have now?,21,310,x,y,31,10
+Each project pays $x. What's the income from y projects?,x,"The store stocks 37 phones. By closing, 32 phones are sold. What is the remaining inventory?",5,1184,x,y,37,32
+Each project pays $x. What's the income from y projects?,x,"The store stocks 20 phones. By closing, 7 phones are sold. What is the remaining inventory?",13,140,x,y,20,7
+A consultant charges $x daily. What's the cost for y days?,x,Harper has 5 building blocks. Their sibling takes 4 blocks from their tower. How many blocks does Harper have now?,1,20,x,y,5,4
+A consultant charges $x daily. What's the cost for y days?,x,Harper has 13 building blocks. Their sibling takes 2 blocks from their tower. How many blocks does Harper have now?,11,26,x,y,13,2
+Overtime pays $x per hour. How much for y overtime hours?,x,Benjamin has 17 hats. Their collection decreases by 13 hats. How many hats does Benjamin have now?,4,221,x,y,17,13
+Overtime pays $x per hour. How much for y overtime hours?,x,Benjamin has 39 hats. Their collection decreases by 3 hats. How many hats does Benjamin have now?,36,117,x,y,39,3
+Each crate holds x oranges. How many oranges in y crates?,x,The collection contains 44 coins. Michael sells 38 coins. How many coins remain?,6,1672,x,y,44,38
+Each crate holds x oranges. How many oranges in y crates?,x,The collection contains 22 coins. Michael sells 9 coins. How many coins remain?,13,198,x,y,22,9
+Egg cartons contain x eggs each. How many eggs in y cartons?,x,The concert starts in 43 minutes. Thomas needs 20 minutes to get ready. What is the latest possible departure time?,23,860,x,y,43,20
+Egg cartons contain x eggs each. How many eggs in y cartons?,x,The concert starts in 50 minutes. Thomas needs 5 minutes to get ready. What is the latest possible departure time?,45,250,x,y,50,5
+Jars contain x marbles each. How many marbles in y jars?,x,Daniel has 18 basketballs. Their team donates 5 basketballs. How many basketballs does Daniel have now?,13,90,x,y,18,5
+Jars contain x marbles each. How many marbles in y jars?,x,Daniel has 17 basketballs. Their team donates 12 basketballs. How many basketballs does Daniel have now?,5,204,x,y,17,12
+Cases hold x bottles each. How many bottles in y cases?,x,Amelia collects 36 mangoes. They share 20 mangoes with their neighbor. How many mangoes does Amelia have now?,16,720,x,y,36,20
+Cases hold x bottles each. How many bottles in y cases?,x,Amelia collects 44 mangoes. They share 7 mangoes with their neighbor. How many mangoes does Amelia have now?,37,308,x,y,44,7
+Packets have x seeds each. How many seeds in y packets?,x,Amelia has 37 sketchbooks. Their parents archive 10 old sketchbooks. How many sketchbooks does Amelia have now?,27,370,x,y,37,10
+Packets have x seeds each. How many seeds in y packets?,x,Amelia has 40 sketchbooks. Their parents archive 14 old sketchbooks. How many sketchbooks does Amelia have now?,26,560,x,y,40,14
+Tasks take x minutes each. How long for y tasks?,x,The reserve protects 45 acres. Development reduces it by 41 acres. What is the current size?,4,1845,x,y,45,41
+Tasks take x minutes each. How long for y tasks?,x,The reserve protects 33 acres. Development reduces it by 17 acres. What is the current size?,16,561,x,y,33,17
+A process takes x hours per unit. How long for y units?,x,The recipe calls for 19 grams of flour. William uses 2 grams. How much flour remains?,17,38,x,y,19,2
+A process takes x hours per unit. How long for y units?,x,The recipe calls for 37 grams of flour. William uses 1 grams. How much flour remains?,36,37,x,y,37,1
+Questions take x minutes each. How long for y questions?,x,"The oven needs 39 minutes to preheat. After 36 minutes, how much longer is needed?",3,1404,x,y,39,36
+Questions take x minutes each. How long for y questions?,x,"The oven needs 10 minutes to preheat. After 1 minutes, how much longer is needed?",9,10,x,y,10,1
+A machine processes x items per hour. How many can it do in y hours?,x,"Amelia counts 17 birds in the morning. By afternoon, 4 birds fly away. How many birds does Amelia see now?",13,68,x,y,17,4
+A machine processes x items per hour. How many can it do in y hours?,x,"Amelia counts 28 birds in the morning. By afternoon, 20 birds fly away. How many birds does Amelia see now?",8,560,x,y,28,20
+Customers take x minutes each to serve. How long for y customers?,x,Olivia owns 17 toy cars. They donate 6 toy cars to charity. How many toy cars does Olivia have now?,11,102,x,y,17,6
+Customers take x minutes each to serve. How long for y customers?,x,Olivia owns 49 toy cars. They donate 22 toy cars to charity. How many toy cars does Olivia have now?,27,1078,x,y,49,22
+A team scores x points per game. How many points in y games?,x,Daniel brings 49 dollars to the store. They spend 16 dollars. What amount remains?,33,784,x,y,49,16
+A team scores x points per game. How many points in y games?,x,Daniel brings 46 dollars to the store. They spend 7 dollars. What amount remains?,39,322,x,y,46,7
+A player averages x rebounds per game. How many in y games?,x,The shipment contains 32 products. 8 products are damaged. How many are intact?,24,256,x,y,32,8
+A player averages x rebounds per game. How many in y games?,x,The shipment contains 24 products. 10 products are damaged. How many are intact?,14,240,x,y,24,10
+Innings average x runs each. How many runs in y innings?,x,"The generator provides 44 hours of power. After 13 hours, how much runtime remains?",31,572,x,y,44,13
+Innings average x runs each. How many runs in y innings?,x,"The generator provides 19 hours of power. After 12 hours, how much runtime remains?",7,228,x,y,19,12
+A player makes x free throws per game. How many in y games?,x,"The bus has 23 passengers. At the stop, 1 passengers exit. How many continue the ride?",22,23,x,y,23,1
+A player makes x free throws per game. How many in y games?,x,"The bus has 13 passengers. At the stop, 10 passengers exit. How many continue the ride?",3,130,x,y,13,10
+A team allows x goals per match. How many in y matches?,x,The fitness goal is 24 steps daily. Daniel records 11 steps. How many more steps are needed?,13,264,x,y,24,11
+A team allows x goals per match. How many in y matches?,x,The fitness goal is 34 steps daily. Daniel records 8 steps. How many more steps are needed?,26,272,x,y,34,8
+Matthew creates x paintings every month. How many paintings will be completed after y months?,x,The download requires 47 megabytes. 28 megabytes complete. How much data remains?,19,1316,x,y,47,28
+Matthew creates x paintings every month. How many paintings will be completed after y months?,x,The download requires 41 megabytes. 21 megabytes complete. How much data remains?,20,861,x,y,41,21
+Each sculpture requires x pounds of clay. How much clay is needed to make y sculptures?,x,The prescription has 21 doses. Lily takes 17 doses. How many doses remain?,4,357,x,y,21,17
+Each sculpture requires x pounds of clay. How much clay is needed to make y sculptures?,x,The prescription has 22 doses. Lily takes 13 doses. How many doses remain?,9,286,x,y,22,13
+The dance troupe performs x shows in each city. How many shows will they perform on a y-city tour?,x,The warehouse has 28 boxes. Jacob ships out 22 boxes. How many boxes remain stored?,6,616,x,y,28,22
+The dance troupe performs x shows in each city. How many shows will they perform on a y-city tour?,x,The warehouse has 49 boxes. Jacob ships out 12 boxes. How many boxes remain stored?,37,588,x,y,49,12
+Each art class uses x paint tubes weekly. How many tubes are needed for y classes?,x,Ava has 29 apples. Their friend takes 26 apples. How many apples does Ava have now?,3,754,x,y,29,26
+Each art class uses x paint tubes weekly. How many tubes are needed for y classes?,x,Ava has 31 apples. Their friend takes 15 apples. How many apples does Ava have now?,16,465,x,y,31,15
+Henry writes x poetry lines daily. How many lines will be written in y consecutive days?,x,The event budget is 34 dollars. 31 dollars are spent. How much remains?,3,1054,x,y,34,31
+Henry writes x poetry lines daily. How many lines will be written in y consecutive days?,x,The event budget is 44 dollars. 6 dollars are spent. How much remains?,38,264,x,y,44,6
+Each theater seat needs x yards of fabric. How much fabric is required for y seats?,x,The library has 45 available books. Harper checks out 20 books. How many stay on shelves?,25,900,x,y,45,20
+Each theater seat needs x yards of fabric. How much fabric is required for y seats?,x,The library has 41 available books. Harper checks out 5 books. How many stay on shelves?,36,205,x,y,41,5
+The band sells x albums per concert. How many albums will they sell at y concerts?,x,Ethan brings 42 soccer balls to practice. The league redistributes 37 soccer balls. How many soccer balls does Ethan have now?,5,1554,x,y,42,37
+The band sells x albums per concert. How many albums will they sell at y concerts?,x,Ethan brings 46 soccer balls to practice. The league redistributes 25 soccer balls. How many soccer balls does Ethan have now?,21,1150,x,y,46,25
+Each mosaic tile covers x square inches. How much area can y tiles cover?,x,Emma has 46 t-shirts. Their laundry loses 1 t-shirts. How many t-shirts does Emma have now?,45,46,x,y,46,1
+Each mosaic tile covers x square inches. How much area can y tiles cover?,x,Emma has 29 t-shirts. Their laundry loses 8 t-shirts. How many t-shirts does Emma have now?,21,232,x,y,29,8
+The film crew shoots x scenes daily. How many scenes will they capture in y days?,x,Ella has 31 pairs of shoes. Their family replaces 2 old pairs of shoes. How many pairs of shoes does Ella have now?,29,62,x,y,31,2
+The film crew shoots x scenes daily. How many scenes will they capture in y days?,x,Ella has 9 pairs of shoes. Their family replaces 8 old pairs of shoes. How many pairs of shoes does Ella have now?,1,72,x,y,9,8
+Each jewelry box holds x rings. How many rings can be stored in y boxes?,x,The container holds 50 liters. Nathan pours out 29 liters. What is the remaining capacity?,21,1450,x,y,50,29
+Each jewelry box holds x rings. How many rings can be stored in y boxes?,x,The container holds 29 liters. Nathan pours out 27 liters. What is the remaining capacity?,2,783,x,y,29,27
+The beehive produces x ounces of honey daily. What will be the total production after y days?,x,"The schedule allows 30 minutes per speaker. After 9 minutes, how much time remains?",21,270,x,y,30,9
+The beehive produces x ounces of honey daily. What will be the total production after y days?,x,"The schedule allows 35 minutes per speaker. After 32 minutes, how much time remains?",3,1120,x,y,35,32
+Each rainforest tree hosts x epiphyte species. How many species would be found on y trees?,x,Michael buys 30 juice boxes. Their classmates drink 3 juice boxes. How many juice boxes does Michael have now?,27,90,x,y,30,3
+Each rainforest tree hosts x epiphyte species. How many species would be found on y trees?,x,Michael buys 23 juice boxes. Their classmates drink 11 juice boxes. How many juice boxes does Michael have now?,12,253,x,y,23,11
+The volcano erupts x tons of ash hourly. How much ash will be ejected in y hours?,x,Benjamin has 26 baseballs. Their coach takes 23 baseballs for practice. How many baseballs does Benjamin have now?,3,598,x,y,26,23
+The volcano erupts x tons of ash hourly. How much ash will be ejected in y hours?,x,Benjamin has 36 baseballs. Their coach takes 30 baseballs for practice. How many baseballs does Benjamin have now?,6,1080,x,y,36,30
+Each tide pool contains x hermit crabs. How many crabs would be in y pools?,x,James has 28 candies in their bag. Their teacher takes 13 candies. How many candies does James have now?,15,364,x,y,28,13
+Each tide pool contains x hermit crabs. How many crabs would be in y pools?,x,James has 50 candies in their bag. Their teacher takes 37 candies. How many candies does James have now?,13,1850,x,y,50,37
+The glacier recedes x inches daily. How much will it shrink after y days?,x,The plot fits 28 vegetables. Grace harvests 18 vegetables. How many vegetables remain?,10,504,x,y,28,18
+The glacier recedes x inches daily. How much will it shrink after y days?,x,The plot fits 36 vegetables. Grace harvests 15 vegetables. How many vegetables remain?,21,540,x,y,36,15
+The meteor shower produces x meteors hourly. How many might be seen during y hours?,x,Sophia reads 29 chapter books. Their school collects 16 chapter books for inventory. How many chapter books does Sophia have now?,13,464,x,y,29,16
+The meteor shower produces x meteors hourly. How many might be seen during y hours?,x,Sophia reads 23 chapter books. Their school collects 22 chapter books for inventory. How many chapter books does Sophia have now?,1,506,x,y,23,22
+The sunflower grows x inches weekly. How tall will it be after y weeks?,x,"The phone has 39% battery. After 37% is used, what percentage remains?",2,1443,x,y,39,37
+The sunflower grows x inches weekly. How tall will it be after y weeks?,x,"The phone has 29% battery. After 5% is used, what percentage remains?",24,145,x,y,29,5
+Each coral reef supports x fish species. How many species might exist across y reefs?,x,The suitcase holds 18 kilograms. Isla packs 13 kilograms. How much more weight is allowed?,5,234,x,y,18,13
+Each coral reef supports x fish species. How many species might exist across y reefs?,x,The suitcase holds 23 kilograms. Isla packs 13 kilograms. How much more weight is allowed?,10,299,x,y,23,13
+The thunderstorm produces x lightning flashes per minute. How many flashes in y minutes?,x,Alexander collects 24 bottle caps. Their friend takes 8 bottle caps for a project. How many bottle caps does Alexander have now?,16,192,x,y,24,8
+The thunderstorm produces x lightning flashes per minute. How many flashes in y minutes?,x,Alexander collects 43 bottle caps. Their friend takes 3 bottle caps for a project. How many bottle caps does Alexander have now?,40,129,x,y,43,3
+Each mushroom colony expands x square feet daily. How much area would y colonies cover?,x,The storage has 14 gigabytes free. Henry saves 1 gigabytes of photos. How much space remains?,13,14,x,y,14,1
+Each mushroom colony expands x square feet daily. How much area would y colonies cover?,x,The storage has 32 gigabytes free. Henry saves 22 gigabytes of photos. How much space remains?,10,704,x,y,32,22
+The server handles x requests per second. How many requests in y seconds?,x,The budget allows 25 dollars. Matthew spends 6 dollars. How much remains?,19,150,x,y,25,6
+The server handles x requests per second. How many requests in y seconds?,x,The budget allows 49 dollars. Matthew spends 46 dollars. How much remains?,3,2254,x,y,49,46
+Each smartphone has xGB storage. How much total storage for y phones?,x,Thomas collects 38 colored pencils. A set gets damaged and loses 25 colored pencils. How many colored pencils does Thomas have now?,13,950,x,y,38,25
+Each smartphone has xGB storage. How much total storage for y phones?,x,Thomas collects 14 colored pencils. A set gets damaged and loses 2 colored pencils. How many colored pencils does Thomas have now?,12,28,x,y,14,2
+The download speed is x MB per second. How much data will download in y seconds?,x,The solar panel produces 46 watts daily. 20 watts are consumed. What is the net production?,26,920,x,y,46,20
+The download speed is x MB per second. How much data will download in y seconds?,x,The solar panel produces 29 watts daily. 22 watts are consumed. What is the net production?,7,638,x,y,29,22
+Each robot assembles x components hourly. How many components can y robots assemble?,x,The scoreboard shows 33 points. The referee deducts 7 points. What is the adjusted score?,26,231,x,y,33,7
+Each robot assembles x components hourly. How many components can y robots assemble?,x,The scoreboard shows 42 points. The referee deducts 30 points. What is the adjusted score?,12,1260,x,y,42,30
+Each server rack uses x kilowatts. What's the total power for y racks?,x,"The building is 35 feet tall. The top floor is removed, reducing height by 18 feet. What is the current height?",17,630,x,y,35,18
+Each server rack uses x kilowatts. What's the total power for y racks?,x,"The building is 32 feet tall. The top floor is removed, reducing height by 15 feet. What is the current height?",17,480,x,y,32,15
+Each software update takes x minutes. How long will y updates take?,x,The loyalty card has 22 points. Emma redeems 8 points. How many points remain?,14,176,x,y,22,8
+Each software update takes x minutes. How long will y updates take?,x,The loyalty card has 30 points. Emma redeems 8 points. How many points remain?,22,240,x,y,30,8
+The fiber cable transmits x TB per hour. How much data in y hours?,x,The gallery displays 41 paintings. 25 paintings go on tour. How many remain on view?,16,1025,x,y,41,25
+The fiber cable transmits x TB per hour. How much data in y hours?,x,The gallery displays 13 paintings. 8 paintings go on tour. How many remain on view?,5,104,x,y,13,8
+Each smartwatch tracks x health metrics. How many metrics for y watches?,x,"The flight duration is 18 hours. After 11 hours in the air, how much longer until landing?",7,198,x,y,18,11
+Each smartwatch tracks x health metrics. How many metrics for y watches?,x,"The flight duration is 35 hours. After 13 hours in the air, how much longer until landing?",22,455,x,y,35,13
+The 3D printer makes x layers per minute. How many layers in y minutes?,x,Nathan has 28 pencils. The teacher collects 16 pencils. How many pencils does Nathan have now?,12,448,x,y,28,16
+The 3D printer makes x layers per minute. How many layers in y minutes?,x,Nathan has 43 pencils. The teacher collects 32 pencils. How many pencils does Nathan have now?,11,1376,x,y,43,32
+Each VR headset needs x sensors. How many sensors for y headsets?,x,"The tree grows 16 centimeters yearly. After 7 centimeters are trimmed, what is the net growth?",9,112,x,y,16,7
+Each VR headset needs x sensors. How many sensors for y headsets?,x,"The tree grows 21 centimeters yearly. After 19 centimeters are trimmed, what is the net growth?",2,399,x,y,21,19
+The ferry transports x vehicles per trip. How many vehicles can it carry in y trips?,x,"The workday is 35 hours long. After 23 hours, how much time remains?",12,805,x,y,35,23
+The ferry transports x vehicles per trip. How many vehicles can it carry in y trips?,x,"The workday is 37 hours long. After 22 hours, how much time remains?",15,814,x,y,37,22
+Each airplane seat weighs x pounds. What is the total weight of y seats?,x,Amelia owns 18 video games. The store recalls 8 video games. How many video games does Amelia have now?,10,144,x,y,18,8
+Each airplane seat weighs x pounds. What is the total weight of y seats?,x,Amelia owns 50 video games. The store recalls 45 video games. How many video games does Amelia have now?,5,2250,x,y,50,45
+A subway train arrives every x minutes. How many arrivals will there be in y minutes?,x,James has 49 storybooks. The library recalls 31 storybooks. How many storybooks does James have now?,18,1519,x,y,49,31
+A subway train arrives every x minutes. How many arrivals will there be in y minutes?,x,James has 40 storybooks. The library recalls 19 storybooks. How many storybooks does James have now?,21,760,x,y,40,19
+Each scooter travels x miles per charge. How far can y scooters travel?,x,The item originally costs 20 dollars. The discount reduces it by 8 dollars. What is the sale price?,12,160,x,y,20,8
+Each scooter travels x miles per charge. How far can y scooters travel?,x,The item originally costs 47 dollars. The discount reduces it by 35 dollars. What is the sale price?,12,1645,x,y,47,35
+The cargo ship loads x containers hourly. How many containers can it load in y hours?,x,The plane has 20 empty seats. 5 standby passengers are accommodated. How many seats remain?,15,100,x,y,20,5
+The cargo ship loads x containers hourly. How many containers can it load in y hours?,x,The plane has 30 empty seats. 11 standby passengers are accommodated. How many seats remain?,19,330,x,y,30,11
+Each bicycle wheel requires x spokes. How many spokes are needed for y wheels?,x,Charlotte has 32 clay pots. Their art class breaks 4 clay pots. How many clay pots does Charlotte have now?,28,128,x,y,32,4
+Each bicycle wheel requires x spokes. How many spokes are needed for y wheels?,x,Charlotte has 38 clay pots. Their art class breaks 4 clay pots. How many clay pots does Charlotte have now?,34,152,x,y,38,4
+The toll booth processes x cars per minute. How many cars can pass in y minutes?,x,"The contract lasts 38 months. After 20 months, how much time remains?",18,760,x,y,38,20
+The toll booth processes x cars per minute. How many cars can pass in y minutes?,x,"The contract lasts 41 months. After 15 months, how much time remains?",26,615,x,y,41,15
+Each train carriage has x seats. How many seats are in y carriages?,x,Ella finds 30 erasers in their desk. They lose 10 erasers. How many erasers does Ella have now?,20,300,x,y,30,10
+Each train carriage has x seats. How many seats are in y carriages?,x,Ella finds 41 erasers in their desk. They lose 4 erasers. How many erasers does Ella have now?,37,164,x,y,41,4
+The helicopter uses x gallons of fuel hourly. How much fuel will it use in y hours?,x,Henry wears 15 jackets. Their closet donates 5 jackets. How many jackets does Henry have now?,10,75,x,y,15,5
+The helicopter uses x gallons of fuel hourly. How much fuel will it use in y hours?,x,Henry wears 13 jackets. Their closet donates 9 jackets. How many jackets does Henry have now?,4,117,x,y,13,9
+Each electric vehicle charges at x kW. What's the total power needed for y vehicles?,x,The exam has 28 questions. Michael answers 15 questions. How many questions remain?,13,420,x,y,28,15
+Each electric vehicle charges at x kW. What's the total power needed for y vehicles?,x,The exam has 32 questions. Michael answers 10 questions. How many questions remain?,22,320,x,y,32,10
+The Mars rover travels x meters daily. How far will it go in y days?,x,The video is 45 minutes long. William watches 15 minutes. How much video remains?,30,675,x,y,45,15
+The Mars rover travels x meters daily. How far will it go in y days?,x,The video is 29 minutes long. William watches 4 minutes. How much video remains?,25,116,x,y,29,4
+Each astronaut consumes x pounds of food weekly. How much food is needed for y weeks?,x,The guest list has 19 people. 5 people cancel. How many attendees are expected?,14,95,x,y,19,5
+Each astronaut consumes x pounds of food weekly. How much food is needed for y weeks?,x,The guest list has 40 people. 37 people cancel. How many attendees are expected?,3,1480,x,y,40,37
+The satellite completes x orbits daily. How many orbits in y days?,x,The coupon saves 36 dollars. The fine print deducts 32 dollars from the savings. What is the net discount?,4,1152,x,y,36,32
+The satellite completes x orbits daily. How many orbits in y days?,x,The coupon saves 22 dollars. The fine print deducts 20 dollars from the savings. What is the net discount?,2,440,x,y,22,20
+Each spacewalk requires x hours of prep. How much prep time for y spacewalks?,x,The order requires 38 components. The bin has 3 components. How many more are needed?,35,114,x,y,38,3
+Each spacewalk requires x hours of prep. How much prep time for y spacewalks?,x,The order requires 28 components. The bin has 23 components. How many more are needed?,5,644,x,y,28,23
+The rocket burns x tons of fuel per minute. How much fuel will it use in y minutes?,x,The battery stores 27 kilowatt-hours. 25 kilowatt-hours are used. How much energy remains?,2,675,x,y,27,25
+The rocket burns x tons of fuel per minute. How much fuel will it use in y minutes?,x,The battery stores 31 kilowatt-hours. 3 kilowatt-hours are used. How much energy remains?,28,93,x,y,31,3
+Each lunar module carries x instruments. How many instruments can y modules carry?,x,The jar holds 25 servings. Mia consumes 20 servings. How many servings remain?,5,500,x,y,25,20
+Each lunar module carries x instruments. How many instruments can y modules carry?,x,The jar holds 42 servings. Mia consumes 29 servings. How many servings remain?,13,1218,x,y,42,29
+The telescope captures x images per orbit. How many images in y orbits?,x,Daniel has 30 markers. Their art teacher removes 29 markers from their collection. How many markers does Daniel have now?,1,870,x,y,30,29
+The telescope captures x images per orbit. How many images in y orbits?,x,Daniel has 42 markers. Their art teacher removes 39 markers from their collection. How many markers does Daniel have now?,3,1638,x,y,42,39
+Each asteroid sample weighs x grams. What is the total weight of y samples?,x,Chloe has 37 board games. Their family gives away 27 board games. How many board games does Chloe have now?,10,999,x,y,37,27
+Each asteroid sample weighs x grams. What is the total weight of y samples?,x,Chloe has 28 board games. Their family gives away 27 board games. How many board games does Chloe have now?,1,756,x,y,28,27
+The spaceship's shield blocks x radiation units hourly. How much radiation can it block in y hours?,x,"The cruise has 14 ports of call. After 10 stops, how many ports remain?",4,140,x,y,14,10
+The spaceship's shield blocks x radiation units hourly. How much radiation can it block in y hours?,x,"The cruise has 48 ports of call. After 20 stops, how many ports remain?",28,960,x,y,48,20
+Each Mars transmission takes x minutes. How long will y transmissions take?,x,The blueprint requires 33 boards. Benjamin cuts 10 boards. How many more are needed?,23,330,x,y,33,10
+Each Mars transmission takes x minutes. How long will y transmissions take?,x,The blueprint requires 32 boards. Benjamin cuts 12 boards. How many more are needed?,20,384,x,y,32,12
+Each magic potion needs x dragon scales. How many scales for y potions?,x,Ella grows 36 strawberries. 25 strawberries get eaten by birds. How many strawberries does Ella have now?,11,900,x,y,36,25
+Each magic potion needs x dragon scales. How many scales for y potions?,x,Ella grows 22 strawberries. 16 strawberries get eaten by birds. How many strawberries does Ella have now?,6,352,x,y,22,16
+The dungeon has x traps per level. How many traps in y levels?,x,Henry plants 11 flowers. A storm damages 8 flowers. How many flowers does Henry have now?,3,88,x,y,11,8
+The dungeon has x traps per level. How many traps in y levels?,x,Henry plants 30 flowers. A storm damages 4 flowers. How many flowers does Henry have now?,26,120,x,y,30,4
+Each spell costs x mana points. How much mana to cast y spells?,x,Benjamin has 48 picture books. Their relative asks for 10 picture books back. How many picture books does Benjamin have now?,38,480,x,y,48,10
+Each spell costs x mana points. How much mana to cast y spells?,x,Benjamin has 11 picture books. Their relative asks for 2 picture books back. How many picture books does Benjamin have now?,9,22,x,y,11,2
+The character earns x XP per quest. How much XP from y quests?,x,The textbook has 23 chapters. Charlotte studies 20 chapters. How many chapters remain?,3,460,x,y,23,20
+The character earns x XP per quest. How much XP from y quests?,x,The textbook has 43 chapters. Charlotte studies 6 chapters. How many chapters remain?,37,258,x,y,43,6
+Each treasure chest holds x coins. How many coins in y chests?,x,The tank holds 36 liters of fuel. Amelia uses 3 liters. How much fuel remains?,33,108,x,y,36,3
+Each treasure chest holds x coins. How many coins in y chests?,x,The tank holds 16 liters of fuel. Amelia uses 12 liters. How much fuel remains?,4,192,x,y,16,12
+The castle has x passages per tower. How many passages in y towers?,x,Grace brings 20 notebooks to class. A classmate borrows 12 notebooks. How many notebooks does Grace have now?,8,240,x,y,20,12
+The castle has x passages per tower. How many passages in y towers?,x,Grace brings 38 notebooks to class. A classmate borrows 12 notebooks. How many notebooks does Grace have now?,26,456,x,y,38,12
+Each monster drops x items. How many items from y monsters?,x,The quota requires 41 sales. Matthew makes 16 sales. How many more are needed?,25,656,x,y,41,16
+Each monster drops x items. How many items from y monsters?,x,The quota requires 31 sales. Matthew makes 9 sales. How many more are needed?,22,279,x,y,31,9
+The spellbook has x pages per chapter. How many pages in y chapters?,x,"The game has 31 innings. After 29 innings, how many remain?",2,899,x,y,31,29
+The spellbook has x pages per chapter. How many pages in y chapters?,x,"The game has 12 innings. After 2 innings, how many remain?",10,24,x,y,12,2
+Each puzzle takes x moves to solve. How many moves for y puzzles?,x,Thomas buys 46 bananas. The cashier takes back 17 bananas. How many bananas does Thomas have now?,29,782,x,y,46,17
+Each puzzle takes x moves to solve. How many moves for y puzzles?,x,Thomas buys 8 bananas. The cashier takes back 2 bananas. How many bananas does Thomas have now?,6,16,x,y,8,2
+The game loads x textures per second. How many textures in y seconds?,x,"The package weighs 19 kilograms. After removing 1 kilograms, what is the current weight?",18,19,x,y,19,1
+The game loads x textures per second. How many textures in y seconds?,x,"The package weighs 40 kilograms. After removing 23 kilograms, what is the current weight?",17,920,x,y,40,23
+Each pyramid block weighs x tons. What is the total weight of y blocks?,x,Lucas practices piano for 30 minutes daily. Today they stopped after 2 minutes. How much practice was skipped?,28,60,x,y,30,2
+Each pyramid block weighs x tons. What is the total weight of y blocks?,x,Lucas practices piano for 48 minutes daily. Today they stopped after 9 minutes. How much practice was skipped?,39,432,x,y,48,9
+The scribe copies x pages daily. How many pages in y days?,x,The project needs 36 nails. The box contains 24 nails. How many additional nails are needed?,12,864,x,y,36,24
+The scribe copies x pages daily. How many pages in y days?,x,The project needs 18 nails. The box contains 16 nails. How many additional nails are needed?,2,288,x,y,18,16
+Each Viking ship carries x warriors. How many warriors can y ships carry?,x,Amelia has 50 minutes to complete a task. The timer shows 15 minutes have passed. What is the current remaining time?,35,750,x,y,50,15
+Each Viking ship carries x warriors. How many warriors can y ships carry?,x,Amelia has 27 minutes to complete a task. The timer shows 26 minutes have passed. What is the current remaining time?,1,702,x,y,27,26
+The castle requires x stones per wall. How many stones for y walls?,x,"The trip covers 27 kilometers. After 1 kilometers, how much farther is the destination?",26,27,x,y,27,1
+The castle requires x stones per wall. How many stones for y walls?,x,"The trip covers 31 kilometers. After 12 kilometers, how much farther is the destination?",19,372,x,y,31,12
+Each Roman road segment is x miles long. How long is a road with y segments?,x,Mia has 32 keys on their keychain. They remove 1 keys. How many keys does Mia have now?,31,32,x,y,32,1
+Each Roman road segment is x miles long. How long is a road with y segments?,x,Mia has 43 keys on their keychain. They remove 27 keys. How many keys does Mia have now?,16,1161,x,y,43,27
+The revolution gains x supporters daily. How many supporters in y days?,x,The circuit handles 36 amps safely. 9 amps are flowing. How much additional load is possible?,27,324,x,y,36,9
+The revolution gains x supporters daily. How many supporters in y days?,x,The circuit handles 25 amps safely. 22 amps are flowing. How much additional load is possible?,3,550,x,y,25,22
+Each samurai sword takes x hours to forge. How long to forge y swords?,x,The rope measures 28 meters. Lily cuts off 19 meters. What length remains?,9,532,x,y,28,19
+Each samurai sword takes x hours to forge. How long to forge y swords?,x,The rope measures 33 meters. Lily cuts off 27 meters. What length remains?,6,891,x,y,33,27
+The caravan travels x miles daily. How far will it go in y days?,x,The playlist has 25 songs. Grace skips 18 songs. How many songs will play?,7,450,x,y,25,18
+The caravan travels x miles daily. How far will it go in y days?,x,The playlist has 19 songs. Grace skips 7 songs. How many songs will play?,12,133,x,y,19,7
+Each Renaissance painting uses x pigments. How many pigments for y paintings?,x,The highway project needs 38 workers. 14 workers finish their shift. How many workers are needed?,24,532,x,y,38,14
+Each Renaissance painting uses x pigments. How many pigments for y paintings?,x,The highway project needs 11 workers. 10 workers finish their shift. How many workers are needed?,1,110,x,y,11,10
+The miner finds x ounces of gold weekly. How much gold in y weeks?,x,"Jacob earns 10 dollars weekly. After 7 dollars in deductions, what is the take-home amount?",3,70,x,y,10,7
+The miner finds x ounces of gold weekly. How much gold in y weeks?,x,"Jacob earns 49 dollars weekly. After 5 dollars in deductions, what is the take-home amount?",44,245,x,y,49,5
+Each hurricane produces x inches of rain. How much rain will y hurricanes bring?,x,The flowerbed needs 34 liters of water. Ella adds 15 liters. How much more water is needed?,19,510,x,y,34,15
+Each hurricane produces x inches of rain. How much rain will y hurricanes bring?,x,The flowerbed needs 48 liters of water. Ella adds 43 liters. How much more water is needed?,5,2064,x,y,48,43
+The blizzard drops x snowflakes per square inch. How many flakes will fall on y square inches?,x,Ethan owns 43 pairs of socks. Their washing machine ruins 2 pairs of socks. How many pairs of socks does Ethan have now?,41,86,x,y,43,2
+The blizzard drops x snowflakes per square inch. How many flakes will fall on y square inches?,x,Ethan owns 45 pairs of socks. Their washing machine ruins 7 pairs of socks. How many pairs of socks does Ethan have now?,38,315,x,y,45,7
+Each tornado damages x structures. How many structures will y tornadoes affect?,x,The fundraiser goal is 40 dollars. Emma contributes 10 dollars. What is the remaining gap to the goal after the contribution?,30,400,x,y,40,10
+Each tornado damages x structures. How many structures will y tornadoes affect?,x,The fundraiser goal is 40 dollars. Emma contributes 28 dollars. What is the remaining gap to the goal after the contribution?,12,1120,x,y,40,28
+The heatwave increases energy demand by x megawatts daily. How much extra power will be needed over y days?,x,The garden has 43 plants. Samuel removes 42 weeds. How many desired plants remain?,1,1806,x,y,43,42
+The heatwave increases energy demand by x megawatts daily. How much extra power will be needed over y days?,x,The garden has 29 plants. Samuel removes 15 weeds. How many desired plants remain?,14,435,x,y,29,15
+Each lightning strike releases x gigajoules. How much energy will y strikes release?,x,Alexander has 28 photos in their album. They remove 24 photos. How many photos does Alexander have now?,4,672,x,y,28,24
+Each lightning strike releases x gigajoules. How much energy will y strikes release?,x,Alexander has 44 photos in their album. They remove 17 photos. How many photos does Alexander have now?,27,748,x,y,44,17
+The flood submerges x acres hourly. How many acres will be flooded in y hours?,x,"The stew requires 32 hours to cook. After 3 hours, how much cooking time remains?",29,96,x,y,32,3
+The flood submerges x acres hourly. How many acres will be flooded in y hours?,x,"The stew requires 5 hours to cook. After 3 hours, how much cooking time remains?",2,15,x,y,5,3
+Each hailstorm produces x ice chunks per square yard. How many chunks will fall on y square yards?,x,The patient needs 24 milligrams of medicine. The nurse administers 4 milligrams. How much more is needed?,20,96,x,y,24,4
+Each hailstorm produces x ice chunks per square yard. How many chunks will fall on y square yards?,x,The patient needs 15 milligrams of medicine. The nurse administers 3 milligrams. How much more is needed?,12,45,x,y,15,3
+The drought lowers water levels by x feet monthly. How much will levels drop over y months?,x,The conference has 29 sessions. Ella attends 28 sessions. How many sessions remain?,1,812,x,y,29,28
+The drought lowers water levels by x feet monthly. How much will levels drop over y months?,x,The conference has 23 sessions. Ella attends 12 sessions. How many sessions remain?,11,276,x,y,23,12
+Each tsunami wave carries x tons of debris. How much debris will y waves move?,x,Ethan buys 11 donuts. Their family eats 1 donuts. How many donuts does Ethan have now?,10,11,x,y,11,1
+Each tsunami wave carries x tons of debris. How much debris will y waves move?,x,Ethan buys 26 donuts. Their family eats 14 donuts. How many donuts does Ethan have now?,12,364,x,y,26,14
+The sandstorm reduces visibility by x meters per minute. How much visibility will be lost in y minutes?,x,Charlotte budgets 12 dollars for groceries. The receipt shows 10 dollars spent. How much remains in the budget?,2,120,x,y,12,10
+The sandstorm reduces visibility by x meters per minute. How much visibility will be lost in y minutes?,x,Charlotte budgets 39 dollars for groceries. The receipt shows 32 dollars spent. How much remains in the budget?,7,1248,x,y,39,32
+Each whale consumes x krill daily. How many krill will y whales eat?,x,The air quality index shows 33 particles. Filters remove 28 particles. What is the improved reading?,5,924,x,y,33,28
+Each whale consumes x krill daily. How many krill will y whales eat?,x,The air quality index shows 26 particles. Filters remove 18 particles. What is the improved reading?,8,468,x,y,26,18
+The coral reef grows x centimeters annually. How much will it grow in y years?,x,The order requires 37 tiles. Lucas breaks 23 tiles. How many usable tiles remain?,14,851,x,y,37,23
+The coral reef grows x centimeters annually. How much will it grow in y years?,x,The order requires 29 tiles. Lucas breaks 1 tiles. How many usable tiles remain?,28,29,x,y,29,1
+Each sea turtle lays x eggs per nest. How many eggs will y nests contain?,x,Olivia collects 42 magazines. Their subscription expires for 27 magazines. How many magazines does Olivia have now?,15,1134,x,y,42,27
+Each sea turtle lays x eggs per nest. How many eggs will y nests contain?,x,Olivia collects 22 magazines. Their subscription expires for 6 magazines. How many magazines does Olivia have now?,16,132,x,y,22,6
+The ocean current moves x miles daily. How far will objects drift in y days?,x,The forest has 29 trees. Loggers remove 19 trees. How many trees remain?,10,551,x,y,29,19
+The ocean current moves x miles daily. How far will objects drift in y days?,x,The forest has 48 trees. Loggers remove 42 trees. How many trees remain?,6,2016,x,y,48,42
+Each phytoplankton cluster produces x oxygen molecules hourly. How much oxygen will y clusters produce?,x,Jack picks 31 oranges. They drop 25 oranges. How many oranges does Jack have now?,6,775,x,y,31,25
+Each phytoplankton cluster produces x oxygen molecules hourly. How much oxygen will y clusters produce?,x,Jack picks 43 oranges. They drop 41 oranges. How many oranges does Jack have now?,2,1763,x,y,43,41
+The kelp forest grows x feet monthly. How tall will it become after y months?,x,"Mia's meeting lasts 24 minutes. After 17 minutes, how much meeting time is left?",7,408,x,y,24,17
+The kelp forest grows x feet monthly. How tall will it become after y months?,x,"Mia's meeting lasts 41 minutes. After 39 minutes, how much meeting time is left?",2,1599,x,y,41,39
+Each fishing net catches x fish when full. How many fish will y full nets catch?,x,The production line makes 38 units per hour. Maintenance removes 13 units. What is the new output?,25,494,x,y,38,13
+Each fishing net catches x fish when full. How many fish will y full nets catch?,x,The production line makes 47 units per hour. Maintenance removes 29 units. What is the new output?,18,1363,x,y,47,29
+The submarine explores x square miles daily. How much area can it survey in y days?,x,The athlete needs 41 meters to win. They complete 11 meters. How much farther is needed?,30,451,x,y,41,11
+The submarine explores x square miles daily. How much area can it survey in y days?,x,The athlete needs 20 meters to win. They complete 13 meters. How much farther is needed?,7,260,x,y,20,13
+Each oyster filters x gallons of water hourly. How much water will y oysters filter?,x,The app has 45 daily uses allowed. Matthew uses it 25 times. How many uses remain?,20,1125,x,y,45,25
+Each oyster filters x gallons of water hourly. How much water will y oysters filter?,x,The app has 39 daily uses allowed. Matthew uses it 10 times. How many uses remain?,29,390,x,y,39,10
+The tidal zone reveals x new species per survey. How many species might be found in y surveys?,x,"The vacation lasts 40 days. After 6 days, how many days remain?",34,240,x,y,40,6
+The tidal zone reveals x new species per survey. How many species might be found in y surveys?,x,"The vacation lasts 23 days. After 5 days, how many days remain?",18,115,x,y,23,5
+Each quantum computer performs x operations per second. How many operations in y seconds?,x,The batch makes 23 cookies. Samuel eats 16 cookies. How many cookies remain?,7,368,x,y,23,16
+Each quantum computer performs x operations per second. How many operations in y seconds?,x,The batch makes 36 cookies. Samuel eats 34 cookies. How many cookies remain?,2,1224,x,y,36,34
+The nanobot swarm repairs x cells per minute. How many cells can it repair in y minutes?,x,The lab has 45 experiments. Henry completes 16 experiments. How many experiments remain?,29,720,x,y,45,16
+The nanobot swarm repairs x cells per minute. How many cells can it repair in y minutes?,x,The lab has 32 experiments. Henry completes 29 experiments. How many experiments remain?,3,928,x,y,32,29
+Each hologram projector uses x teraflops. How much processing power for y projectors?,x,The venue seats 34 guests. 27 seats are reserved. How many seats are open?,7,918,x,y,34,27
+Each hologram projector uses x teraflops. How much processing power for y projectors?,x,The venue seats 43 guests. 31 seats are reserved. How many seats are open?,12,1333,x,y,43,31
+The fusion reactor generates x megawatts hourly. How much energy in y hours?,x,The book has 29 pages. Michael reads 3 pages. How many pages remain?,26,87,x,y,29,3
+The fusion reactor generates x megawatts hourly. How much energy in y hours?,x,The book has 20 pages. Michael reads 16 pages. How many pages remain?,4,320,x,y,20,16
+Each AI training cycle processes x data points. How many points in y cycles?,x,Thomas bakes 47 cookies. Their sibling eats 31 cookies. How many cookies does Thomas have now?,16,1457,x,y,47,31
+Each AI training cycle processes x data points. How many points in y cycles?,x,Thomas bakes 48 cookies. Their sibling eats 39 cookies. How many cookies does Thomas have now?,9,1872,x,y,48,39
+The space elevator climbs x kilometers daily. How far will it ascend in y days?,x,The assignment requires 38 pages. Zoe writes 16 pages. How much more is needed?,22,608,x,y,38,16
+The space elevator climbs x kilometers daily. How far will it ascend in y days?,x,The assignment requires 36 pages. Zoe writes 33 pages. How much more is needed?,3,1188,x,y,36,33
+Each gene editor modifies x base pairs per second. How many edits in y seconds?,x,The treatment requires 32 sessions. Lucas attends 2 sessions. How many sessions remain?,30,64,x,y,32,2
+Each gene editor modifies x base pairs per second. How many edits in y seconds?,x,The treatment requires 25 sessions. Lucas attends 9 sessions. How many sessions remain?,16,225,x,y,25,9
+The Mars colony uses x liters of water daily. How much water will be needed for y days?,x,Lily owns 39 stuffed animals. They give 22 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,17,858,x,y,39,22
+The Mars colony uses x liters of water daily. How much water will be needed for y days?,x,Lily owns 32 stuffed animals. They give 21 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,11,672,x,y,32,21
+Each exoskeleton lifts x kilograms. How much can y exoskeletons lift together?,x,The seed packet contains 27 seeds. Harper plants 18 seeds. How many seeds remain?,9,486,x,y,27,18
+Each exoskeleton lifts x kilograms. How much can y exoskeletons lift together?,x,The seed packet contains 14 seeds. Harper plants 5 seeds. How many seeds remain?,9,70,x,y,14,5
+The drone makes x deliveries per hour. How many deliveries in y hours?,x,The tournament has 19 rounds. Alexander completes 4 rounds. How many rounds remain?,15,76,x,y,19,4
+The drone makes x deliveries per hour. How many deliveries in y hours?,x,The tournament has 48 rounds. Alexander completes 28 rounds. How many rounds remain?,20,1344,x,y,48,28

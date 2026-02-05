@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has 15 bags with 5 apples in each. How many apples does Jack have total?,75,Jack has 6 bags with 3 apples in each. How many apples does Jack have total?,18,15,5,6,3
+Jack has 28 bags with 7 apples in each. How many apples does Jack have total?,196,Jack has 26 bags with 2 apples in each. How many apples does Jack have total?,52,28,7,26,2
+"There are 18 classrooms, each with 2 students. How many students total?",36,"There are 14 classrooms, each with 14 students. How many students total?",196,18,2,14,14
+"There are 46 classrooms, each with 46 students. How many students total?",2116,"There are 39 classrooms, each with 3 students. How many students total?",117,46,46,39,3
+"A baker prepares 6 trays, each with 6 cookies. What is the total number?",36,"A baker prepares 24 trays, each with 4 cookies. What is the total number?",96,6,6,24,4
+"A baker prepares 24 trays, each with 24 cookies. What is the total number?",576,"A baker prepares 44 trays, each with 11 cookies. What is the total number?",484,24,24,44,11
+"A book has 6 chapters, each with 3 pages. How many pages total?",18,"A book has 48 chapters, each with 4 pages. How many pages total?",192,6,3,48,4
+"A book has 22 chapters, each with 11 pages. How many pages total?",242,"A book has 46 chapters, each with 46 pages. How many pages total?",2116,22,11,46,46
+Each of 24 boxes contains 6 pencils. What is the total count?,144,Each of 40 boxes contains 8 pencils. What is the total count?,320,24,6,40,8
+Each of 49 boxes contains 7 pencils. What is the total count?,343,Each of 28 boxes contains 14 pencils. What is the total count?,392,49,7,28,14
+Zoe reads 3 pages every hour for 3 hours. How many pages total?,9,Zoe reads 39 pages every hour for 3 hours. How many pages total?,117,3,3,39,3
+Zoe reads 33 pages every hour for 3 hours. How many pages total?,99,Zoe reads 28 pages every hour for 14 hours. How many pages total?,392,33,3,28,14
+A machine produces 24 widgets every minute for 4 minutes. What's the total?,96,A machine produces 32 widgets every minute for 32 minutes. What's the total?,1024,24,4,32,32
+A machine produces 14 widgets every minute for 14 minutes. What's the total?,196,A machine produces 36 widgets every minute for 3 minutes. What's the total?,108,14,14,36,3
+A printer prints 34 pages every minute. How many pages in 17 minutes?,578,A printer prints 33 pages every minute. How many pages in 11 minutes?,363,34,17,33,11
+A printer prints 50 pages every minute. How many pages in 10 minutes?,500,A printer prints 27 pages every minute. How many pages in 27 minutes?,729,50,10,27,27
+A car travels 8 miles every gallon. How far can it go on 8 gallons?,64,A car travels 46 miles every gallon. How far can it go on 2 gallons?,92,8,8,46,2
+A car travels 16 miles every gallon. How far can it go on 4 gallons?,64,A car travels 36 miles every gallon. How far can it go on 2 gallons?,72,16,4,36,2
+William earns $48 per hour and works 2 hours. What are the total earnings?,96,William earns $30 per hour and works 3 hours. What are the total earnings?,90,48,2,30,3
+William earns $34 per hour and works 34 hours. What are the total earnings?,1156,William earns $48 per hour and works 16 hours. What are the total earnings?,768,34,34,48,16
+A garden has 11 rows with 11 plants per row. How many plants total?,121,A garden has 24 rows with 12 plants per row. How many plants total?,288,11,11,24,12
+A garden has 30 rows with 2 plants per row. How many plants total?,60,A garden has 12 rows with 4 plants per row. How many plants total?,48,30,2,12,4
+"A parking lot has 24 rows, each holding 24 cars. How many cars total?",576,"A parking lot has 14 rows, each holding 7 cars. How many cars total?",98,24,24,14,7
+"A parking lot has 36 rows, each holding 3 cars. How many cars total?",108,"A parking lot has 28 rows, each holding 14 cars. How many cars total?",392,36,3,28,14
+A quilt has 35 squares along its length and 5 squares across. How many total?,175,A quilt has 20 squares along its length and 2 squares across. How many total?,40,35,5,20,2
+A quilt has 35 squares along its length and 7 squares across. How many total?,245,A quilt has 34 squares along its length and 2 squares across. How many total?,68,35,7,34,2
+Each of 28 rows contains 2 desks. How many desks total?,56,Each of 12 rows contains 2 desks. How many desks total?,24,28,2,12,2
+Each of 50 rows contains 25 desks. How many desks total?,1250,Each of 20 rows contains 5 desks. How many desks total?,100,50,25,20,5
+"A bookshelf has 26 shelves, each holding 2 books. How many books total?",52,"A bookshelf has 20 shelves, each holding 2 books. How many books total?",40,26,2,20,2
+"A bookshelf has 41 shelves, each holding 41 books. How many books total?",1681,"A bookshelf has 36 shelves, each holding 3 books. How many books total?",108,41,41,36,3
+Tickets cost $48 each. Alexander buys 3 tickets. What's the total cost?,144,Tickets cost $32 each. Alexander buys 4 tickets. What's the total cost?,128,48,3,32,4
+Tickets cost $10 each. Alexander buys 2 tickets. What's the total cost?,20,Tickets cost $24 each. Alexander buys 12 tickets. What's the total cost?,288,10,2,24,12
+Each candy bag costs $7. How much for 7 bags?,49,Each candy bag costs $36. How much for 18 bags?,648,7,7,36,18
+Each candy bag costs $28. How much for 2 bags?,56,Each candy bag costs $10. How much for 10 bags?,100,28,2,10,10
+A toy is priced at $48 each. How much for 8 toys?,384,A toy is priced at $30 each. How much for 30 toys?,900,48,8,30,30
+A toy is priced at $24 each. How much for 3 toys?,72,A toy is priced at $44 each. How much for 2 toys?,88,24,3,44,2
+Apples cost $40 per apple. How much for 40 apples?,1600,Apples cost $18 per apple. How much for 3 apples?,54,40,40,18,3
+Apples cost $27 per apple. How much for 27 apples?,729,Apples cost $18 per apple. How much for 2 apples?,36,27,27,18,2
+A subscription costs $48 monthly. What's the cost for 4 months?,192,A subscription costs $46 monthly. What's the cost for 2 months?,92,48,4,46,2
+A subscription costs $27 monthly. What's the cost for 27 months?,729,A subscription costs $39 monthly. What's the cost for 13 months?,507,27,27,39,13
+A car drives 48 miles every hour for 48 hours. How far does it go?,2304,A car drives 36 miles every hour for 18 hours. How far does it go?,648,48,48,36,18
+A car drives 34 miles every hour for 34 hours. How far does it go?,1156,A car drives 24 miles every hour for 6 hours. How far does it go?,144,34,34,24,6
+A plane flies 44 miles per hour. How far in 22 hours?,968,A plane flies 43 miles per hour. How far in 43 hours?,1849,44,22,43,43
+A plane flies 13 miles per hour. How far in 13 hours?,169,A plane flies 9 miles per hour. How far in 3 hours?,27,13,13,9,3
+A runner maintains 15 km every hour. How far in 5 hours?,75,A runner maintains 18 km every hour. How far in 18 hours?,324,15,5,18,18
+A runner maintains 19 km every hour. How far in 19 hours?,361,A runner maintains 39 km every hour. How far in 3 hours?,117,19,19,39,3
+A train travels 10 kilometers per hour. How far does it go in 10 hours?,100,A train travels 36 kilometers per hour. How far does it go in 4 hours?,144,10,10,36,4
+A train travels 36 kilometers per hour. How far does it go in 3 hours?,108,A train travels 50 kilometers per hour. How far does it go in 2 hours?,100,36,3,50,2
+A cyclist averages 45 miles every hour. How far in 15 hours?,675,A cyclist averages 26 miles every hour. How far in 26 hours?,676,45,15,26,26
+A cyclist averages 48 miles every hour. How far in 2 hours?,96,A cyclist averages 4 miles every hour. How far in 2 hours?,8,48,2,4,2
+A recipe requires 15 cups of flour per batch. Chloe makes 15 batches. How much flour?,225,A recipe requires 46 cups of flour per batch. Chloe makes 2 batches. How much flour?,92,15,15,46,2
+A recipe requires 28 cups of flour per batch. Chloe makes 2 batches. How much flour?,56,A recipe requires 33 cups of flour per batch. Chloe makes 3 batches. How much flour?,99,28,2,33,3
+Each cake needs 30 eggs. How many eggs for 3 cakes?,90,Each cake needs 40 eggs. How many eggs for 2 cakes?,80,30,3,40,2
+Each cake needs 19 eggs. How many eggs for 19 cakes?,361,Each cake needs 40 eggs. How many eggs for 20 cakes?,800,19,19,40,20
+Cookies require 27 chips per cookie. How many chips for 27 cookies?,729,Cookies require 44 chips per cookie. How many chips for 4 cookies?,176,27,27,44,4
+Cookies require 20 chips per cookie. How many chips for 20 cookies?,400,Cookies require 44 chips per cookie. How many chips for 11 cookies?,484,20,20,44,11
+Each serving requires 15 ounces. How much for 3 servings?,45,Each serving requires 30 ounces. How much for 5 servings?,150,15,3,30,5
+Each serving requires 44 ounces. How much for 11 servings?,484,Each serving requires 50 ounces. How much for 25 servings?,1250,44,11,50,25
+Punch needs 18 liters per bowl. How much for 18 bowls?,324,Punch needs 20 liters per bowl. How much for 2 bowls?,40,18,18,20,2
+Punch needs 46 liters per bowl. How much for 23 bowls?,1058,Punch needs 45 liters per bowl. How much for 15 bowls?,675,46,23,45,15
+Isla earns $2 per hour. How much for 2 hours?,4,Isla earns $50 per hour. How much for 5 hours?,250,2,2,50,5
+Isla earns $32 per hour. How much for 2 hours?,64,Isla earns $42 per hour. How much for 42 hours?,1764,32,2,42,42
+Workers are paid $15 per item. How much for 5 items?,75,Workers are paid $34 per item. How much for 34 items?,1156,15,5,34,34
+Workers are paid $30 per item. How much for 10 items?,300,Workers are paid $25 per item. How much for 25 items?,625,30,10,25,25
+Each project pays $25. What's the income from 25 projects?,625,Each project pays $48. What's the income from 8 projects?,384,25,25,48,8
+Each project pays $12. What's the income from 4 projects?,48,Each project pays $12. What's the income from 6 projects?,72,12,4,12,6
+A consultant charges $42 daily. What's the cost for 21 days?,882,A consultant charges $11 daily. What's the cost for 11 days?,121,42,21,11,11
+A consultant charges $45 daily. What's the cost for 45 days?,2025,A consultant charges $16 daily. What's the cost for 8 days?,128,45,45,16,8
+Overtime pays $42 per hour. How much for 6 overtime hours?,252,Overtime pays $47 per hour. How much for 47 overtime hours?,2209,42,6,47,47
+Overtime pays $20 per hour. How much for 4 overtime hours?,80,Overtime pays $27 per hour. How much for 27 overtime hours?,729,20,4,27,27
+Each crate holds 50 oranges. How many oranges in 25 crates?,1250,Each crate holds 39 oranges. How many oranges in 3 crates?,117,50,25,39,3
+Each crate holds 24 oranges. How many oranges in 3 crates?,72,Each crate holds 46 oranges. How many oranges in 23 crates?,1058,24,3,46,23
+Egg cartons contain 22 eggs each. How many eggs in 22 cartons?,484,Egg cartons contain 30 eggs each. How many eggs in 15 cartons?,450,22,22,30,15
+Egg cartons contain 36 eggs each. How many eggs in 18 cartons?,648,Egg cartons contain 35 eggs each. How many eggs in 35 cartons?,1225,36,18,35,35
+Jars contain 45 marbles each. How many marbles in 3 jars?,135,Jars contain 40 marbles each. How many marbles in 10 jars?,400,45,3,40,10
+Jars contain 16 marbles each. How many marbles in 2 jars?,32,Jars contain 26 marbles each. How many marbles in 13 jars?,338,16,2,26,13
+Cases hold 10 bottles each. How many bottles in 10 cases?,100,Cases hold 6 bottles each. How many bottles in 2 cases?,12,10,10,6,2
+Cases hold 49 bottles each. How many bottles in 7 cases?,343,Cases hold 48 bottles each. How many bottles in 2 cases?,96,49,7,48,2
+Packets have 49 seeds each. How many seeds in 7 packets?,343,Packets have 24 seeds each. How many seeds in 6 packets?,144,49,7,24,6
+Packets have 3 seeds each. How many seeds in 3 packets?,9,Packets have 12 seeds each. How many seeds in 2 packets?,24,3,3,12,2
+Tasks take 10 minutes each. How long for 5 tasks?,50,Tasks take 11 minutes each. How long for 11 tasks?,121,10,5,11,11
+Tasks take 7 minutes each. How long for 7 tasks?,49,Tasks take 32 minutes each. How long for 8 tasks?,256,7,7,32,8
+A process takes 44 hours per unit. How long for 44 units?,1936,A process takes 25 hours per unit. How long for 5 units?,125,44,44,25,5
+A process takes 28 hours per unit. How long for 14 units?,392,A process takes 24 hours per unit. How long for 3 units?,72,28,14,24,3
+Questions take 16 minutes each. How long for 16 questions?,256,Questions take 48 minutes each. How long for 12 questions?,576,16,16,48,12
+Questions take 48 minutes each. How long for 16 questions?,768,Questions take 42 minutes each. How long for 6 questions?,252,48,16,42,6
+A machine processes 42 items per hour. How many can it do in 6 hours?,252,A machine processes 37 items per hour. How many can it do in 37 hours?,1369,42,6,37,37
+A machine processes 21 items per hour. How many can it do in 21 hours?,441,A machine processes 14 items per hour. How many can it do in 2 hours?,28,21,21,14,2
+Customers take 39 minutes each to serve. How long for 39 customers?,1521,Customers take 34 minutes each to serve. How long for 2 customers?,68,39,39,34,2
+Customers take 39 minutes each to serve. How long for 3 customers?,117,Customers take 38 minutes each to serve. How long for 2 customers?,76,39,3,38,2
+A team scores 9 points per game. How many points in 9 games?,81,A team scores 14 points per game. How many points in 7 games?,98,9,9,14,7
+A team scores 10 points per game. How many points in 5 games?,50,A team scores 36 points per game. How many points in 36 games?,1296,10,5,36,36
+A player averages 32 rebounds per game. How many in 32 games?,1024,A player averages 15 rebounds per game. How many in 3 games?,45,32,32,15,3
+A player averages 26 rebounds per game. How many in 13 games?,338,A player averages 22 rebounds per game. How many in 2 games?,44,26,13,22,2
+Innings average 46 runs each. How many runs in 2 innings?,92,Innings average 40 runs each. How many runs in 8 innings?,320,46,2,40,8
+Innings average 18 runs each. How many runs in 2 innings?,36,Innings average 39 runs each. How many runs in 3 innings?,117,18,2,39,3
+A player makes 28 free throws per game. How many in 14 games?,392,A player makes 41 free throws per game. How many in 41 games?,1681,28,14,41,41
+A player makes 26 free throws per game. How many in 13 games?,338,A player makes 12 free throws per game. How many in 3 games?,36,26,13,12,3
+A team allows 47 goals per match. How many in 47 matches?,2209,A team allows 14 goals per match. How many in 7 matches?,98,47,47,14,7
+A team allows 9 goals per match. How many in 3 matches?,27,A team allows 46 goals per match. How many in 23 matches?,1058,9,3,46,23
+Matthew creates 4 paintings every month. How many paintings will be completed after 4 months?,16,Matthew creates 25 paintings every month. How many paintings will be completed after 5 months?,125,4,4,25,5
+Matthew creates 20 paintings every month. How many paintings will be completed after 4 months?,80,Matthew creates 37 paintings every month. How many paintings will be completed after 37 months?,1369,20,4,37,37
+Each sculpture requires 42 pounds of clay. How much clay is needed to make 14 sculptures?,588,Each sculpture requires 24 pounds of clay. How much clay is needed to make 3 sculptures?,72,42,14,24,3
+Each sculpture requires 36 pounds of clay. How much clay is needed to make 18 sculptures?,648,Each sculpture requires 20 pounds of clay. How much clay is needed to make 4 sculptures?,80,36,18,20,4
+The dance troupe performs 2 shows in each city. How many shows will they perform on a 2-city tour?,4,The dance troupe performs 36 shows in each city. How many shows will they perform on a 6-city tour?,216,2,2,36,6
+The dance troupe performs 27 shows in each city. How many shows will they perform on a 27-city tour?,729,The dance troupe performs 40 shows in each city. How many shows will they perform on a 20-city tour?,800,27,27,40,20
+Each art class uses 39 paint tubes weekly. How many tubes are needed for 3 classes?,117,Each art class uses 48 paint tubes weekly. How many tubes are needed for 3 classes?,144,39,3,48,3
+Each art class uses 42 paint tubes weekly. How many tubes are needed for 21 classes?,882,Each art class uses 18 paint tubes weekly. How many tubes are needed for 18 classes?,324,42,21,18,18
+Henry writes 30 poetry lines daily. How many lines will be written in 3 consecutive days?,90,Henry writes 24 poetry lines daily. How many lines will be written in 4 consecutive days?,96,30,3,24,4
+Henry writes 10 poetry lines daily. How many lines will be written in 2 consecutive days?,20,Henry writes 48 poetry lines daily. How many lines will be written in 24 consecutive days?,1152,10,2,48,24
+Each theater seat needs 46 yards of fabric. How much fabric is required for 23 seats?,1058,Each theater seat needs 30 yards of fabric. How much fabric is required for 30 seats?,900,46,23,30,30
+Each theater seat needs 10 yards of fabric. How much fabric is required for 2 seats?,20,Each theater seat needs 9 yards of fabric. How much fabric is required for 3 seats?,27,10,2,9,3
+The band sells 42 albums per concert. How many albums will they sell at 7 concerts?,294,The band sells 44 albums per concert. How many albums will they sell at 4 concerts?,176,42,7,44,4
+The band sells 45 albums per concert. How many albums will they sell at 15 concerts?,675,The band sells 19 albums per concert. How many albums will they sell at 19 concerts?,361,45,15,19,19
+Each mosaic tile covers 44 square inches. How much area can 22 tiles cover?,968,Each mosaic tile covers 12 square inches. How much area can 4 tiles cover?,48,44,22,12,4
+Each mosaic tile covers 21 square inches. How much area can 7 tiles cover?,147,Each mosaic tile covers 11 square inches. How much area can 11 tiles cover?,121,21,7,11,11
+The film crew shoots 11 scenes daily. How many scenes will they capture in 11 days?,121,The film crew shoots 25 scenes daily. How many scenes will they capture in 5 days?,125,11,11,25,5
+The film crew shoots 36 scenes daily. How many scenes will they capture in 36 days?,1296,The film crew shoots 16 scenes daily. How many scenes will they capture in 2 days?,32,36,36,16,2
+Each jewelry box holds 48 rings. How many rings can be stored in 8 boxes?,384,Each jewelry box holds 26 rings. How many rings can be stored in 13 boxes?,338,48,8,26,13
+Each jewelry box holds 48 rings. How many rings can be stored in 24 boxes?,1152,Each jewelry box holds 50 rings. How many rings can be stored in 2 boxes?,100,48,24,50,2
+The beehive produces 12 ounces of honey daily. What will be the total production after 4 days?,48,The beehive produces 38 ounces of honey daily. What will be the total production after 38 days?,1444,12,4,38,38
+The beehive produces 48 ounces of honey daily. What will be the total production after 48 days?,2304,The beehive produces 48 ounces of honey daily. What will be the total production after 6 days?,288,48,48,48,6
+Each rainforest tree hosts 30 epiphyte species. How many species would be found on 30 trees?,900,Each rainforest tree hosts 27 epiphyte species. How many species would be found on 9 trees?,243,30,30,27,9
+Each rainforest tree hosts 23 epiphyte species. How many species would be found on 23 trees?,529,Each rainforest tree hosts 36 epiphyte species. How many species would be found on 12 trees?,432,23,23,36,12
+The volcano erupts 30 tons of ash hourly. How much ash will be ejected in 5 hours?,150,The volcano erupts 40 tons of ash hourly. How much ash will be ejected in 40 hours?,1600,30,5,40,40
+The volcano erupts 30 tons of ash hourly. How much ash will be ejected in 30 hours?,900,The volcano erupts 12 tons of ash hourly. How much ash will be ejected in 2 hours?,24,30,30,12,2
+Each tide pool contains 40 hermit crabs. How many crabs would be in 40 pools?,1600,Each tide pool contains 48 hermit crabs. How many crabs would be in 6 pools?,288,40,40,48,6
+Each tide pool contains 14 hermit crabs. How many crabs would be in 7 pools?,98,Each tide pool contains 12 hermit crabs. How many crabs would be in 2 pools?,24,14,7,12,2
+The glacier recedes 24 inches daily. How much will it shrink after 3 days?,72,The glacier recedes 44 inches daily. How much will it shrink after 11 days?,484,24,3,44,11
+The glacier recedes 27 inches daily. How much will it shrink after 27 days?,729,The glacier recedes 26 inches daily. How much will it shrink after 2 days?,52,27,27,26,2
+The meteor shower produces 28 meteors hourly. How many might be seen during 28 hours?,784,The meteor shower produces 40 meteors hourly. How many might be seen during 4 hours?,160,28,28,40,4
+The meteor shower produces 46 meteors hourly. How many might be seen during 46 hours?,2116,The meteor shower produces 30 meteors hourly. How many might be seen during 6 hours?,180,46,46,30,6
+The sunflower grows 45 inches weekly. How tall will it be after 15 weeks?,675,The sunflower grows 4 inches weekly. How tall will it be after 2 weeks?,8,45,15,4,2
+The sunflower grows 48 inches weekly. How tall will it be after 2 weeks?,96,The sunflower grows 30 inches weekly. How tall will it be after 5 weeks?,150,48,2,30,5
+Each coral reef supports 14 fish species. How many species might exist across 14 reefs?,196,Each coral reef supports 15 fish species. How many species might exist across 3 reefs?,45,14,14,15,3
+Each coral reef supports 48 fish species. How many species might exist across 2 reefs?,96,Each coral reef supports 18 fish species. How many species might exist across 18 reefs?,324,48,2,18,18
+The thunderstorm produces 28 lightning flashes per minute. How many flashes in 28 minutes?,784,The thunderstorm produces 50 lightning flashes per minute. How many flashes in 10 minutes?,500,28,28,50,10
+The thunderstorm produces 24 lightning flashes per minute. How many flashes in 2 minutes?,48,The thunderstorm produces 33 lightning flashes per minute. How many flashes in 3 minutes?,99,24,2,33,3
+Each mushroom colony expands 27 square feet daily. How much area would 27 colonies cover?,729,Each mushroom colony expands 44 square feet daily. How much area would 11 colonies cover?,484,27,27,44,11
+Each mushroom colony expands 42 square feet daily. How much area would 42 colonies cover?,1764,Each mushroom colony expands 39 square feet daily. How much area would 3 colonies cover?,117,42,42,39,3
+The server handles 28 requests per second. How many requests in 7 seconds?,196,The server handles 8 requests per second. How many requests in 8 seconds?,64,28,7,8,8
+The server handles 2 requests per second. How many requests in 2 seconds?,4,The server handles 32 requests per second. How many requests in 16 seconds?,512,2,2,32,16
+Each smartphone has 16GB storage. How much total storage for 16 phones?,256,Each smartphone has 20GB storage. How much total storage for 2 phones?,40,16,16,20,2
+Each smartphone has 40GB storage. How much total storage for 5 phones?,200,Each smartphone has 48GB storage. How much total storage for 2 phones?,96,40,5,48,2
+The download speed is 39 MB per second. How much data will download in 13 seconds?,507,The download speed is 48 MB per second. How much data will download in 4 seconds?,192,39,13,48,4
+The download speed is 4 MB per second. How much data will download in 2 seconds?,8,The download speed is 15 MB per second. How much data will download in 5 seconds?,75,4,2,15,5
+Each robot assembles 18 components hourly. How many components can 9 robots assemble?,162,Each robot assembles 46 components hourly. How many components can 46 robots assemble?,2116,18,9,46,46
+Each robot assembles 8 components hourly. How many components can 2 robots assemble?,16,Each robot assembles 35 components hourly. How many components can 7 robots assemble?,245,8,2,35,7
+Each server rack uses 48 kilowatts. What's the total power for 2 racks?,96,Each server rack uses 18 kilowatts. What's the total power for 6 racks?,108,48,2,18,6
+Each server rack uses 39 kilowatts. What's the total power for 39 racks?,1521,Each server rack uses 16 kilowatts. What's the total power for 8 racks?,128,39,39,16,8
+Each software update takes 30 minutes. How long will 10 updates take?,300,Each software update takes 35 minutes. How long will 5 updates take?,175,30,10,35,5
+Each software update takes 8 minutes. How long will 4 updates take?,32,Each software update takes 24 minutes. How long will 2 updates take?,48,8,4,24,2
+The fiber cable transmits 26 TB per hour. How much data in 13 hours?,338,The fiber cable transmits 14 TB per hour. How much data in 14 hours?,196,26,13,14,14
+The fiber cable transmits 34 TB per hour. How much data in 2 hours?,68,The fiber cable transmits 48 TB per hour. How much data in 4 hours?,192,34,2,48,4
+Each smartwatch tracks 37 health metrics. How many metrics for 37 watches?,1369,Each smartwatch tracks 25 health metrics. How many metrics for 5 watches?,125,37,37,25,5
+Each smartwatch tracks 20 health metrics. How many metrics for 2 watches?,40,Each smartwatch tracks 20 health metrics. How many metrics for 20 watches?,400,20,2,20,20
+The 3D printer makes 38 layers per minute. How many layers in 2 minutes?,76,The 3D printer makes 6 layers per minute. How many layers in 3 minutes?,18,38,2,6,3
+The 3D printer makes 20 layers per minute. How many layers in 20 minutes?,400,The 3D printer makes 32 layers per minute. How many layers in 16 minutes?,512,20,20,32,16
+Each VR headset needs 38 sensors. How many sensors for 2 headsets?,76,Each VR headset needs 26 sensors. How many sensors for 13 headsets?,338,38,2,26,13
+Each VR headset needs 28 sensors. How many sensors for 2 headsets?,56,Each VR headset needs 19 sensors. How many sensors for 19 headsets?,361,28,2,19,19
+The ferry transports 15 vehicles per trip. How many vehicles can it carry in 3 trips?,45,The ferry transports 36 vehicles per trip. How many vehicles can it carry in 3 trips?,108,15,3,36,3
+The ferry transports 8 vehicles per trip. How many vehicles can it carry in 2 trips?,16,The ferry transports 42 vehicles per trip. How many vehicles can it carry in 3 trips?,126,8,2,42,3
+Each airplane seat weighs 22 pounds. What is the total weight of 22 seats?,484,Each airplane seat weighs 30 pounds. What is the total weight of 10 seats?,300,22,22,30,10
+Each airplane seat weighs 24 pounds. What is the total weight of 12 seats?,288,Each airplane seat weighs 24 pounds. What is the total weight of 8 seats?,192,24,12,24,8
+A subway train arrives every 22 minutes. How many arrivals will there be in 2 minutes?,44,A subway train arrives every 36 minutes. How many arrivals will there be in 18 minutes?,648,22,2,36,18
+A subway train arrives every 32 minutes. How many arrivals will there be in 8 minutes?,256,A subway train arrives every 28 minutes. How many arrivals will there be in 14 minutes?,392,32,8,28,14
+Each scooter travels 11 miles per charge. How far can 11 scooters travel?,121,Each scooter travels 28 miles per charge. How far can 14 scooters travel?,392,11,11,28,14
+Each scooter travels 33 miles per charge. How far can 33 scooters travel?,1089,Each scooter travels 44 miles per charge. How far can 22 scooters travel?,968,33,33,44,22
+The cargo ship loads 46 containers hourly. How many containers can it load in 2 hours?,92,The cargo ship loads 32 containers hourly. How many containers can it load in 8 hours?,256,46,2,32,8
+The cargo ship loads 6 containers hourly. How many containers can it load in 6 hours?,36,The cargo ship loads 27 containers hourly. How many containers can it load in 9 hours?,243,6,6,27,9
+Each bicycle wheel requires 48 spokes. How many spokes are needed for 24 wheels?,1152,Each bicycle wheel requires 27 spokes. How many spokes are needed for 27 wheels?,729,48,24,27,27
+Each bicycle wheel requires 8 spokes. How many spokes are needed for 2 wheels?,16,Each bicycle wheel requires 15 spokes. How many spokes are needed for 3 wheels?,45,8,2,15,3
+The toll booth processes 40 cars per minute. How many cars can pass in 2 minutes?,80,The toll booth processes 33 cars per minute. How many cars can pass in 11 minutes?,363,40,2,33,11
+The toll booth processes 30 cars per minute. How many cars can pass in 30 minutes?,900,The toll booth processes 40 cars per minute. How many cars can pass in 2 minutes?,80,30,30,40,2
+Each train carriage has 44 seats. How many seats are in 22 carriages?,968,Each train carriage has 15 seats. How many seats are in 15 carriages?,225,44,22,15,15
+Each train carriage has 36 seats. How many seats are in 4 carriages?,144,Each train carriage has 48 seats. How many seats are in 16 carriages?,768,36,4,48,16
+The helicopter uses 27 gallons of fuel hourly. How much fuel will it use in 3 hours?,81,The helicopter uses 8 gallons of fuel hourly. How much fuel will it use in 8 hours?,64,27,3,8,8
+The helicopter uses 40 gallons of fuel hourly. How much fuel will it use in 2 hours?,80,The helicopter uses 2 gallons of fuel hourly. How much fuel will it use in 2 hours?,4,40,2,2,2
+Each electric vehicle charges at 46 kW. What's the total power needed for 2 vehicles?,92,Each electric vehicle charges at 22 kW. What's the total power needed for 11 vehicles?,242,46,2,22,11
+Each electric vehicle charges at 35 kW. What's the total power needed for 5 vehicles?,175,Each electric vehicle charges at 39 kW. What's the total power needed for 39 vehicles?,1521,35,5,39,39
+The Mars rover travels 32 meters daily. How far will it go in 8 days?,256,The Mars rover travels 30 meters daily. How far will it go in 30 days?,900,32,8,30,30
+The Mars rover travels 16 meters daily. How far will it go in 4 days?,64,The Mars rover travels 30 meters daily. How far will it go in 5 days?,150,16,4,30,5
+Each astronaut consumes 30 pounds of food weekly. How much food is needed for 15 weeks?,450,Each astronaut consumes 37 pounds of food weekly. How much food is needed for 37 weeks?,1369,30,15,37,37
+Each astronaut consumes 32 pounds of food weekly. How much food is needed for 4 weeks?,128,Each astronaut consumes 36 pounds of food weekly. How much food is needed for 36 weeks?,1296,32,4,36,36
+The satellite completes 30 orbits daily. How many orbits in 3 days?,90,The satellite completes 48 orbits daily. How many orbits in 2 days?,96,30,3,48,2
+The satellite completes 16 orbits daily. How many orbits in 8 days?,128,The satellite completes 22 orbits daily. How many orbits in 2 days?,44,16,8,22,2
+Each spacewalk requires 36 hours of prep. How much prep time for 3 spacewalks?,108,Each spacewalk requires 20 hours of prep. How much prep time for 10 spacewalks?,200,36,3,20,10
+Each spacewalk requires 48 hours of prep. How much prep time for 8 spacewalks?,384,Each spacewalk requires 30 hours of prep. How much prep time for 6 spacewalks?,180,48,8,30,6
+The rocket burns 47 tons of fuel per minute. How much fuel will it use in 47 minutes?,2209,The rocket burns 30 tons of fuel per minute. How much fuel will it use in 6 minutes?,180,47,47,30,6
+The rocket burns 29 tons of fuel per minute. How much fuel will it use in 29 minutes?,841,The rocket burns 24 tons of fuel per minute. How much fuel will it use in 2 minutes?,48,29,29,24,2
+Each lunar module carries 48 instruments. How many instruments can 24 modules carry?,1152,Each lunar module carries 32 instruments. How many instruments can 2 modules carry?,64,48,24,32,2
+Each lunar module carries 42 instruments. How many instruments can 2 modules carry?,84,Each lunar module carries 40 instruments. How many instruments can 5 modules carry?,200,42,2,40,5
+The telescope captures 24 images per orbit. How many images in 3 orbits?,72,The telescope captures 44 images per orbit. How many images in 22 orbits?,968,24,3,44,22
+The telescope captures 42 images per orbit. How many images in 6 orbits?,252,The telescope captures 20 images per orbit. How many images in 5 orbits?,100,42,6,20,5
+Each asteroid sample weighs 12 grams. What is the total weight of 6 samples?,72,Each asteroid sample weighs 28 grams. What is the total weight of 28 samples?,784,12,6,28,28
+Each asteroid sample weighs 44 grams. What is the total weight of 44 samples?,1936,Each asteroid sample weighs 32 grams. What is the total weight of 16 samples?,512,44,44,32,16
+The spaceship's shield blocks 25 radiation units hourly. How much radiation can it block in 5 hours?,125,The spaceship's shield blocks 30 radiation units hourly. How much radiation can it block in 15 hours?,450,25,5,30,15
+The spaceship's shield blocks 24 radiation units hourly. How much radiation can it block in 8 hours?,192,The spaceship's shield blocks 22 radiation units hourly. How much radiation can it block in 11 hours?,242,24,8,22,11
+Each Mars transmission takes 6 minutes. How long will 3 transmissions take?,18,Each Mars transmission takes 8 minutes. How long will 8 transmissions take?,64,6,3,8,8
+Each Mars transmission takes 26 minutes. How long will 2 transmissions take?,52,Each Mars transmission takes 42 minutes. How long will 6 transmissions take?,252,26,2,42,6
+Each magic potion needs 12 dragon scales. How many scales for 2 potions?,24,Each magic potion needs 40 dragon scales. How many scales for 20 potions?,800,12,2,40,20
+Each magic potion needs 38 dragon scales. How many scales for 19 potions?,722,Each magic potion needs 48 dragon scales. How many scales for 16 potions?,768,38,19,48,16
+The dungeon has 36 traps per level. How many traps in 4 levels?,144,The dungeon has 43 traps per level. How many traps in 43 levels?,1849,36,4,43,43
+The dungeon has 36 traps per level. How many traps in 18 levels?,648,The dungeon has 26 traps per level. How many traps in 2 levels?,52,36,18,26,2
+Each spell costs 3 mana points. How much mana to cast 3 spells?,9,Each spell costs 15 mana points. How much mana to cast 3 spells?,45,3,3,15,3
+Each spell costs 39 mana points. How much mana to cast 3 spells?,117,Each spell costs 24 mana points. How much mana to cast 6 spells?,144,39,3,24,6
+The character earns 45 XP per quest. How much XP from 3 quests?,135,The character earns 41 XP per quest. How much XP from 41 quests?,1681,45,3,41,41
+The character earns 9 XP per quest. How much XP from 3 quests?,27,The character earns 48 XP per quest. How much XP from 3 quests?,144,9,3,48,3
+Each treasure chest holds 16 coins. How many coins in 4 chests?,64,Each treasure chest holds 40 coins. How many coins in 20 chests?,800,16,4,40,20
+Each treasure chest holds 17 coins. How many coins in 17 chests?,289,Each treasure chest holds 45 coins. How many coins in 15 chests?,675,17,17,45,15
+The castle has 50 passages per tower. How many passages in 2 towers?,100,The castle has 31 passages per tower. How many passages in 31 towers?,961,50,2,31,31
+The castle has 40 passages per tower. How many passages in 5 towers?,200,The castle has 50 passages per tower. How many passages in 50 towers?,2500,40,5,50,50
+Each monster drops 44 items. How many items from 11 monsters?,484,Each monster drops 39 items. How many items from 13 monsters?,507,44,11,39,13
+Each monster drops 47 items. How many items from 47 monsters?,2209,Each monster drops 40 items. How many items from 8 monsters?,320,47,47,40,8
+The spellbook has 19 pages per chapter. How many pages in 19 chapters?,361,The spellbook has 42 pages per chapter. How many pages in 6 chapters?,252,19,19,42,6
+The spellbook has 40 pages per chapter. How many pages in 10 chapters?,400,The spellbook has 27 pages per chapter. How many pages in 9 chapters?,243,40,10,27,9
+Each puzzle takes 26 moves to solve. How many moves for 13 puzzles?,338,Each puzzle takes 28 moves to solve. How many moves for 7 puzzles?,196,26,13,28,7
+Each puzzle takes 45 moves to solve. How many moves for 5 puzzles?,225,Each puzzle takes 42 moves to solve. How many moves for 21 puzzles?,882,45,5,42,21
+The game loads 25 textures per second. How many textures in 25 seconds?,625,The game loads 28 textures per second. How many textures in 7 seconds?,196,25,25,28,7
+The game loads 40 textures per second. How many textures in 4 seconds?,160,The game loads 12 textures per second. How many textures in 3 seconds?,36,40,4,12,3
+Each pyramid block weighs 29 tons. What is the total weight of 29 blocks?,841,Each pyramid block weighs 25 tons. What is the total weight of 5 blocks?,125,29,29,25,5
+Each pyramid block weighs 28 tons. What is the total weight of 4 blocks?,112,Each pyramid block weighs 32 tons. What is the total weight of 16 blocks?,512,28,4,32,16
+The scribe copies 46 pages daily. How many pages in 23 days?,1058,The scribe copies 12 pages daily. How many pages in 4 days?,48,46,23,12,4
+The scribe copies 18 pages daily. How many pages in 2 days?,36,The scribe copies 18 pages daily. How many pages in 9 days?,162,18,2,18,9
+Each Viking ship carries 36 warriors. How many warriors can 4 ships carry?,144,Each Viking ship carries 18 warriors. How many warriors can 18 ships carry?,324,36,4,18,18
+Each Viking ship carries 24 warriors. How many warriors can 3 ships carry?,72,Each Viking ship carries 10 warriors. How many warriors can 10 ships carry?,100,24,3,10,10
+The castle requires 37 stones per wall. How many stones for 37 walls?,1369,The castle requires 32 stones per wall. How many stones for 8 walls?,256,37,37,32,8
+The castle requires 46 stones per wall. How many stones for 23 walls?,1058,The castle requires 42 stones per wall. How many stones for 2 walls?,84,46,23,42,2
+Each Roman road segment is 10 miles long. How long is a road with 5 segments?,50,Each Roman road segment is 23 miles long. How long is a road with 23 segments?,529,10,5,23,23
+Each Roman road segment is 38 miles long. How long is a road with 38 segments?,1444,Each Roman road segment is 36 miles long. How long is a road with 6 segments?,216,38,38,36,6
+The revolution gains 48 supporters daily. How many supporters in 48 days?,2304,The revolution gains 6 supporters daily. How many supporters in 2 days?,12,48,48,6,2
+The revolution gains 48 supporters daily. How many supporters in 16 days?,768,The revolution gains 36 supporters daily. How many supporters in 3 days?,108,48,16,36,3
+Each samurai sword takes 3 hours to forge. How long to forge 3 swords?,9,Each samurai sword takes 34 hours to forge. How long to forge 2 swords?,68,3,3,34,2
+Each samurai sword takes 30 hours to forge. How long to forge 5 swords?,150,Each samurai sword takes 38 hours to forge. How long to forge 38 swords?,1444,30,5,38,38
+The caravan travels 46 miles daily. How far will it go in 46 days?,2116,The caravan travels 50 miles daily. How far will it go in 10 days?,500,46,46,50,10
+The caravan travels 24 miles daily. How far will it go in 6 days?,144,The caravan travels 42 miles daily. How far will it go in 21 days?,882,24,6,42,21
+Each Renaissance painting uses 28 pigments. How many pigments for 4 paintings?,112,Each Renaissance painting uses 40 pigments. How many pigments for 2 paintings?,80,28,4,40,2
+Each Renaissance painting uses 42 pigments. How many pigments for 21 paintings?,882,Each Renaissance painting uses 6 pigments. How many pigments for 6 paintings?,36,42,21,6,6
+The miner finds 32 ounces of gold weekly. How much gold in 32 weeks?,1024,The miner finds 20 ounces of gold weekly. How much gold in 4 weeks?,80,32,32,20,4
+The miner finds 42 ounces of gold weekly. How much gold in 2 weeks?,84,The miner finds 16 ounces of gold weekly. How much gold in 8 weeks?,128,42,2,16,8
+Each hurricane produces 45 inches of rain. How much rain will 45 hurricanes bring?,2025,Each hurricane produces 6 inches of rain. How much rain will 3 hurricanes bring?,18,45,45,6,3
+Each hurricane produces 36 inches of rain. How much rain will 9 hurricanes bring?,324,Each hurricane produces 49 inches of rain. How much rain will 49 hurricanes bring?,2401,36,9,49,49
+The blizzard drops 6 snowflakes per square inch. How many flakes will fall on 3 square inches?,18,The blizzard drops 39 snowflakes per square inch. How many flakes will fall on 13 square inches?,507,6,3,39,13
+The blizzard drops 17 snowflakes per square inch. How many flakes will fall on 17 square inches?,289,The blizzard drops 21 snowflakes per square inch. How many flakes will fall on 3 square inches?,63,17,17,21,3
+Each tornado damages 27 structures. How many structures will 9 tornadoes affect?,243,Each tornado damages 36 structures. How many structures will 3 tornadoes affect?,108,27,9,36,3
+Each tornado damages 32 structures. How many structures will 4 tornadoes affect?,128,Each tornado damages 40 structures. How many structures will 20 tornadoes affect?,800,32,4,40,20
+The heatwave increases energy demand by 32 megawatts daily. How much extra power will be needed over 32 days?,1024,The heatwave increases energy demand by 36 megawatts daily. How much extra power will be needed over 3 days?,108,32,32,36,3
+The heatwave increases energy demand by 28 megawatts daily. How much extra power will be needed over 14 days?,392,The heatwave increases energy demand by 38 megawatts daily. How much extra power will be needed over 38 days?,1444,28,14,38,38
+Each lightning strike releases 12 gigajoules. How much energy will 4 strikes release?,48,Each lightning strike releases 42 gigajoules. How much energy will 3 strikes release?,126,12,4,42,3
+Each lightning strike releases 5 gigajoules. How much energy will 5 strikes release?,25,Each lightning strike releases 46 gigajoules. How much energy will 23 strikes release?,1058,5,5,46,23
+The flood submerges 33 acres hourly. How many acres will be flooded in 33 hours?,1089,The flood submerges 24 acres hourly. How many acres will be flooded in 8 hours?,192,33,33,24,8
+The flood submerges 11 acres hourly. How many acres will be flooded in 11 hours?,121,The flood submerges 8 acres hourly. How many acres will be flooded in 4 hours?,32,11,11,8,4
+Each hailstorm produces 6 ice chunks per square yard. How many chunks will fall on 6 square yards?,36,Each hailstorm produces 26 ice chunks per square yard. How many chunks will fall on 13 square yards?,338,6,6,26,13
+Each hailstorm produces 22 ice chunks per square yard. How many chunks will fall on 22 square yards?,484,Each hailstorm produces 6 ice chunks per square yard. How many chunks will fall on 2 square yards?,12,22,22,6,2
+The drought lowers water levels by 18 feet monthly. How much will levels drop over 18 months?,324,The drought lowers water levels by 16 feet monthly. How much will levels drop over 8 months?,128,18,18,16,8
+The drought lowers water levels by 42 feet monthly. How much will levels drop over 6 months?,252,The drought lowers water levels by 15 feet monthly. How much will levels drop over 15 months?,225,42,6,15,15
+Each tsunami wave carries 24 tons of debris. How much debris will 4 waves move?,96,Each tsunami wave carries 42 tons of debris. How much debris will 2 waves move?,84,24,4,42,2
+Each tsunami wave carries 27 tons of debris. How much debris will 3 waves move?,81,Each tsunami wave carries 35 tons of debris. How much debris will 7 waves move?,245,27,3,35,7
+The sandstorm reduces visibility by 50 meters per minute. How much visibility will be lost in 25 minutes?,1250,The sandstorm reduces visibility by 15 meters per minute. How much visibility will be lost in 15 minutes?,225,50,25,15,15
+The sandstorm reduces visibility by 20 meters per minute. How much visibility will be lost in 2 minutes?,40,The sandstorm reduces visibility by 30 meters per minute. How much visibility will be lost in 15 minutes?,450,20,2,30,15
+Each whale consumes 48 krill daily. How many krill will 24 whales eat?,1152,Each whale consumes 48 krill daily. How many krill will 16 whales eat?,768,48,24,48,16
+Each whale consumes 36 krill daily. How many krill will 2 whales eat?,72,Each whale consumes 36 krill daily. How many krill will 12 whales eat?,432,36,2,36,12
+The coral reef grows 22 centimeters annually. How much will it grow in 11 years?,242,The coral reef grows 12 centimeters annually. How much will it grow in 3 years?,36,22,11,12,3
+The coral reef grows 49 centimeters annually. How much will it grow in 49 years?,2401,The coral reef grows 26 centimeters annually. How much will it grow in 2 years?,52,49,49,26,2
+Each sea turtle lays 30 eggs per nest. How many eggs will 6 nests contain?,180,Each sea turtle lays 50 eggs per nest. How many eggs will 5 nests contain?,250,30,6,50,5
+Each sea turtle lays 16 eggs per nest. How many eggs will 2 nests contain?,32,Each sea turtle lays 33 eggs per nest. How many eggs will 11 nests contain?,363,16,2,33,11
+The ocean current moves 39 miles daily. How far will objects drift in 13 days?,507,The ocean current moves 35 miles daily. How far will objects drift in 7 days?,245,39,13,35,7
+The ocean current moves 11 miles daily. How far will objects drift in 11 days?,121,The ocean current moves 44 miles daily. How far will objects drift in 11 days?,484,11,11,44,11
+Each phytoplankton cluster produces 33 oxygen molecules hourly. How much oxygen will 3 clusters produce?,99,Each phytoplankton cluster produces 4 oxygen molecules hourly. How much oxygen will 4 clusters produce?,16,33,3,4,4
+Each phytoplankton cluster produces 38 oxygen molecules hourly. How much oxygen will 38 clusters produce?,1444,Each phytoplankton cluster produces 15 oxygen molecules hourly. How much oxygen will 3 clusters produce?,45,38,38,15,3
+The kelp forest grows 34 feet monthly. How tall will it become after 34 months?,1156,The kelp forest grows 40 feet monthly. How tall will it become after 2 months?,80,34,34,40,2
+The kelp forest grows 20 feet monthly. How tall will it become after 20 months?,400,The kelp forest grows 45 feet monthly. How tall will it become after 5 months?,225,20,20,45,5
+Each fishing net catches 28 fish when full. How many fish will 4 full nets catch?,112,Each fishing net catches 46 fish when full. How many fish will 2 full nets catch?,92,28,4,46,2
+Each fishing net catches 42 fish when full. How many fish will 14 full nets catch?,588,Each fishing net catches 42 fish when full. How many fish will 2 full nets catch?,84,42,14,42,2
+The submarine explores 49 square miles daily. How much area can it survey in 49 days?,2401,The submarine explores 28 square miles daily. How much area can it survey in 2 days?,56,49,49,28,2
+The submarine explores 32 square miles daily. How much area can it survey in 2 days?,64,The submarine explores 26 square miles daily. How much area can it survey in 2 days?,52,32,2,26,2
+Each oyster filters 12 gallons of water hourly. How much water will 12 oysters filter?,144,Each oyster filters 28 gallons of water hourly. How much water will 14 oysters filter?,392,12,12,28,14
+Each oyster filters 40 gallons of water hourly. How much water will 10 oysters filter?,400,Each oyster filters 26 gallons of water hourly. How much water will 2 oysters filter?,52,40,10,26,2
+The tidal zone reveals 41 new species per survey. How many species might be found in 41 surveys?,1681,The tidal zone reveals 48 new species per survey. How many species might be found in 8 surveys?,384,41,41,48,8
+The tidal zone reveals 50 new species per survey. How many species might be found in 50 surveys?,2500,The tidal zone reveals 36 new species per survey. How many species might be found in 3 surveys?,108,50,50,36,3
+Each quantum computer performs 6 operations per second. How many operations in 6 seconds?,36,Each quantum computer performs 32 operations per second. How many operations in 4 seconds?,128,6,6,32,4
+Each quantum computer performs 21 operations per second. How many operations in 3 seconds?,63,Each quantum computer performs 42 operations per second. How many operations in 21 seconds?,882,21,3,42,21
+The nanobot swarm repairs 34 cells per minute. How many cells can it repair in 2 minutes?,68,The nanobot swarm repairs 27 cells per minute. How many cells can it repair in 9 minutes?,243,34,2,27,9
+The nanobot swarm repairs 33 cells per minute. How many cells can it repair in 3 minutes?,99,The nanobot swarm repairs 28 cells per minute. How many cells can it repair in 14 minutes?,392,33,3,28,14
+Each hologram projector uses 50 teraflops. How much processing power for 2 projectors?,100,Each hologram projector uses 28 teraflops. How much processing power for 7 projectors?,196,50,2,28,7
+Each hologram projector uses 48 teraflops. How much processing power for 3 projectors?,144,Each hologram projector uses 4 teraflops. How much processing power for 2 projectors?,8,48,3,4,2
+The fusion reactor generates 21 megawatts hourly. How much energy in 21 hours?,441,The fusion reactor generates 12 megawatts hourly. How much energy in 6 hours?,72,21,21,12,6
+The fusion reactor generates 25 megawatts hourly. How much energy in 25 hours?,625,The fusion reactor generates 48 megawatts hourly. How much energy in 3 hours?,144,25,25,48,3
+Each AI training cycle processes 25 data points. How many points in 25 cycles?,625,Each AI training cycle processes 42 data points. How many points in 6 cycles?,252,25,25,42,6
+Each AI training cycle processes 42 data points. How many points in 42 cycles?,1764,Each AI training cycle processes 40 data points. How many points in 8 cycles?,320,42,42,40,8
+The space elevator climbs 5 kilometers daily. How far will it ascend in 5 days?,25,The space elevator climbs 30 kilometers daily. How far will it ascend in 3 days?,90,5,5,30,3
+The space elevator climbs 24 kilometers daily. How far will it ascend in 6 days?,144,The space elevator climbs 36 kilometers daily. How far will it ascend in 36 days?,1296,24,6,36,36
+Each gene editor modifies 26 base pairs per second. How many edits in 2 seconds?,52,Each gene editor modifies 30 base pairs per second. How many edits in 10 seconds?,300,26,2,30,10
+Each gene editor modifies 48 base pairs per second. How many edits in 24 seconds?,1152,Each gene editor modifies 35 base pairs per second. How many edits in 7 seconds?,245,48,24,35,7
+The Mars colony uses 48 liters of water daily. How much water will be needed for 2 days?,96,The Mars colony uses 45 liters of water daily. How much water will be needed for 15 days?,675,48,2,45,15
+The Mars colony uses 33 liters of water daily. How much water will be needed for 11 days?,363,The Mars colony uses 39 liters of water daily. How much water will be needed for 3 days?,117,33,11,39,3
+Each exoskeleton lifts 47 kilograms. How much can 47 exoskeletons lift together?,2209,Each exoskeleton lifts 32 kilograms. How much can 8 exoskeletons lift together?,256,47,47,32,8
+Each exoskeleton lifts 34 kilograms. How much can 2 exoskeletons lift together?,68,Each exoskeleton lifts 40 kilograms. How much can 20 exoskeletons lift together?,800,34,2,40,20
+The drone makes 30 deliveries per hour. How many deliveries in 10 hours?,300,The drone makes 26 deliveries per hour. How many deliveries in 26 hours?,676,30,10,26,26
+The drone makes 24 deliveries per hour. How many deliveries in 24 hours?,576,The drone makes 16 deliveries per hour. How many deliveries in 2 hours?,32,24,24,16,2

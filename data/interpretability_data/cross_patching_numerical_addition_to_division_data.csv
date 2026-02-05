@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has 49 apples. Their friend gives them 18 more apples. How many apples does Jack have now?,67,A team of 5 robots assembled 15 components. What was each robot's average output?,3,20,49,18,15,5
+Jack has 10 apples. Their friend gives them 2 more apples. How many apples does Jack have now?,12,A team of 7 robots assembled 28 components. What was each robot's average output?,4,35,10,2,28,7
+Chloe picks 7 oranges. They find 5 more oranges on the ground. How many oranges does Chloe have now?,12,2 apples cost $18 altogether. What's the price per apple?,9,20,7,5,18,2
+Chloe picks 3 oranges. They find 1 more oranges on the ground. How many oranges does Chloe have now?,4,46 apples cost $46 altogether. What's the price per apple?,1,92,3,1,46,46
+Henry buys 40 bananas. The cashier gives them 2 extra bananas. How many bananas does Henry have now?,42,Artists used 6 pigments across 6 paintings. What was the average per painting?,1,12,40,2,6,6
+Henry buys 47 bananas. The cashier gives them 42 extra bananas. How many bananas does Henry have now?,89,Artists used 24 pigments across 24 paintings. What was the average per painting?,1,48,47,42,24,24
+Lucas grows 39 strawberries. 18 more strawberries ripen overnight. How many strawberries does Lucas have now?,57,The printer created 6 layers over 3 minutes. What was the average speed?,2,9,39,18,6,3
+Lucas grows 23 strawberries. 9 more strawberries ripen overnight. How many strawberries does Lucas have now?,32,The printer created 22 layers over 11 minutes. What was the average speed?,2,33,23,9,22,11
+Benjamin collects 23 mangoes. Their neighbor shares 4 more mangoes. How many mangoes does Benjamin have now?,27,The cable transferred 24 TB over 6 hours. What was the average rate?,4,30,23,4,24,6
+Benjamin collects 8 mangoes. Their neighbor shares 3 more mangoes. How many mangoes does Benjamin have now?,11,The cable transferred 49 TB over 7 hours. What was the average rate?,7,56,8,3,49,7
+Nora has 18 pencils. The teacher distributes 2 more pencils. How many pencils does Nora have now?,20,A worker earned $3 from 3 items. What was the per-item rate?,1,6,18,2,3,3
+Nora has 36 pencils. The teacher distributes 8 more pencils. How many pencils does Nora have now?,44,A worker earned $33 from 3 items. What was the per-item rate?,11,36,36,8,33,3
+Isla brings 37 notebooks to class. A classmate gives them 19 more notebooks. How many notebooks does Isla have now?,56,The glacier retreated 24 inches over 4 days. What was the average daily recession?,6,28,37,19,24,4
+Isla brings 25 notebooks to class. A classmate gives them 19 more notebooks. How many notebooks does Isla have now?,44,The glacier retreated 14 inches over 14 days. What was the average daily recession?,1,28,25,19,14,14
+Henry finds 4 erasers in their desk. They discover 3 more erasers in their bag. How many erasers does Henry have now?,7,The nanobots repaired 34 cells during 17 minutes. What was their average repair rate?,2,51,4,3,34,17
+Henry finds 20 erasers in their desk. They discover 3 more erasers in their bag. How many erasers does Henry have now?,23,The nanobots repaired 50 cells during 10 minutes. What was their average repair rate?,5,60,20,3,50,10
+Nora has 19 markers. Their art teacher adds 15 more markers to their collection. How many markers does Nora have now?,34,The storm had 8 lightning flashes over 8 minutes. What was the flash rate?,1,16,19,15,8,8
+Nora has 24 markers. Their art teacher adds 7 more markers to their collection. How many markers does Nora have now?,31,The storm had 16 lightning flashes over 4 minutes. What was the flash rate?,4,20,24,7,16,4
+Chloe receives 40 stickers for good behavior. The principal awards them 11 more stickers. How many stickers does Chloe have now?,51,There were 48 arrivals during 2 minutes. What was the actual arrival frequency?,24,50,40,11,48,2
+Chloe receives 12 stickers for good behavior. The principal awards them 8 more stickers. How many stickers does Chloe have now?,20,There were 34 arrivals during 34 minutes. What was the actual arrival frequency?,1,68,12,8,34,34
+Jacob owns 16 toy cars. Their birthday gifts include 11 more toy cars. How many toy cars does Jacob have now?,27,The pyramid's 11 blocks weigh 11 tons total. What is the average block weight?,1,22,16,11,11,11
+Jacob owns 27 toy cars. Their birthday gifts include 9 more toy cars. How many toy cars does Jacob have now?,36,The pyramid's 2 blocks weigh 30 tons total. What is the average block weight?,15,32,27,9,30,2
+William has 47 building blocks. Their sibling contributes 21 more blocks to their tower. How many blocks does William have now?,68,A quilt's 24 squares are arranged in 24 equal columns. How many per column?,1,48,47,21,24,24
+William has 33 building blocks. Their sibling contributes 26 more blocks to their tower. How many blocks does William have now?,59,A quilt's 36 squares are arranged in 3 equal columns. How many per column?,12,39,33,26,36,3
+Nathan collects 11 action figures. A new series releases 5 more figures. How many action figures does Nathan have now?,16,5 cartons hold 35 eggs total. How many eggs per carton?,7,40,11,5,35,5
+Nathan collects 49 action figures. A new series releases 36 more figures. How many action figures does Nathan have now?,85,7 cartons hold 35 eggs total. How many eggs per carton?,5,42,49,36,35,7
+Grace has 39 board games. Their family acquires 26 more board games. How many board games does Grace have now?,65,Grace earned $28 by working 2 hours. What was the hourly wage?,14,30,39,26,28,2
+Grace has 10 board games. Their family acquires 9 more board games. How many board games does Grace have now?,19,Grace earned $50 by working 25 hours. What was the hourly wage?,2,75,10,9,50,25
+Lily owns 9 stuffed animals. A relative sends them 3 more stuffed animals. How many stuffed animals does Lily have now?,12,Lily paid $26 for 2 months of service. What was the monthly rate?,13,28,9,3,26,2
+Lily owns 45 stuffed animals. A relative sends them 28 more stuffed animals. How many stuffed animals does Lily have now?,73,Lily paid $41 for 41 months of service. What was the monthly rate?,1,82,45,28,41,41
+Ella finds 26 seashells at the beach. The next day they find 20 more seashells. How many seashells does Ella have now?,46,The band sold 48 albums over 3 concerts. What was their average sales per concert?,16,51,26,20,48,3
+Ella finds 18 seashells at the beach. The next day they find 1 more seashells. How many seashells does Ella have now?,19,The band sold 10 albums over 2 concerts. What was their average sales per concert?,5,12,18,1,10,2
+"Chloe counts 45 birds in the morning. By afternoon, 35 more birds arrive. How many birds does Chloe see now?",80,The party found 7 coins distributed among 7 chests. What was the average per chest?,1,14,45,35,7,7
+"Chloe counts 43 birds in the morning. By afternoon, 22 more birds arrive. How many birds does Chloe see now?",65,The party found 28 coins distributed among 2 chests. What was the average per chest?,14,30,43,22,28,2
+"Olivia plants 34 flowers. After a week, 12 more flowers bloom. How many flowers does Olivia have now?",46,The fungal network covered 48 square feet across 8 colonies. What was the average size?,6,56,34,12,48,8
+"Olivia plants 42 flowers. After a week, 20 more flowers bloom. How many flowers does Olivia have now?",62,The fungal network covered 24 square feet across 3 colonies. What was the average size?,8,27,42,20,24,3
+Matthew catches 40 fireflies. Their jar attracts 13 more fireflies. How many fireflies does Matthew have now?,53,The theater used 40 yards of fabric for 40 seats. How much fabric per seat?,1,80,40,13,40,40
+Matthew catches 50 fireflies. Their jar attracts 11 more fireflies. How many fireflies does Matthew have now?,61,The theater used 27 yards of fabric for 27 seats. How much fabric per seat?,1,54,50,11,27,27
+Grace collects 40 acorns. Their friend finds 21 more acorns for them. How many acorns does Grace have now?,61,Researchers found 48 turtle eggs in 4 nests. What was the average eggs per nest?,12,52,40,21,48,4
+Grace collects 9 acorns. Their friend finds 6 more acorns for them. How many acorns does Grace have now?,15,Researchers found 27 turtle eggs in 27 nests. What was the average eggs per nest?,1,54,9,6,27,27
+Nathan bakes 5 cookies. Their sibling helps bake 2 more cookies. How many cookies does Nathan have now?,7,48 bowls used 48 liters total. What was the amount per bowl?,1,96,5,2,48,48
+Nathan bakes 7 cookies. Their sibling helps bake 6 more cookies. How many cookies does Nathan have now?,13,34 bowls used 34 liters total. What was the amount per bowl?,1,68,7,6,34,34
+Lily buys 10 donuts. The bakery throws in 3 extra donuts. How many donuts does Lily have now?,13,Reservoirs dropped 44 feet during 22 months of drought. What was the average monthly decline?,2,66,10,3,44,22
+Lily buys 37 donuts. The bakery throws in 11 extra donuts. How many donuts does Lily have now?,48,Reservoirs dropped 13 feet during 13 months of drought. What was the average monthly decline?,1,26,37,11,13,13
+Alexander makes 15 sandwiches. Their parent makes 9 additional sandwiches. How many sandwiches does Alexander have now?,24,5 cakes used 15 eggs total. How many eggs per cake?,3,20,15,9,15,5
+Alexander makes 46 sandwiches. Their parent makes 13 additional sandwiches. How many sandwiches does Alexander have now?,59,19 cakes used 19 eggs total. How many eggs per cake?,1,38,46,13,19,19
+Lucas has 44 candies in their bag. Their teacher gives them 42 more candies. How many candies does Lucas have now?,86,The tsunami moved 10 tons of debris through 10 waves. What was the average debris per wave?,1,20,44,42,10,10
+Lucas has 35 candies in their bag. Their teacher gives them 29 more candies. How many candies does Lucas have now?,64,The tsunami moved 36 tons of debris through 3 waves. What was the average debris per wave?,12,39,35,29,36,3
+Olivia buys 47 juice boxes. The store adds 41 bonus juice boxes. How many juice boxes does Olivia have now?,88,The reef grew 45 centimeters over 15 years. What was its average annual growth?,3,60,47,41,45,15
+Olivia buys 23 juice boxes. The store adds 3 bonus juice boxes. How many juice boxes does Olivia have now?,26,The reef grew 48 centimeters over 2 years. What was its average annual growth?,24,50,23,3,48,2
+Michael has 44 baseballs. Their coach provides 32 more baseballs. How many baseballs does Michael have now?,76,The elevator ascended 15 kilometers over 15 days. What was its average daily climb?,1,30,44,32,15,15
+Michael has 17 baseballs. Their coach provides 16 more baseballs. How many baseballs does Michael have now?,33,The elevator ascended 28 kilometers over 2 days. What was its average daily climb?,14,30,17,16,28,2
+Zoe owns 8 tennis balls. The club gives them 1 new tennis balls. How many tennis balls does Zoe have now?,9,Zoe made 30 moves total across 3 puzzles. What was the average per puzzle?,10,33,8,1,30,3
+Zoe owns 24 tennis balls. The club gives them 14 new tennis balls. How many tennis balls does Zoe have now?,38,Zoe made 19 moves total across 19 puzzles. What was the average per puzzle?,1,38,24,14,19,19
+Mia has 48 basketballs. Their team receives 4 additional basketballs. How many basketballs does Mia have now?,52,The reactor produced 27 megawatts over 27 hours. What was its average hourly output?,1,54,48,4,27,27
+Mia has 43 basketballs. Their team receives 7 additional basketballs. How many basketballs does Mia have now?,50,The reactor produced 20 megawatts over 20 hours. What was its average hourly output?,1,40,43,7,20,20
+Emma brings 17 soccer balls to practice. The league contributes 7 more soccer balls. How many soccer balls does Emma have now?,24,A team scored 15 points over 3 games. What was their average?,5,18,17,7,15,3
+Emma brings 30 soccer balls to practice. The league contributes 5 more soccer balls. How many soccer balls does Emma have now?,35,A team scored 44 points over 11 games. What was their average?,4,55,30,5,44,11
+Mia has 31 hockey pucks. Their teammate shares 8 more hockey pucks. How many hockey pucks does Mia have now?,39,Mia earned $18 by working 18 hours. What was the hourly pay?,1,36,31,8,18,18
+Mia has 5 hockey pucks. Their teammate shares 1 more hockey pucks. How many hockey pucks does Mia have now?,6,Mia earned $46 by working 23 hours. What was the hourly pay?,2,69,5,1,46,23
+William has 12 crayons. Their art set includes 7 more crayons. How many crayons does William have now?,19,A runner completed 2 km in 2 hours. What was the pace?,1,4,12,7,2,2
+William has 15 crayons. Their art set includes 14 more crayons. How many crayons does William have now?,29,A runner completed 32 km in 2 hours. What was the pace?,16,34,15,14,32,2
+Jacob owns 26 paintbrushes. Their teacher gives them 9 new paintbrushes. How many paintbrushes does Jacob have now?,35,Jacob spent $15 on 5 equally priced tickets. What was the price per ticket?,3,20,26,9,15,5
+Jacob owns 29 paintbrushes. Their teacher gives them 23 new paintbrushes. How many paintbrushes does Jacob have now?,52,Jacob spent $30 on 10 equally priced tickets. What was the price per ticket?,3,40,29,23,30,10
+Harper has 11 sketchbooks. Their parents buy them 4 more sketchbooks. How many sketchbooks does Harper have now?,15,Observers counted 25 meteors over 25 hours. What was the hourly rate?,1,50,11,4,25,25
+Harper has 49 sketchbooks. Their parents buy them 21 more sketchbooks. How many sketchbooks does Harper have now?,70,Observers counted 12 meteors over 4 hours. What was the hourly rate?,3,16,49,21,12,4
+Emma collects 34 colored pencils. A new set contains 11 more colored pencils. How many colored pencils does Emma have now?,45,42 cars are parked in 21 equal rows. How many cars per row?,2,63,34,11,42,21
+Emma collects 40 colored pencils. A new set contains 5 more colored pencils. How many colored pencils does Emma have now?,45,45 cars are parked in 45 equal rows. How many cars per row?,1,90,40,5,45,45
+Chloe has 9 clay pots. Their art class makes 4 additional clay pots. How many clay pots does Chloe have now?,13,6 questions took 42 minutes altogether. What was the average time?,7,48,9,4,42,6
+Chloe has 41 clay pots. Their art class makes 6 additional clay pots. How many clay pots does Chloe have now?,47,4 questions took 20 minutes altogether. What was the average time?,5,24,41,6,20,4
+Mia has 38 storybooks. The library lends them 34 more storybooks. How many storybooks does Mia have now?,72,The gene editor made 50 edits over 25 seconds. What was its editing speed?,2,75,38,34,50,25
+Mia has 27 storybooks. The library lends them 5 more storybooks. How many storybooks does Mia have now?,32,The gene editor made 24 edits over 3 seconds. What was its editing speed?,8,27,27,5,24,3
+Chloe owns 31 comic books. A friend gives them 11 more comic books. How many comic books does Chloe have now?,42,Chloe used 22 pounds of clay for 22 sculptures. How much clay per sculpture?,1,44,31,11,22,22
+Chloe owns 41 comic books. A friend gives them 37 more comic books. How many comic books does Chloe have now?,78,Chloe used 36 pounds of clay for 18 sculptures. How much clay per sculpture?,2,54,41,37,36,18
+Olivia collects 24 magazines. Their subscription delivers 3 new magazines. How many magazines does Olivia have now?,27,3 cookies used 45 chips altogether. What's the average per cookie?,15,48,24,3,45,3
+Olivia collects 20 magazines. Their subscription delivers 6 new magazines. How many magazines does Olivia have now?,26,2 cookies used 16 chips altogether. What's the average per cookie?,8,18,20,6,16,2
+Daniel has 41 picture books. Their relative sends 34 more picture books. How many picture books does Daniel have now?,75,10 pencils are packaged equally in 10 boxes. How many in each box?,1,20,41,34,10,10
+Daniel has 9 picture books. Their relative sends 2 more picture books. How many picture books does Daniel have now?,11,49 pencils are packaged equally in 7 boxes. How many in each box?,7,56,9,2,49,7
+Harper reads 19 chapter books. Their school provides 10 additional chapter books. How many chapter books does Harper have now?,29,7 projects earned $49 total. What was the average per project?,7,56,19,10,49,7
+Harper reads 47 chapter books. Their school provides 22 additional chapter books. How many chapter books does Harper have now?,69,3 projects earned $3 total. What was the average per project?,1,6,47,22,3,3
+Henry has 18 t-shirts. Their laundry includes 17 more t-shirts. How many t-shirts does Henry have now?,35,The hologram system uses 10 teraflops total across 5 projectors. What's the average per projector?,2,15,18,17,10,5
+Henry has 42 t-shirts. Their laundry includes 28 more t-shirts. How many t-shirts does Henry have now?,70,The hologram system uses 7 teraflops total across 7 projectors. What's the average per projector?,1,14,42,28,7,7
+Matthew owns 37 pairs of socks. Their package contains 28 extra pairs of socks. How many pairs of socks does Matthew have now?,65,The shop used 44 spokes across 44 wheels. What was the average spokes per wheel?,1,88,37,28,44,44
+Matthew owns 46 pairs of socks. Their package contains 10 extra pairs of socks. How many pairs of socks does Matthew have now?,56,The shop used 28 spokes across 14 wheels. What was the average spokes per wheel?,2,42,46,10,28,14
+Grace has 11 hats. Their collection grows by 7 more hats. How many hats does Grace have now?,18,The booth processed 16 cars over 16 minutes. What was its average processing rate?,1,32,11,7,16,16
+Grace has 21 hats. Their collection grows by 12 more hats. How many hats does Grace have now?,33,The booth processed 48 cars over 16 minutes. What was its average processing rate?,3,64,21,12,48,16
+Nathan wears 24 jackets. Their closet stores 18 additional jackets. How many jackets does Nathan have now?,42,Nathan paid $42 for 6 candy bags. What was the per-bag price?,7,48,24,18,42,6
+Nathan wears 49 jackets. Their closet stores 10 additional jackets. How many jackets does Nathan have now?,59,Nathan paid $21 for 21 candy bags. What was the per-bag price?,1,42,49,10,21,21
+Isla has 13 pairs of shoes. Their family buys them 7 more pairs of shoes. How many pairs of shoes does Isla have now?,20,39 plants are arranged in 39 equal rows. How many plants per row?,1,78,13,7,39,39
+Isla has 28 pairs of shoes. Their family buys them 26 more pairs of shoes. How many pairs of shoes does Isla have now?,54,39 plants are arranged in 3 equal rows. How many plants per row?,13,42,28,26,39,3
+Chloe saves 19 coins. Their piggybank gains 6 more coins. How many coins does Chloe have now?,25,The cabin's 9 seats weigh 9 pounds total. What is the average seat weight?,1,18,19,6,9,9
+Chloe saves 26 coins. Their piggybank gains 2 more coins. How many coins does Chloe have now?,28,The cabin's 5 seats weigh 10 pounds total. What is the average seat weight?,2,15,26,2,10,5
+Nora has 14 keys on their keychain. They add 8 more keys. How many keys does Nora have now?,22,Driftwood traveled 32 miles over 32 days. What was the average daily movement?,1,64,14,8,32,32
+Nora has 16 keys on their keychain. They add 4 more keys. How many keys does Nora have now?,20,Driftwood traveled 26 miles over 13 days. What was the average daily movement?,2,39,16,4,26,13
+James collects 27 bottle caps. Their friend contributes 11 more bottle caps. How many bottle caps does James have now?,38,The submarine surveyed 46 square miles over 2 days. What was its average daily exploration?,23,48,27,11,46,2
+James collects 43 bottle caps. Their friend contributes 33 more bottle caps. How many bottle caps does James have now?,76,The submarine surveyed 18 square miles over 2 days. What was its average daily exploration?,9,20,43,33,18,2
+Jacob has 9 photos in their album. They print 5 more photos. How many photos does Jacob have now?,14,Installing 14 updates took 28 minutes total. What was the average time?,2,42,9,5,28,14
+Jacob has 8 photos in their album. They print 5 more photos. How many photos does Jacob have now?,13,Installing 13 updates took 26 minutes total. What was the average time?,2,39,8,5,26,13
+Mia owns 29 video games. The store delivers 20 new video games. How many video games does Mia have now?,49,The game loaded 47 textures over 47 seconds. What was the average loading speed?,1,94,29,20,47,47
+Mia owns 26 video games. The store delivers 19 new video games. How many video games does Mia have now?,45,The game loaded 9 textures over 3 seconds. What was the average loading speed?,3,12,26,19,9,3
+Henry has 25 minutes to complete a task. The supervisor grants 14 additional minutes. What is the new total time?,39,The telescope took 4 images during 4 orbits. What was its average imaging rate?,1,8,25,14,4,4
+Henry has 44 minutes to complete a task. The supervisor grants 8 additional minutes. What is the new total time?,52,The telescope took 20 images during 4 orbits. What was its average imaging rate?,5,24,44,8,20,4
+The concert starts in 21 minutes. Harper's commute takes 14 minutes longer than expected. What is the adjusted arrival time?,35,Explorers mapped 42 passages across 14 towers. What was the average per tower?,3,56,21,14,42,14
+The concert starts in 46 minutes. Harper's commute takes 19 minutes longer than expected. What is the adjusted arrival time?,65,Explorers mapped 36 passages across 18 towers. What was the average per tower?,2,54,46,19,36,18
+Grace's meeting lasts 26 minutes. The agenda extends it by 22 minutes. What is the new duration?,48,The sunflower grew 2 inches over 2 weeks. What was the average weekly growth?,1,4,26,22,2,2
+Grace's meeting lasts 21 minutes. The agenda extends it by 10 minutes. What is the new duration?,31,The sunflower grew 27 inches over 27 weeks. What was the average weekly growth?,1,54,21,10,27,27
+The flight duration is 39 hours. The pilot adds 21 hours due to weather. What is the new total flight time?,60,Henry has 39 apples to divide equally into 3 bags. How many apples go in each bag?,13,42,39,21,39,3
+The flight duration is 30 hours. The pilot adds 22 hours due to weather. What is the new total flight time?,52,Henry has 42 apples to divide equally into 21 bags. How many apples go in each bag?,2,63,30,22,42,21
+Henry practices piano for 49 minutes daily. Today they added 11 extra minutes. What was the total practice time?,60,The tornado outbreak damaged 30 structures across 3 tornadoes. What was the average damage per tornado?,10,33,49,11,30,3
+Henry practices piano for 20 minutes daily. Today they added 17 extra minutes. What was the total practice time?,37,The tornado outbreak damaged 10 structures across 2 tornadoes. What was the average damage per tornado?,5,12,20,17,10,2
+Chloe's account shows 14 dollars. A deposit of 3 dollars is added. What is the new balance?,17,Marine biologists documented 46 species among 23 reefs. What was the average per reef?,2,69,14,3,46,23
+Chloe's account shows 31 dollars. A deposit of 14 dollars is added. What is the new balance?,45,Marine biologists documented 10 species among 2 reefs. What was the average per reef?,5,12,31,14,10,2
+The item costs 14 dollars. The price increases by 12 dollars. What is the new cost?,26,7 servings used 42 ounces total. How much per serving?,6,49,14,12,42,7
+The item costs 17 dollars. The price increases by 5 dollars. What is the new cost?,22,15 servings used 45 ounces total. How much per serving?,3,60,17,5,45,15
+Jack budgets 50 dollars for groceries. An unexpected 7 dollar expense arises. What is the revised budget?,57,22 tasks took 44 minutes total. What was the average time per task?,2,66,50,7,44,22
+Jack budgets 13 dollars for groceries. An unexpected 12 dollar expense arises. What is the revised budget?,25,7 tasks took 21 minutes total. What was the average time per task?,3,28,13,12,21,7
+The fundraiser goal is 37 dollars. The target increases by 16 dollars. What is the new goal amount?,53,11 customers were served in 11 minutes. What was the average service time?,1,22,37,16,11,11
+The fundraiser goal is 44 dollars. The target increases by 34 dollars. What is the new goal amount?,78,36 customers were served in 36 minutes. What was the average service time?,1,72,44,34,36,36
+"Grace earns 41 dollars weekly. With 33 dollars in bonuses, what is the total compensation?",74,The hive produced 48 ounces of honey over 8 days. What was the average daily yield?,6,56,41,33,48,8
+"Grace earns 37 dollars weekly. With 29 dollars in bonuses, what is the total compensation?",66,The hive produced 48 ounces of honey over 24 days. What was the average daily yield?,2,72,37,29,48,24
+The container holds 42 liters. Nathan adds 18 more liters. What is the new volume?,60,Energy demand increased by 12 megawatts over 4 heatwave days. What was the average daily increase?,3,16,42,18,12,4
+The container holds 42 liters. Nathan adds 16 more liters. What is the new volume?,58,Energy demand increased by 48 megawatts over 48 heatwave days. What was the average daily increase?,1,96,42,16,48,48
+The rope measures 47 meters. Alexander attaches 19 more meters. What is the total length?,66,A cyclist rode 30 miles over 30 hours. What was the average speed?,1,60,47,19,30,30
+The rope measures 36 meters. Alexander attaches 6 more meters. What is the total length?,42,A cyclist rode 23 miles over 23 hours. What was the average speed?,1,46,36,6,23,23
+The building is 28 feet tall. The antenna adds 11 feet to its height. What is the new elevation?,39,Benjamin has 30 cups of flour to make 5 batches. How much per batch?,6,35,28,11,30,5
+The building is 28 feet tall. The antenna adds 2 feet to its height. What is the new elevation?,30,Benjamin has 30 cups of flour to make 30 batches. How much per batch?,1,60,28,2,30,30
+The package weighs 39 kilograms. Additional contents add 2 kilograms. What is the new weight?,41,A train went 40 km during 40 hours. What was its speed?,1,80,39,2,40,40
+The package weighs 26 kilograms. Additional contents add 16 kilograms. What is the new weight?,42,A train went 14 km during 7 hours. What was its speed?,2,21,26,16,14,7
+The pool contains 49 gallons. The hose adds 48 more gallons. What is the total volume?,97,The rocket used 24 tons of fuel over 3 minutes. What was its average burn rate?,8,27,49,48,24,3
+The pool contains 33 gallons. The hose adds 15 more gallons. What is the total volume?,48,The rocket used 27 tons of fuel over 27 minutes. What was its average burn rate?,1,54,33,15,27,27
+The store stocks 3 phones. A shipment adds 2 more phones. What is the new stock?,5,28 packets contain 28 seeds total. How many seeds per packet?,1,56,3,2,28,28
+The store stocks 45 phones. A shipment adds 26 more phones. What is the new stock?,71,46 packets contain 46 seeds total. How many seeds per packet?,1,92,45,26,46,46
+The warehouse has 44 boxes. A delivery brings 2 more boxes. What is the current count?,46,Scientists deployed 45 instruments across 15 modules. What was the average per module?,3,60,44,2,45,15
+The warehouse has 31 boxes. A delivery brings 6 more boxes. What is the current count?,37,Scientists deployed 48 instruments across 2 modules. What was the average per module?,24,50,31,6,48,2
+The library has 22 available books. New acquisitions add 7 books. What is the updated collection?,29,The caravan covered 14 miles in 14 days. What was its average daily distance?,1,28,22,7,14,14
+The library has 19 available books. New acquisitions add 14 books. What is the updated collection?,33,The caravan covered 48 miles in 2 days. What was its average daily distance?,24,50,19,14,48,2
+The bakery prepares 43 loaves. The afternoon batch makes 5 more loaves. What is the total production?,48,28 innings had 28 runs total. What was the average per inning?,1,56,43,5,28,28
+The bakery prepares 50 loaves. The afternoon batch makes 2 more loaves. What is the total production?,52,2 innings had 24 runs total. What was the average per inning?,12,26,50,2,24,2
+The farm has 41 chickens. New hatchlings increase the flock by 10. What is the new population?,51,The mission collected 27 grams from 27 samples. What was the average sample weight?,1,54,41,10,27,27
+The farm has 31 chickens. New hatchlings increase the flock by 23. What is the new population?,54,The mission collected 42 grams from 42 samples. What was the average sample weight?,1,84,31,23,42,42
+The exam has 40 questions. The teacher adds 39 bonus questions. What is the new total?,79,Builders used 28 stones across 7 walls. What was the average per wall?,4,35,40,39,28,7
+The exam has 21 questions. The teacher adds 4 bonus questions. What is the new total?,25,Builders used 2 stones across 2 walls. What was the average per wall?,1,4,21,4,2,2
+The assignment requires 27 pages. The professor extends it by 23 pages. What is the new requirement?,50,A consultant's 16 days of work cost $16. What was the daily rate?,1,32,27,23,16,16
+The assignment requires 39 pages. The professor extends it by 16 pages. What is the new requirement?,55,A consultant's 5 days of work cost $40. What was the daily rate?,8,45,39,16,40,5
+The textbook has 45 chapters. The new edition adds 39 chapters. What is the updated count?,84,An oyster bed of 13 oysters filtered 39 gallons total. What was the average per oyster?,3,52,45,39,39,13
+The textbook has 25 chapters. The new edition adds 3 chapters. What is the updated count?,28,An oyster bed of 2 oysters filtered 4 gallons total. What was the average per oyster?,2,6,25,3,4,2
+The course offers 29 credit hours. Michael adds 12 audit hours. What is the total course load?,41,Adventurers found 18 traps across 9 levels. What was the average traps per level?,2,27,29,12,18,9
+The course offers 47 credit hours. Michael adds 10 audit hours. What is the total course load?,57,Adventurers found 8 traps across 2 levels. What was the average traps per level?,4,10,47,10,8,2
+The lab has 41 experiments. The curriculum adds 35 new experiments. What is the updated schedule?,76,The volcano released 48 tons of ash over 2 hours. What was the hourly eruption rate?,24,50,41,35,48,2
+The lab has 48 experiments. The curriculum adds 38 new experiments. What is the updated schedule?,86,The volcano released 39 tons of ash over 39 hours. What was the hourly eruption rate?,1,78,48,38,39,39
+"The bus has 7 passengers. At the stop, 3 passengers board. What is the new passenger count?",10,Dockworkers loaded 30 containers over 10 hours. What was their average hourly rate?,3,40,7,3,30,10
+"The bus has 50 passengers. At the stop, 30 passengers board. What is the new passenger count?",80,Dockworkers loaded 8 containers over 4 hours. What was their average hourly rate?,2,12,50,30,8,4
+The train makes 33 stops. The schedule adds 21 express stops. What is the updated itinerary?,54,A team of 13 exoskeletons lifted 26 kg total. What was the average lifting capacity?,2,39,33,21,26,13
+The train makes 15 stops. The schedule adds 6 express stops. What is the updated itinerary?,21,A team of 2 exoskeletons lifted 34 kg total. What was the average lifting capacity?,17,36,15,6,34,2
+The plane has 19 empty seats. 9 passengers cancel their tickets. How many seats become available?,28,The art department has 37 paint tubes to share equally among 37 classes. How many per class?,1,74,19,9,37,37
+The plane has 7 empty seats. 2 passengers cancel their tickets. How many seats become available?,9,The art department has 20 paint tubes to share equally among 2 classes. How many per class?,10,22,7,2,20,2
+The parking lot has 46 spaces. 31 reserved spaces are added. What is the new capacity?,77,Harper read 38 pages over 2 hours. What was the hourly rate?,19,40,46,31,38,2
+The parking lot has 30 spaces. 26 reserved spaces are added. What is the new capacity?,56,Harper read 20 pages over 20 hours. What was the hourly rate?,1,40,30,26,20,20
+The highway project needs 46 workers. 16 temporary workers join. What is the current workforce?,62,Mission Control spent 38 hours prepping for 2 spacewalks. What was the average prep time?,19,40,46,16,38,2
+The highway project needs 25 workers. 16 temporary workers join. What is the current workforce?,41,Mission Control spent 28 hours prepping for 2 spacewalks. What was the average prep time?,14,30,25,16,28,2
+The item originally costs 29 dollars. The premium version costs 24 dollars more. What is the upgraded price?,53,The 15-page manuscript took 3 days to copy. What was the average daily output?,5,18,29,24,15,3
+The item originally costs 24 dollars. The premium version costs 23 dollars more. What is the upgraded price?,47,The 8-page manuscript took 2 days to copy. What was the average daily output?,4,10,24,23,8,2
+Daniel brings 22 dollars to the store. They find 4 dollars in their pocket. What is their total cash?,26,A team conceded 22 goals during 22 matches. What was the average?,1,44,22,4,22,22
+Daniel brings 13 dollars to the store. They find 4 dollars in their pocket. What is their total cash?,17,A team conceded 24 goals during 12 matches. What was the average?,2,36,13,4,24,12
+The shopping list has 19 items. Henry remembers 17 more items. What is the updated list count?,36,22 oranges are packed equally in 2 crates. How many per crate?,11,24,19,17,22,2
+The shopping list has 8 items. Henry remembers 7 more items. What is the updated list count?,15,32 oranges are packed equally in 8 crates. How many per crate?,4,40,8,7,32,8
+The coupon saves 21 dollars. The cashier applies 1 dollars in additional savings. What is the total discount?,22,The ferry carried 11 vehicles over 11 trips. What was the average vehicles per trip?,1,22,21,1,11,11
+The coupon saves 4 dollars. The cashier applies 1 dollars in additional savings. What is the total discount?,5,The ferry carried 33 vehicles over 33 trips. What was the average vehicles per trip?,1,66,4,1,33,33
+The loyalty card has 42 points. The bonus offer adds 32 points. What is the new point balance?,74,The system collected 46 metrics from 2 watches. What was the average per watch?,23,48,42,32,46,2
+The loyalty card has 13 points. The bonus offer adds 1 points. What is the new point balance?,14,The system collected 6 metrics from 6 watches. What was the average per watch?,1,12,13,1,6,6
+The recipe calls for 33 grams of flour. Alexander decides to add 5 more grams. What is the new measurement?,38,24 overtime hours earned $48. What was the overtime rate?,2,72,33,5,48,24
+The recipe calls for 11 grams of flour. Alexander decides to add 3 more grams. What is the new measurement?,14,2 overtime hours earned $8. What was the overtime rate?,4,10,11,3,8,2
+The oven needs 9 minutes to preheat. The recipe suggests 7 extra minutes. What is the total preheat time?,16,The 40-mile road consists of 2 segments. What is the average segment length?,20,42,9,7,40,2
+The oven needs 35 minutes to preheat. The recipe suggests 25 extra minutes. What is the total preheat time?,60,The 30-mile road consists of 30 segments. What is the average segment length?,1,60,35,25,30,30
+The batch makes 39 cookies. Daniel bakes 28 more cookies. What is the total yield?,67,A printer produced 44 pages during 22 minutes. How many per minute?,2,66,39,28,44,22
+The batch makes 41 cookies. Daniel bakes 7 more cookies. What is the total yield?,48,A printer produced 36 pages during 4 minutes. How many per minute?,9,40,41,7,36,4
+The stew requires 12 hours to cook. The chef extends cooking by 4 hours. What is the new duration?,16,A machine completed 27 items over 3 hours. What was its processing rate?,9,30,12,4,27,3
+The stew requires 6 hours to cook. The chef extends cooking by 2 hours. What is the new duration?,8,A machine completed 40 items over 2 hours. What was its processing rate?,20,42,6,2,40,2
+The jar holds 46 servings. James prepares 39 extra servings. What is the new total?,85,The server processed 46 requests over 2 seconds. What was the request rate?,23,48,46,39,46,2
+The jar holds 46 servings. James prepares 30 extra servings. What is the new total?,76,The server processed 35 requests over 5 seconds. What was the request rate?,7,40,46,30,35,5
+The garden has 18 plants. William transplants 7 new plants. What is the new plant count?,25,The shield blocked 32 units over 8 hours. What was its average protection rate?,4,40,18,7,32,8
+The garden has 43 plants. William transplants 10 new plants. What is the new plant count?,53,The shield blocked 16 units over 4 hours. What was its average protection rate?,4,20,43,10,16,4
+The flowerbed needs 12 liters of water. The rainfall provides 5 additional liters. What is the total hydration?,17,The region received 30 inches of rain from 15 hurricanes. What was the average rainfall per hurricane?,2,45,12,5,30,15
+The flowerbed needs 20 liters of water. The rainfall provides 15 additional liters. What is the total hydration?,35,The region received 32 inches of rain from 4 hurricanes. What was the average rainfall per hurricane?,8,36,20,15,32,4
+The seed packet contains 40 seeds. Olivia receives 3 bonus seeds. What is the new total?,43,A fleet of 3 scooters traveled 30 miles total. What was the average distance per scooter?,10,33,40,3,30,3
+The seed packet contains 45 seeds. Olivia receives 37 bonus seeds. What is the new total?,82,A fleet of 8 scooters traveled 16 miles total. What was the average distance per scooter?,2,24,45,37,16,8
+The tree grows 50 centimeters yearly. Fertilizer adds 49 extra centimeters. What is the total growth?,99,Scientists measured 36 oxygen molecules from 3 phytoplankton clusters. What was the average production rate?,12,39,50,49,36,3
+The tree grows 33 centimeters yearly. Fertilizer adds 19 extra centimeters. What is the total growth?,52,Scientists measured 48 oxygen molecules from 8 phytoplankton clusters. What was the average production rate?,6,56,33,19,48,8
+The plot fits 37 vegetables. Succession planting adds 3 more vegetables. What is the new capacity?,40,The kelp grew 47 feet over 47 months. What was its average monthly growth?,1,94,37,3,47,47
+The plot fits 27 vegetables. Succession planting adds 17 more vegetables. What is the new capacity?,44,The kelp grew 29 feet over 29 months. What was its average monthly growth?,1,58,27,17,29,29
+The phone has 50% battery. Charging adds 32% power. What is the new battery level?,82,The charging station provided 48 kW total to 24 vehicles. What was the average per vehicle?,2,72,50,32,48,24
+The phone has 50% battery. Charging adds 4% power. What is the new battery level?,54,The charging station provided 42 kW total to 2 vehicles. What was the average per vehicle?,21,44,50,4,42,2
+The download requires 46 megabytes. The update adds 32 more megabytes. What is the new total size?,78,A car went 24 miles using 3 gallons. What was the mileage per gallon?,8,27,46,32,24,3
+The download requires 21 megabytes. The update adds 18 more megabytes. What is the new total size?,39,A car went 42 miles using 6 gallons. What was the mileage per gallon?,7,48,21,18,42,6
+The storage has 34 gigabytes free. Cloud storage adds 18 gigabytes. What is the new capacity?,52,12 desks are arranged in 6 equal rows. How many desks per row?,2,18,34,18,12,6
+The storage has 17 gigabytes free. Cloud storage adds 15 gigabytes. What is the new capacity?,32,44 desks are arranged in 44 equal rows. How many desks per row?,1,88,17,15,44,44
+The video is 34 minutes long. Bonus content adds 9 minutes. What is the extended runtime?,43,The miner extracted 25 ounces over 5 weeks. What was the average weekly yield?,5,30,34,9,25,5
+The video is 39 minutes long. Bonus content adds 38 minutes. What is the extended runtime?,77,The miner extracted 24 ounces over 8 weeks. What was the average weekly yield?,3,32,39,38,24,8
+The app has 30 daily uses allowed. The premium version adds 18 more uses. What is the new limit?,48,The floodwaters covered 6 acres over 3 hours. What was the average expansion rate?,2,9,30,18,6,3
+The app has 23 daily uses allowed. The premium version adds 18 more uses. What is the new limit?,41,The floodwaters covered 26 acres over 2 hours. What was the average expansion rate?,13,28,23,18,26,2
+The game has 31 innings. Extra innings add 30 more. What is the total inning count?,61,A book's 12 pages are divided equally into 2 chapters. How many per chapter?,6,14,31,30,12,2
+The game has 47 innings. Extra innings add 25 more. What is the total inning count?,72,A book's 38 pages are divided equally into 19 chapters. How many per chapter?,2,57,47,25,38,19
+The scoreboard shows 34 points. The bonus round adds 22 points. What is the new total?,56,Jacob spent $36 on 4 identical toys. What was each toy's price?,9,40,34,22,36,4
+The scoreboard shows 35 points. The bonus round adds 30 points. What is the new total?,65,Jacob spent $36 on 18 identical toys. What was each toy's price?,2,54,35,30,36,18
+The tournament has 28 rounds. The format change adds 21 qualifying rounds. What is the new structure?,49,3 cases contain 3 bottles total. How many per case?,1,6,28,21,3,3
+The tournament has 32 rounds. The format change adds 26 qualifying rounds. What is the new structure?,58,3 cases contain 39 bottles total. How many per case?,13,42,32,26,39,3
+The athlete needs 46 meters to win. The course extends by 26 meters. What is the new distance?,72,Alexander downloaded 45 MB over 3 seconds. What was the download speed?,15,48,46,26,45,3
+The athlete needs 22 meters to win. The course extends by 21 meters. What is the new distance?,43,Alexander downloaded 9 MB over 3 seconds. What was the download speed?,3,12,22,21,9,3
+The team has 17 timeouts. The official grants 10 additional timeouts. What is the new allowance?,27,Fishermen emptied 16 fish from 4 nets. What was the average catch per net?,4,20,17,10,16,4
+The team has 42 timeouts. The official grants 7 additional timeouts. What is the new allowance?,49,Fishermen emptied 17 fish from 17 nets. What was the average catch per net?,1,34,42,7,17,17
+The prescription has 35 doses. The refill adds 27 more doses. What is the new total?,62,A machine made 50 widgets in 2 minutes. What was its per-minute rate?,25,52,35,27,50,2
+The prescription has 12 doses. The refill adds 3 more doses. What is the new total?,15,A machine made 40 widgets in 5 minutes. What was its per-minute rate?,8,45,12,3,40,5
+The treatment requires 42 sessions. The doctor adds 17 follow-up sessions. What is the new schedule?,59,The fleet of 11 ships transported 44 warriors total. What was the average per ship?,4,55,42,17,44,11
+The treatment requires 44 sessions. The doctor adds 1 follow-up sessions. What is the new schedule?,45,The fleet of 47 ships transported 47 warriors total. What was the average per ship?,1,94,44,1,47,47
+The patient needs 20 milligrams of medicine. The dosage increases by 18 milligrams. What is the new requirement?,38,The alchemist used 19 scales to make 19 potions. What was the average per potion?,1,38,20,18,19,19
+The patient needs 30 milligrams of medicine. The dosage increases by 12 milligrams. What is the new requirement?,42,The alchemist used 40 scales to make 10 potions. What was the average per potion?,4,50,30,12,40,10
+The therapy lasts 21 weeks. The extension adds 7 more weeks. What is the new duration?,28,A baker divides 26 cookies equally among 13 trays. How many per tray?,2,39,21,7,26,13
+The therapy lasts 24 weeks. The extension adds 19 more weeks. What is the new duration?,43,A baker divides 45 cookies equally among 5 trays. How many per tray?,9,50,24,19,45,5
+The fitness goal is 40 steps daily. The challenge increases by 32 steps. What is the new target?,72,Scientists observed 25 hermit crabs distributed equally among 25 pools. What was the average per pool?,1,50,40,32,25,25
+The fitness goal is 42 steps daily. The challenge increases by 3 steps. What is the new target?,45,Scientists observed 40 hermit crabs distributed equally among 4 pools. What was the average per pool?,10,44,42,3,40,4
+The project has 39 tasks. The scope expands by 24 tasks. What is the new workload?,63,Ava wrote 29 poetry lines over 29 days. What was the average daily output?,1,58,39,24,29,29
+The project has 22 tasks. The scope expands by 14 tasks. What is the new workload?,36,Ava wrote 28 poetry lines over 4 days. What was the average daily output?,7,32,22,14,28,4
+The workday is 35 hours long. Overtime adds 33 hours. What is the new shift length?,68,The storm dropped 46 hailstones across 23 square yards. What was the average concentration?,2,69,35,33,46,23
+The workday is 20 hours long. Overtime adds 11 hours. What is the new shift length?,31,The storm dropped 18 hailstones across 2 square yards. What was the average concentration?,9,20,20,11,18,2
+The quota requires 45 sales. The target increases by 44 sales. What is the new goal?,89,Zoe completed 36 paintings over 4 months. How many paintings per month on average?,9,40,45,44,36,4
+The quota requires 37 sales. The target increases by 24 sales. What is the new goal?,61,Zoe completed 24 paintings over 3 months. How many paintings per month on average?,8,27,37,24,24,3
+The budget allows 18 dollars. Additional funding provides 4 dollars. What is the new budget?,22,The movement gained 37 supporters over 37 days. What was the average daily growth?,1,74,18,4,37,37
+The budget allows 8 dollars. Additional funding provides 6 dollars. What is the new budget?,14,The movement gained 46 supporters over 23 days. What was the average daily growth?,2,69,8,6,46,23
+The contract lasts 41 months. The renewal adds 36 months. What is the new term?,77,A player got 10 rebounds in 5 games. What was the average?,2,15,41,36,10,5
+The contract lasts 21 months. The renewal adds 16 months. What is the new term?,37,A player got 38 rebounds in 38 games. What was the average?,1,76,21,16,38,38
+The trip covers 26 kilometers. The detour adds 15 kilometers. What is the new distance?,41,Researchers documented 48 species across 48 tidal surveys. What was the average per survey?,1,96,26,15,48,48
+The trip covers 49 kilometers. The detour adds 45 kilometers. What is the new distance?,94,Researchers documented 48 species across 16 tidal surveys. What was the average per survey?,3,64,49,45,48,16
+The vacation lasts 49 days. The airline extends it by 47 days. What is the new duration?,96,Researchers found 3 epiphyte species on 3 trees. What was the average per tree?,1,6,49,47,3,3
+The vacation lasts 46 days. The airline extends it by 24 days. What is the new duration?,70,Researchers found 30 epiphyte species on 5 trees. What was the average per tree?,6,35,46,24,30,5
+The suitcase holds 43 kilograms. The airline increases the limit by 23 kilograms. What is the new capacity?,66,The colony used 46 liters over 46 days. What was their average daily usage?,1,92,43,23,46,46
+The suitcase holds 23 kilograms. The airline increases the limit by 8 kilograms. What is the new capacity?,31,The colony used 24 liters over 6 days. What was their average daily usage?,4,30,23,8,24,6
+The itinerary includes 16 cities. Last-minute changes add 6 cities. What is the new plan?,22,The VR setup uses 28 sensors across 4 headsets. What's the average per headset?,7,32,16,6,28,4
+The itinerary includes 36 cities. Last-minute changes add 17 cities. What is the new plan?,53,The VR setup uses 42 sensors across 21 headsets. What's the average per headset?,2,63,36,17,42,21
+The cruise has 35 ports of call. Weather changes add 8 alternative ports. What is the new schedule?,43,Zoe has 32 rings to distribute equally among 32 boxes. How many rings per box?,1,64,35,8,32,32
+The cruise has 25 ports of call. Weather changes add 17 alternative ports. What is the new schedule?,42,Zoe has 42 rings to distribute equally among 2 boxes. How many rings per box?,21,44,25,17,42,2
+The guest list has 41 people. 3 last-minute RSVPs arrive. What is the new count?,44,The crew ate 45 pounds of food over 45 weeks. What was their average weekly consumption?,1,90,41,3,45,45
+The guest list has 35 people. 20 last-minute RSVPs arrive. What is the new count?,55,The crew ate 36 pounds of food over 9 weeks. What was their average weekly consumption?,4,45,35,20,36,9
+The venue seats 27 guests. Additional chairs increase capacity by 14. What is the new total?,41,3 units were made in 6 hours total. What was the time per unit?,2,9,27,14,6,3
+The venue seats 33 guests. Additional chairs increase capacity by 29. What is the new total?,62,17 units were made in 17 hours total. What was the time per unit?,1,34,33,29,17,17
+The event budget is 35 dollars. A sponsor contributes 19 dollars. What is the new budget?,54,The crew shot 27 scenes over 9 days. What was their average daily scenes?,3,36,35,19,27,9
+The event budget is 46 dollars. A sponsor contributes 8 dollars. What is the new budget?,54,The crew shot 32 scenes over 4 days. What was their average daily scenes?,8,36,46,8,32,4
+The schedule allows 37 minutes per speaker. The organizer adds 14 bonus minutes. What is the new limit?,51,The rover traveled 32 meters over 32 days. What was its average daily distance?,1,64,37,14,32,32
+The schedule allows 23 minutes per speaker. The organizer adds 15 bonus minutes. What is the new limit?,38,The rover traveled 28 meters over 14 days. What was its average daily distance?,2,42,23,15,28,14
+The conference has 29 sessions. The committee adds 11 breakout sessions. What is the new total?,40,A player made 12 free throws over 4 games. What was the average?,3,16,29,11,12,4
+The conference has 25 sessions. The committee adds 5 breakout sessions. What is the new total?,30,A player made 5 free throws over 5 games. What was the average?,1,10,25,5,5,5
+The blueprint requires 49 boards. The revision adds 24 more boards. What is the new requirement?,73,The helicopter consumed 33 gallons over 33 hours. What was its average hourly usage?,1,66,49,24,33,33
+The blueprint requires 28 boards. The revision adds 12 more boards. What is the new requirement?,40,The helicopter consumed 11 gallons over 11 hours. What was its average hourly usage?,1,22,28,12,11,11
+The project needs 38 nails. The supplier provides 33 extra nails. What is the new total?,71,The 6-chapter spellbook has 6 pages total. How many pages per chapter?,1,12,38,33,6,6
+The project needs 38 nails. The supplier provides 15 extra nails. What is the new total?,53,The 22-chapter spellbook has 22 pages total. How many pages per chapter?,1,44,38,15,22,22
+The wall needs 37 bricks. The design change requires 36 more bricks. What is the new count?,73,The storm released 18 gigajoules through 18 lightning strikes. What was the average energy per strike?,1,36,37,36,18,18
+The wall needs 44 bricks. The design change requires 26 more bricks. What is the new count?,70,The storm released 42 gigajoules through 6 lightning strikes. What was the average energy per strike?,7,48,44,26,42,6
+The job estimates 35 hours of labor. Complications add 14 hours. What is the new estimate?,49,A plane covered 24 miles over 4 hours. What was its speed?,6,28,35,14,24,4
+The job estimates 21 hours of labor. Complications add 11 hours. What is the new estimate?,32,A plane covered 27 miles over 3 hours. What was its speed?,9,30,21,11,27,3
+The order requires 28 tiles. The overage includes 9 extra tiles. What is the delivered quantity?,37,Thomas covered 50 square inches with 25 tiles. What was the average coverage per tile?,2,75,28,9,50,25
+The order requires 27 tiles. The overage includes 20 extra tiles. What is the delivered quantity?,47,Thomas covered 20 square inches with 2 tiles. What was the average coverage per tile?,10,22,27,20,20,2
+The production line makes 13 units per hour. Overtime adds 3 more units. What is the new output?,16,The AI processed 48 data points through 24 cycles. What was the average per cycle?,2,72,13,3,48,24
+The production line makes 47 units per hour. Overtime adds 15 more units. What is the new output?,62,The AI processed 36 data points through 2 cycles. What was the average per cycle?,18,38,47,15,36,2
+The machine processes 49 items daily. Maintenance increases capacity by 3 items. What is the new rate?,52,Visibility decreased by 22 meters over 11 minutes. What was the average rate of visibility loss?,2,33,49,3,22,11
+The machine processes 38 items daily. Maintenance increases capacity by 28 items. What is the new rate?,66,Visibility decreased by 49 meters over 49 minutes. What was the average rate of visibility loss?,1,98,38,28,49,49
+The quality check finds 20 defects. The tolerance allows 4 more defects. What is the acceptable range?,24,6 jars have 30 marbles total. What's the average per jar?,5,36,20,4,30,6
+The quality check finds 41 defects. The tolerance allows 30 more defects. What is the acceptable range?,71,2 jars have 16 marbles total. What's the average per jar?,8,18,41,30,16,2
+The shipment contains 14 products. The replacement adds 13 more products. What is the new inventory?,27,The quantum computer completed 39 operations over 13 seconds. What was its operation rate?,3,52,14,13,39,13
+The shipment contains 13 products. The replacement adds 11 more products. What is the new inventory?,24,The quantum computer completed 11 operations over 11 seconds. What was its operation rate?,1,22,13,11,11,11
+The order requires 38 components. The supplier includes 29 spare components. What is the delivered count?,67,33 students are divided equally into 3 classrooms. How many in each?,11,36,38,29,33,3
+The order requires 30 components. The supplier includes 21 spare components. What is the delivered count?,51,38 students are divided equally into 38 classrooms. How many in each?,1,76,30,21,38,38
+The battery stores 25 kilowatt-hours. Solar charging adds 10 kilowatt-hours. What is the new charge?,35,The troupe performed 34 shows across 34 cities. What was their average shows per city?,1,68,25,10,34,34
+The battery stores 34 kilowatt-hours. Solar charging adds 25 kilowatt-hours. What is the new charge?,59,The troupe performed 20 shows across 20 cities. What was their average shows per city?,1,40,34,25,20,20
+The tank holds 32 liters of fuel. Refueling adds 17 liters. What is the new quantity?,49,A pod of 4 whales consumed 28 krill total. What was the average krill per whale?,7,32,32,17,28,4
+The tank holds 30 liters of fuel. Refueling adds 17 liters. What is the new quantity?,47,A pod of 14 whales consumed 42 krill total. What was the average krill per whale?,3,56,30,17,42,14
+The generator provides 25 hours of power. Maintenance extends runtime by 12 hours. What is the new duration?,37,The character gained 49 XP over 49 quests. What was the average XP per quest?,1,98,25,12,49,49
+The generator provides 28 hours of power. Maintenance extends runtime by 25 hours. What is the new duration?,53,The character gained 32 XP over 2 quests. What was the average XP per quest?,16,34,28,25,32,2
+The solar panel produces 20 watts daily. Extra sunlight increases output by 9 watts. What is the adjusted production?,29,Mission Control spent 12 minutes on 12 transmissions. What was the average time per transmission?,1,24,20,9,12,12
+The solar panel produces 43 watts daily. Extra sunlight increases output by 26 watts. What is the adjusted production?,69,Mission Control spent 40 minutes on 10 transmissions. What was the average time per transmission?,4,50,43,26,40,10
+The circuit handles 26 amps safely. Upgrades increase capacity by 21 amps. What is the new limit?,47,The swordsmith spent 41 hours making 41 swords. What was the average time per sword?,1,82,26,21,41,41
+The circuit handles 34 amps safely. Upgrades increase capacity by 24 amps. What is the new limit?,58,The swordsmith spent 50 hours making 50 swords. What was the average time per sword?,1,100,34,24,50,50
+The forest has 14 trees. Replanting adds 4 new trees. What is the new count?,18,The train has 6 seats total across 6 carriages. What's the average per carriage?,1,12,14,4,6,6
+The forest has 48 trees. Replanting adds 29 new trees. What is the new count?,77,The train has 21 seats total across 3 carriages. What's the average per carriage?,7,24,48,29,21,3
+The lake contains 30 fish. Stocking adds 20 more fish. What is the new population?,50,The data center used 34 kilowatts across 2 racks. What was the average per rack?,17,36,30,20,34,2
+The lake contains 14 fish. Stocking adds 6 more fish. What is the new population?,20,The data center used 33 kilowatts across 3 racks. What was the average per rack?,11,36,14,6,33,3
+The reserve protects 40 acres. The expansion adds 9 acres. What is the new protected area?,49,Scientists measured 50 snowflakes across 2 square inches. What was the average snowflake density?,25,52,40,9,50,2
+The reserve protects 34 acres. The expansion adds 10 acres. What is the new protected area?,44,Scientists measured 48 snowflakes across 3 square inches. What was the average snowflake density?,16,51,34,10,48,3
+The cleanup targets 24 tons of waste. Additional dumping adds 1 tons. What is the new total?,25,The drone completed 21 deliveries over 21 hours. What was its average delivery rate?,1,42,24,1,21,21
+The cleanup targets 46 tons of waste. Additional dumping adds 9 tons. What is the new total?,55,The drone completed 25 deliveries over 25 hours. What was its average delivery rate?,1,50,46,9,25,25
+The air quality index shows 11 particles. Pollution adds 9 particles. What is the new measurement?,20,A car traveled 25 miles in 25 hours. What was its speed in mph?,1,50,11,9,25,25
+The air quality index shows 17 particles. Pollution adds 14 particles. What is the new measurement?,31,A car traveled 42 miles in 42 hours. What was its speed in mph?,1,84,17,14,42,42
+The puzzle has 35 pieces. The deluxe edition adds 24 more pieces. What is the new challenge?,59,A shipment of 5 phones has 5GB total storage. What's the average per phone?,1,10,35,24,5,5
+The puzzle has 34 pieces. The deluxe edition adds 2 more pieces. What is the new challenge?,36,A shipment of 6 phones has 24GB total storage. What's the average per phone?,4,30,34,2,24,6
+The collection contains 42 coins. An auction adds 25 rare coins. What is the new collection?,67,Defeating 2 monsters yielded 26 items total. What was the average drop?,13,28,42,25,26,2
+The collection contains 49 coins. An auction adds 2 rare coins. What is the new collection?,51,Defeating 24 monsters yielded 48 items total. What was the average drop?,2,72,49,2,48,24
+The playlist has 23 songs. New releases add 21 more songs. What is the updated playlist?,44,48 books are placed equally on 2 shelves. How many books per shelf?,24,50,23,21,48,2
+The playlist has 22 songs. New releases add 10 more songs. What is the updated playlist?,32,33 books are placed equally on 11 shelves. How many books per shelf?,3,44,22,10,33,11
+The gallery displays 32 paintings. A donation adds 9 paintings. What is the new exhibition?,41,The satellite made 47 orbits in 47 days. What was its actual daily orbit count?,1,94,32,9,47,47
+The gallery displays 24 paintings. A donation adds 2 paintings. What is the new exhibition?,26,The satellite made 34 orbits in 2 days. What was its actual daily orbit count?,17,36,24,2,34,2
+The book has 26 pages. The special edition includes 11 additional pages. What is the new length?,37,The wizard spent 30 mana on 10 spells. What was the average cost per spell?,3,40,26,11,30,10
+The book has 40 pages. The special edition includes 12 additional pages. What is the new length?,52,The wizard spent 24 mana on 24 spells. What was the average cost per spell?,1,48,40,12,24,24

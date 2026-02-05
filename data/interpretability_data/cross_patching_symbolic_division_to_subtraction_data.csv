@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has x apples to divide equally into y bags. How many apples go in each bag?,x,The course offers 9 credit hours. Jack drops 1 credit hours. How many credits remain?,8,9,x,y,9,1
+Jack has x apples to divide equally into y bags. How many apples go in each bag?,x,The course offers 17 credit hours. Jack drops 8 credit hours. How many credits remain?,9,2,x,y,17,8
+x students are divided equally into y classrooms. How many in each?,x,Amelia catches 49 fireflies. They release 35 fireflies. How many fireflies does Amelia have now?,14,1,x,y,49,35
+x students are divided equally into y classrooms. How many in each?,x,Amelia catches 29 fireflies. They release 2 fireflies. How many fireflies does Amelia have now?,27,14,x,y,29,2
+A baker divides x cookies equally among y trays. How many per tray?,x,"The itinerary includes 16 cities. After visiting 9 cities, how many remain?",7,1,x,y,16,9
+A baker divides x cookies equally among y trays. How many per tray?,x,"The itinerary includes 37 cities. After visiting 13 cities, how many remain?",24,2,x,y,37,13
+A book's x pages are divided equally into y chapters. How many per chapter?,x,The parking lot has 36 cars. 27 cars leave the lot. How many spaces are still occupied?,9,1,x,y,36,27
+A book's x pages are divided equally into y chapters. How many per chapter?,x,The parking lot has 46 cars. 28 cars leave the lot. How many spaces are still occupied?,18,1,x,y,46,28
+x pencils are packaged equally in y boxes. How many in each box?,x,"The train makes 15 stops. After 13 stops, how many remain on the route?",2,1,x,y,15,13
+x pencils are packaged equally in y boxes. How many in each box?,x,"The train makes 7 stops. After 4 stops, how many remain on the route?",3,1,x,y,7,4
+Zoe read x pages over y hours. What was the hourly rate?,x,Zoe owns 24 paintbrushes. Their teacher collects 20 paintbrushes for cleaning. How many paintbrushes does Zoe have now?,4,1,x,y,24,20
+Zoe read x pages over y hours. What was the hourly rate?,x,Zoe owns 48 paintbrushes. Their teacher collects 30 paintbrushes for cleaning. How many paintbrushes does Zoe have now?,18,1,x,y,48,30
+A machine made x widgets in y minutes. What was its per-minute rate?,x,The pool contains 26 gallons. Benjamin drains 3 gallons for cleaning. What volume remains?,23,8,x,y,26,3
+A machine made x widgets in y minutes. What was its per-minute rate?,x,The pool contains 42 gallons. Benjamin drains 40 gallons for cleaning. What volume remains?,2,1,x,y,42,40
+A printer produced x pages during y minutes. How many per minute?,x,The lake contains 47 fish. 5 fish are caught. How many fish remain?,42,9,x,y,47,5
+A printer produced x pages during y minutes. How many per minute?,x,The lake contains 16 fish. 13 fish are caught. How many fish remain?,3,1,x,y,16,13
+A car went x miles using y gallons. What was the mileage per gallon?,x,The bakery prepares 16 loaves. Customers purchase 14 loaves. How many loaves are left?,2,1,x,y,16,14
+A car went x miles using y gallons. What was the mileage per gallon?,x,The bakery prepares 42 loaves. Customers purchase 24 loaves. How many loaves are left?,18,1,x,y,42,24
+William earned $x by working y hours. What was the hourly wage?,x,The shopping list has 19 items. William crosses off 3 items. How many items remain?,16,6,x,y,19,3
+William earned $x by working y hours. What was the hourly wage?,x,The shopping list has 36 items. William crosses off 16 items. How many items remain?,20,2,x,y,36,16
+x plants are arranged in y equal rows. How many plants per row?,x,The project has 19 tasks. Henry completes 18 tasks. How many tasks remain?,1,1,x,y,19,18
+x plants are arranged in y equal rows. How many plants per row?,x,The project has 22 tasks. Henry completes 2 tasks. How many tasks remain?,20,11,x,y,22,2
+x cars are parked in y equal rows. How many cars per row?,x,Nora collects 15 action figures. They trade away 10 figures. How many action figures does Nora have now?,5,1,x,y,15,10
+x cars are parked in y equal rows. How many cars per row?,x,Nora collects 15 action figures. They trade away 11 figures. How many action figures does Nora have now?,4,1,x,y,15,11
+A quilt's x squares are arranged in y equal columns. How many per column?,x,Daniel owns 43 comic books. A friend borrows 30 comic books. How many comic books does Daniel have now?,13,1,x,y,43,30
+A quilt's x squares are arranged in y equal columns. How many per column?,x,Daniel owns 10 comic books. A friend borrows 4 comic books. How many comic books does Daniel have now?,6,2,x,y,10,4
+x desks are arranged in y equal rows. How many desks per row?,x,Henry receives 18 stickers for good behavior. The principal revokes 14 stickers. How many stickers does Henry have now?,4,1,x,y,18,14
+x desks are arranged in y equal rows. How many desks per row?,x,Henry receives 25 stickers for good behavior. The principal revokes 8 stickers. How many stickers does Henry have now?,17,3,x,y,25,8
+x books are placed equally on y shelves. How many books per shelf?,x,Grace collects 7 acorns. Squirrels steal 1 acorns. How many acorns does Grace have now?,6,7,x,y,7,1
+x books are placed equally on y shelves. How many books per shelf?,x,Grace collects 42 acorns. Squirrels steal 11 acorns. How many acorns does Grace have now?,31,3,x,y,42,11
+Alexander spent $x on y equally priced tickets. What was the price per ticket?,x,The item costs 4 dollars. Alexander pays with 6 dollars. What is the amount to be returned?,2,1,x,y,6,4
+Alexander spent $x on y equally priced tickets. What was the price per ticket?,x,The item costs 17 dollars. Alexander pays with 31 dollars. What is the amount to be returned?,14,1,x,y,31,17
+Matthew paid $x for y candy bags. What was the per-bag price?,x,The team has 48 timeouts. They call 8 timeouts. How many timeouts remain?,40,6,x,y,48,8
+Matthew paid $x for y candy bags. What was the per-bag price?,x,The team has 50 timeouts. They call 18 timeouts. How many timeouts remain?,32,2,x,y,50,18
+Henry spent $x on y identical toys. What was each toy's price?,x,The farm has 20 chickens. Henry sells 14 chickens at market. How many chickens remain?,6,1,x,y,20,14
+Henry spent $x on y identical toys. What was each toy's price?,x,The farm has 34 chickens. Henry sells 7 chickens at market. How many chickens remain?,27,4,x,y,34,7
+y apples cost $x altogether. What's the price per apple?,x,"Jacob's account shows 42 dollars. After a purchase of 33 dollars, what is the current balance?",9,1,x,y,42,33
+y apples cost $x altogether. What's the price per apple?,x,"Jacob's account shows 11 dollars. After a purchase of 6 dollars, what is the current balance?",5,1,x,y,11,6
+Amelia paid $x for y months of service. What was the monthly rate?,x,The quality check finds 1 defects in 35 items. How many items pass inspection?,34,35,x,y,35,1
+Amelia paid $x for y months of service. What was the monthly rate?,x,The quality check finds 2 defects in 33 items. How many items pass inspection?,31,16,x,y,33,2
+A car traveled x miles in y hours. What was its speed in mph?,x,Nathan has 21 hockey pucks. Their teammate borrows 8 hockey pucks. How many hockey pucks does Nathan have now?,13,2,x,y,21,8
+A car traveled x miles in y hours. What was its speed in mph?,x,Nathan has 38 hockey pucks. Their teammate borrows 6 hockey pucks. How many hockey pucks does Nathan have now?,32,6,x,y,38,6
+A plane covered x miles over y hours. What was its speed?,x,The wall needs 6 bricks. Benjamin lays 5 bricks. How many bricks remain?,1,1,x,y,6,5
+A plane covered x miles over y hours. What was its speed?,x,The wall needs 44 bricks. Benjamin lays 31 bricks. How many bricks remain?,13,1,x,y,44,31
+A runner completed x km in y hours. What was the pace?,x,Nora owns 35 tennis balls. The club replaces 28 old tennis balls. How many tennis balls does Nora have now?,7,1,x,y,35,28
+A runner completed x km in y hours. What was the pace?,x,Nora owns 50 tennis balls. The club replaces 47 old tennis balls. How many tennis balls does Nora have now?,3,1,x,y,50,47
+A train went x km during y hours. What was its speed?,x,"The job estimates 21 hours of labor. After 13 hours, how much work remains?",8,1,x,y,21,13
+A train went x km during y hours. What was its speed?,x,"The job estimates 25 hours of labor. After 15 hours, how much work remains?",10,1,x,y,25,15
+A cyclist rode x miles over y hours. What was the average speed?,x,The machine processes 39 items daily. 15 items complete. How many items remain?,24,2,x,y,39,15
+A cyclist rode x miles over y hours. What was the average speed?,x,The machine processes 6 items daily. 1 items complete. How many items remain?,5,6,x,y,6,1
+Chloe has x cups of flour to make y batches. How much per batch?,x,The puzzle has 17 pieces. Chloe connects 9 pieces. How many pieces remain?,8,1,x,y,17,9
+Chloe has x cups of flour to make y batches. How much per batch?,x,The puzzle has 10 pieces. Chloe connects 8 pieces. How many pieces remain?,2,1,x,y,10,8
+y cakes used x eggs total. How many eggs per cake?,x,"The therapy lasts 28 weeks. After 7 weeks, how much longer will it continue?",21,4,x,y,28,7
+y cakes used x eggs total. How many eggs per cake?,x,"The therapy lasts 44 weeks. After 28 weeks, how much longer will it continue?",16,1,x,y,44,28
+y cookies used x chips altogether. What's the average per cookie?,x,The cleanup targets 31 tons of waste. Volunteers remove 28 tons. How much waste remains?,3,1,x,y,31,28
+y cookies used x chips altogether. What's the average per cookie?,x,The cleanup targets 45 tons of waste. Volunteers remove 42 tons. How much waste remains?,3,1,x,y,45,42
+y servings used x ounces total. How much per serving?,x,Isla saves 27 coins. Their piggybank loses 24 coins. How many coins does Isla have now?,3,1,x,y,27,24
+y servings used x ounces total. How much per serving?,x,Isla saves 14 coins. Their piggybank loses 9 coins. How many coins does Isla have now?,5,1,x,y,14,9
+y bowls used x liters total. What was the amount per bowl?,x,Henry has 13 crayons. Their art set is missing 5 crayons. How many crayons does Henry have now?,8,2,x,y,13,5
+y bowls used x liters total. What was the amount per bowl?,x,Henry has 37 crayons. Their art set is missing 7 crayons. How many crayons does Henry have now?,30,5,x,y,37,7
+Isla earned $x by working y hours. What was the hourly pay?,x,Isla makes 50 sandwiches. Their friends eat 16 sandwiches. How many sandwiches does Isla have now?,34,3,x,y,50,16
+Isla earned $x by working y hours. What was the hourly pay?,x,Isla makes 33 sandwiches. Their friends eat 31 sandwiches. How many sandwiches does Isla have now?,2,1,x,y,33,31
+A worker earned $x from y items. What was the per-item rate?,x,James finds 26 seashells at the beach. The tide washes away 1 seashells. How many seashells does James have now?,25,26,x,y,26,1
+A worker earned $x from y items. What was the per-item rate?,x,James finds 31 seashells at the beach. The tide washes away 10 seashells. How many seashells does James have now?,21,3,x,y,31,10
+y projects earned $x total. What was the average per project?,x,"The store stocks 37 phones. By closing, 32 phones are sold. What is the remaining inventory?",5,1,x,y,37,32
+y projects earned $x total. What was the average per project?,x,"The store stocks 20 phones. By closing, 7 phones are sold. What is the remaining inventory?",13,2,x,y,20,7
+A consultant's y days of work cost $x. What was the daily rate?,x,Harper has 5 building blocks. Their sibling takes 4 blocks from their tower. How many blocks does Harper have now?,1,1,x,y,5,4
+A consultant's y days of work cost $x. What was the daily rate?,x,Harper has 13 building blocks. Their sibling takes 2 blocks from their tower. How many blocks does Harper have now?,11,6,x,y,13,2
+y overtime hours earned $x. What was the overtime rate?,x,Benjamin has 17 hats. Their collection decreases by 13 hats. How many hats does Benjamin have now?,4,1,x,y,17,13
+y overtime hours earned $x. What was the overtime rate?,x,Benjamin has 39 hats. Their collection decreases by 3 hats. How many hats does Benjamin have now?,36,13,x,y,39,3
+x oranges are packed equally in y crates. How many per crate?,x,The collection contains 44 coins. Michael sells 38 coins. How many coins remain?,6,1,x,y,44,38
+x oranges are packed equally in y crates. How many per crate?,x,The collection contains 22 coins. Michael sells 9 coins. How many coins remain?,13,2,x,y,22,9
+y cartons hold x eggs total. How many eggs per carton?,x,The concert starts in 43 minutes. Thomas needs 20 minutes to get ready. What is the latest possible departure time?,23,2,x,y,43,20
+y cartons hold x eggs total. How many eggs per carton?,x,The concert starts in 50 minutes. Thomas needs 5 minutes to get ready. What is the latest possible departure time?,45,10,x,y,50,5
+y jars have x marbles total. What's the average per jar?,x,Daniel has 18 basketballs. Their team donates 5 basketballs. How many basketballs does Daniel have now?,13,3,x,y,18,5
+y jars have x marbles total. What's the average per jar?,x,Daniel has 17 basketballs. Their team donates 12 basketballs. How many basketballs does Daniel have now?,5,1,x,y,17,12
+y cases contain x bottles total. How many per case?,x,Amelia collects 36 mangoes. They share 20 mangoes with their neighbor. How many mangoes does Amelia have now?,16,1,x,y,36,20
+y cases contain x bottles total. How many per case?,x,Amelia collects 44 mangoes. They share 7 mangoes with their neighbor. How many mangoes does Amelia have now?,37,6,x,y,44,7
+y packets contain x seeds total. How many seeds per packet?,x,Amelia has 37 sketchbooks. Their parents archive 10 old sketchbooks. How many sketchbooks does Amelia have now?,27,3,x,y,37,10
+y packets contain x seeds total. How many seeds per packet?,x,Amelia has 40 sketchbooks. Their parents archive 14 old sketchbooks. How many sketchbooks does Amelia have now?,26,2,x,y,40,14
+y tasks took x minutes total. What was the average time per task?,x,The reserve protects 45 acres. Development reduces it by 41 acres. What is the current size?,4,1,x,y,45,41
+y tasks took x minutes total. What was the average time per task?,x,The reserve protects 33 acres. Development reduces it by 17 acres. What is the current size?,16,1,x,y,33,17
+y units were made in x hours total. What was the time per unit?,x,The recipe calls for 19 grams of flour. William uses 2 grams. How much flour remains?,17,9,x,y,19,2
+y units were made in x hours total. What was the time per unit?,x,The recipe calls for 37 grams of flour. William uses 1 grams. How much flour remains?,36,37,x,y,37,1
+y questions took x minutes altogether. What was the average time?,x,"The oven needs 39 minutes to preheat. After 36 minutes, how much longer is needed?",3,1,x,y,39,36
+y questions took x minutes altogether. What was the average time?,x,"The oven needs 10 minutes to preheat. After 1 minutes, how much longer is needed?",9,10,x,y,10,1
+A machine completed x items over y hours. What was its processing rate?,x,"Amelia counts 17 birds in the morning. By afternoon, 4 birds fly away. How many birds does Amelia see now?",13,4,x,y,17,4
+A machine completed x items over y hours. What was its processing rate?,x,"Amelia counts 28 birds in the morning. By afternoon, 20 birds fly away. How many birds does Amelia see now?",8,1,x,y,28,20
+y customers were served in x minutes. What was the average service time?,x,Olivia owns 17 toy cars. They donate 6 toy cars to charity. How many toy cars does Olivia have now?,11,2,x,y,17,6
+y customers were served in x minutes. What was the average service time?,x,Olivia owns 49 toy cars. They donate 22 toy cars to charity. How many toy cars does Olivia have now?,27,2,x,y,49,22
+A team scored x points over y games. What was their average?,x,Daniel brings 49 dollars to the store. They spend 16 dollars. What amount remains?,33,3,x,y,49,16
+A team scored x points over y games. What was their average?,x,Daniel brings 46 dollars to the store. They spend 7 dollars. What amount remains?,39,6,x,y,46,7
+A player got x rebounds in y games. What was the average?,x,The shipment contains 32 products. 8 products are damaged. How many are intact?,24,4,x,y,32,8
+A player got x rebounds in y games. What was the average?,x,The shipment contains 24 products. 10 products are damaged. How many are intact?,14,2,x,y,24,10
+y innings had x runs total. What was the average per inning?,x,"The generator provides 44 hours of power. After 13 hours, how much runtime remains?",31,3,x,y,44,13
+y innings had x runs total. What was the average per inning?,x,"The generator provides 19 hours of power. After 12 hours, how much runtime remains?",7,1,x,y,19,12
+A player made x free throws over y games. What was the average?,x,"The bus has 23 passengers. At the stop, 1 passengers exit. How many continue the ride?",22,23,x,y,23,1
+A player made x free throws over y games. What was the average?,x,"The bus has 13 passengers. At the stop, 10 passengers exit. How many continue the ride?",3,1,x,y,13,10
+A team conceded x goals during y matches. What was the average?,x,The fitness goal is 24 steps daily. Daniel records 11 steps. How many more steps are needed?,13,2,x,y,24,11
+A team conceded x goals during y matches. What was the average?,x,The fitness goal is 34 steps daily. Daniel records 8 steps. How many more steps are needed?,26,4,x,y,34,8
+Matthew completed x paintings over y months. How many paintings per month on average?,x,The download requires 47 megabytes. 28 megabytes complete. How much data remains?,19,1,x,y,47,28
+Matthew completed x paintings over y months. How many paintings per month on average?,x,The download requires 41 megabytes. 21 megabytes complete. How much data remains?,20,1,x,y,41,21
+Lily used x pounds of clay for y sculptures. How much clay per sculpture?,x,The prescription has 21 doses. Lily takes 17 doses. How many doses remain?,4,1,x,y,21,17
+Lily used x pounds of clay for y sculptures. How much clay per sculpture?,x,The prescription has 22 doses. Lily takes 13 doses. How many doses remain?,9,1,x,y,22,13
+The troupe performed x shows across y cities. What was their average shows per city?,x,The warehouse has 28 boxes. Jacob ships out 22 boxes. How many boxes remain stored?,6,1,x,y,28,22
+The troupe performed x shows across y cities. What was their average shows per city?,x,The warehouse has 49 boxes. Jacob ships out 12 boxes. How many boxes remain stored?,37,4,x,y,49,12
+The art department has x paint tubes to share equally among y classes. How many per class?,x,Ava has 29 apples. Their friend takes 26 apples. How many apples does Ava have now?,3,1,x,y,29,26
+The art department has x paint tubes to share equally among y classes. How many per class?,x,Ava has 31 apples. Their friend takes 15 apples. How many apples does Ava have now?,16,2,x,y,31,15
+Henry wrote x poetry lines over y days. What was the average daily output?,x,The event budget is 34 dollars. 31 dollars are spent. How much remains?,3,1,x,y,34,31
+Henry wrote x poetry lines over y days. What was the average daily output?,x,The event budget is 44 dollars. 6 dollars are spent. How much remains?,38,7,x,y,44,6
+The theater used x yards of fabric for y seats. How much fabric per seat?,x,The library has 45 available books. Harper checks out 20 books. How many stay on shelves?,25,2,x,y,45,20
+The theater used x yards of fabric for y seats. How much fabric per seat?,x,The library has 41 available books. Harper checks out 5 books. How many stay on shelves?,36,8,x,y,41,5
+The band sold x albums over y concerts. What was their average sales per concert?,x,Ethan brings 42 soccer balls to practice. The league redistributes 37 soccer balls. How many soccer balls does Ethan have now?,5,1,x,y,42,37
+The band sold x albums over y concerts. What was their average sales per concert?,x,Ethan brings 46 soccer balls to practice. The league redistributes 25 soccer balls. How many soccer balls does Ethan have now?,21,1,x,y,46,25
+Emma covered x square inches with y tiles. What was the average coverage per tile?,x,Emma has 46 t-shirts. Their laundry loses 1 t-shirts. How many t-shirts does Emma have now?,45,46,x,y,46,1
+Emma covered x square inches with y tiles. What was the average coverage per tile?,x,Emma has 29 t-shirts. Their laundry loses 8 t-shirts. How many t-shirts does Emma have now?,21,3,x,y,29,8
+The crew shot x scenes over y days. What was their average daily scenes?,x,Ella has 31 pairs of shoes. Their family replaces 2 old pairs of shoes. How many pairs of shoes does Ella have now?,29,15,x,y,31,2
+The crew shot x scenes over y days. What was their average daily scenes?,x,Ella has 9 pairs of shoes. Their family replaces 8 old pairs of shoes. How many pairs of shoes does Ella have now?,1,1,x,y,9,8
+Nathan has x rings to distribute equally among y boxes. How many rings per box?,x,The container holds 50 liters. Nathan pours out 29 liters. What is the remaining capacity?,21,1,x,y,50,29
+Nathan has x rings to distribute equally among y boxes. How many rings per box?,x,The container holds 29 liters. Nathan pours out 27 liters. What is the remaining capacity?,2,1,x,y,29,27
+The hive produced x ounces of honey over y days. What was the average daily yield?,x,"The schedule allows 30 minutes per speaker. After 9 minutes, how much time remains?",21,3,x,y,30,9
+The hive produced x ounces of honey over y days. What was the average daily yield?,x,"The schedule allows 35 minutes per speaker. After 32 minutes, how much time remains?",3,1,x,y,35,32
+Researchers found x epiphyte species on y trees. What was the average per tree?,x,Michael buys 30 juice boxes. Their classmates drink 3 juice boxes. How many juice boxes does Michael have now?,27,10,x,y,30,3
+Researchers found x epiphyte species on y trees. What was the average per tree?,x,Michael buys 23 juice boxes. Their classmates drink 11 juice boxes. How many juice boxes does Michael have now?,12,2,x,y,23,11
+The volcano released x tons of ash over y hours. What was the hourly eruption rate?,x,Benjamin has 26 baseballs. Their coach takes 23 baseballs for practice. How many baseballs does Benjamin have now?,3,1,x,y,26,23
+The volcano released x tons of ash over y hours. What was the hourly eruption rate?,x,Benjamin has 36 baseballs. Their coach takes 30 baseballs for practice. How many baseballs does Benjamin have now?,6,1,x,y,36,30
+Scientists observed x hermit crabs distributed equally among y pools. What was the average per pool?,x,James has 28 candies in their bag. Their teacher takes 13 candies. How many candies does James have now?,15,2,x,y,28,13
+Scientists observed x hermit crabs distributed equally among y pools. What was the average per pool?,x,James has 50 candies in their bag. Their teacher takes 37 candies. How many candies does James have now?,13,1,x,y,50,37
+The glacier retreated x inches over y days. What was the average daily recession?,x,The plot fits 28 vegetables. Grace harvests 18 vegetables. How many vegetables remain?,10,1,x,y,28,18
+The glacier retreated x inches over y days. What was the average daily recession?,x,The plot fits 36 vegetables. Grace harvests 15 vegetables. How many vegetables remain?,21,2,x,y,36,15
+Observers counted x meteors over y hours. What was the hourly rate?,x,Sophia reads 29 chapter books. Their school collects 16 chapter books for inventory. How many chapter books does Sophia have now?,13,1,x,y,29,16
+Observers counted x meteors over y hours. What was the hourly rate?,x,Sophia reads 23 chapter books. Their school collects 22 chapter books for inventory. How many chapter books does Sophia have now?,1,1,x,y,23,22
+The sunflower grew x inches over y weeks. What was the average weekly growth?,x,"The phone has 39% battery. After 37% is used, what percentage remains?",2,1,x,y,39,37
+The sunflower grew x inches over y weeks. What was the average weekly growth?,x,"The phone has 29% battery. After 5% is used, what percentage remains?",24,5,x,y,29,5
+Marine biologists documented x species among y reefs. What was the average per reef?,x,The suitcase holds 18 kilograms. Isla packs 13 kilograms. How much more weight is allowed?,5,1,x,y,18,13
+Marine biologists documented x species among y reefs. What was the average per reef?,x,The suitcase holds 23 kilograms. Isla packs 13 kilograms. How much more weight is allowed?,10,1,x,y,23,13
+The storm had x lightning flashes over y minutes. What was the flash rate?,x,Alexander collects 24 bottle caps. Their friend takes 8 bottle caps for a project. How many bottle caps does Alexander have now?,16,3,x,y,24,8
+The storm had x lightning flashes over y minutes. What was the flash rate?,x,Alexander collects 43 bottle caps. Their friend takes 3 bottle caps for a project. How many bottle caps does Alexander have now?,40,14,x,y,43,3
+The fungal network covered x square feet across y colonies. What was the average size?,x,The storage has 14 gigabytes free. Henry saves 1 gigabytes of photos. How much space remains?,13,14,x,y,14,1
+The fungal network covered x square feet across y colonies. What was the average size?,x,The storage has 32 gigabytes free. Henry saves 22 gigabytes of photos. How much space remains?,10,1,x,y,32,22
+The server processed x requests over y seconds. What was the request rate?,x,The budget allows 25 dollars. Matthew spends 6 dollars. How much remains?,19,4,x,y,25,6
+The server processed x requests over y seconds. What was the request rate?,x,The budget allows 49 dollars. Matthew spends 46 dollars. How much remains?,3,1,x,y,49,46
+A shipment of y phones has xGB total storage. What's the average per phone?,x,Thomas collects 38 colored pencils. A set gets damaged and loses 25 colored pencils. How many colored pencils does Thomas have now?,13,1,x,y,38,25
+A shipment of y phones has xGB total storage. What's the average per phone?,x,Thomas collects 14 colored pencils. A set gets damaged and loses 2 colored pencils. How many colored pencils does Thomas have now?,12,7,x,y,14,2
+Lucas downloaded x MB over y seconds. What was the download speed?,x,The solar panel produces 46 watts daily. 20 watts are consumed. What is the net production?,26,2,x,y,46,20
+Lucas downloaded x MB over y seconds. What was the download speed?,x,The solar panel produces 29 watts daily. 22 watts are consumed. What is the net production?,7,1,x,y,29,22
+A team of y robots assembled x components. What was each robot's average output?,x,The scoreboard shows 33 points. The referee deducts 7 points. What is the adjusted score?,26,4,x,y,33,7
+A team of y robots assembled x components. What was each robot's average output?,x,The scoreboard shows 42 points. The referee deducts 30 points. What is the adjusted score?,12,1,x,y,42,30
+The data center used x kilowatts across y racks. What was the average per rack?,x,"The building is 35 feet tall. The top floor is removed, reducing height by 18 feet. What is the current height?",17,1,x,y,35,18
+The data center used x kilowatts across y racks. What was the average per rack?,x,"The building is 32 feet tall. The top floor is removed, reducing height by 15 feet. What is the current height?",17,2,x,y,32,15
+Installing y updates took x minutes total. What was the average time?,x,The loyalty card has 22 points. Emma redeems 8 points. How many points remain?,14,2,x,y,22,8
+Installing y updates took x minutes total. What was the average time?,x,The loyalty card has 30 points. Emma redeems 8 points. How many points remain?,22,3,x,y,30,8
+The cable transferred x TB over y hours. What was the average rate?,x,The gallery displays 41 paintings. 25 paintings go on tour. How many remain on view?,16,1,x,y,41,25
+The cable transferred x TB over y hours. What was the average rate?,x,The gallery displays 13 paintings. 8 paintings go on tour. How many remain on view?,5,1,x,y,13,8
+The system collected x metrics from y watches. What was the average per watch?,x,"The flight duration is 18 hours. After 11 hours in the air, how much longer until landing?",7,1,x,y,18,11
+The system collected x metrics from y watches. What was the average per watch?,x,"The flight duration is 35 hours. After 13 hours in the air, how much longer until landing?",22,2,x,y,35,13
+The printer created x layers over y minutes. What was the average speed?,x,Nathan has 28 pencils. The teacher collects 16 pencils. How many pencils does Nathan have now?,12,1,x,y,28,16
+The printer created x layers over y minutes. What was the average speed?,x,Nathan has 43 pencils. The teacher collects 32 pencils. How many pencils does Nathan have now?,11,1,x,y,43,32
+The VR setup uses x sensors across y headsets. What's the average per headset?,x,"The tree grows 16 centimeters yearly. After 7 centimeters are trimmed, what is the net growth?",9,2,x,y,16,7
+The VR setup uses x sensors across y headsets. What's the average per headset?,x,"The tree grows 21 centimeters yearly. After 19 centimeters are trimmed, what is the net growth?",2,1,x,y,21,19
+The ferry carried x vehicles over y trips. What was the average vehicles per trip?,x,"The workday is 35 hours long. After 23 hours, how much time remains?",12,1,x,y,35,23
+The ferry carried x vehicles over y trips. What was the average vehicles per trip?,x,"The workday is 37 hours long. After 22 hours, how much time remains?",15,1,x,y,37,22
+The cabin's y seats weigh x pounds total. What is the average seat weight?,x,Amelia owns 18 video games. The store recalls 8 video games. How many video games does Amelia have now?,10,2,x,y,18,8
+The cabin's y seats weigh x pounds total. What is the average seat weight?,x,Amelia owns 50 video games. The store recalls 45 video games. How many video games does Amelia have now?,5,1,x,y,50,45
+There were x arrivals during y minutes. What was the actual arrival frequency?,x,James has 49 storybooks. The library recalls 31 storybooks. How many storybooks does James have now?,18,1,x,y,49,31
+There were x arrivals during y minutes. What was the actual arrival frequency?,x,James has 40 storybooks. The library recalls 19 storybooks. How many storybooks does James have now?,21,2,x,y,40,19
+A fleet of y scooters traveled x miles total. What was the average distance per scooter?,x,The item originally costs 20 dollars. The discount reduces it by 8 dollars. What is the sale price?,12,2,x,y,20,8
+A fleet of y scooters traveled x miles total. What was the average distance per scooter?,x,The item originally costs 47 dollars. The discount reduces it by 35 dollars. What is the sale price?,12,1,x,y,47,35
+Dockworkers loaded x containers over y hours. What was their average hourly rate?,x,The plane has 20 empty seats. 5 standby passengers are accommodated. How many seats remain?,15,4,x,y,20,5
+Dockworkers loaded x containers over y hours. What was their average hourly rate?,x,The plane has 30 empty seats. 11 standby passengers are accommodated. How many seats remain?,19,2,x,y,30,11
+The shop used x spokes across y wheels. What was the average spokes per wheel?,x,Charlotte has 32 clay pots. Their art class breaks 4 clay pots. How many clay pots does Charlotte have now?,28,8,x,y,32,4
+The shop used x spokes across y wheels. What was the average spokes per wheel?,x,Charlotte has 38 clay pots. Their art class breaks 4 clay pots. How many clay pots does Charlotte have now?,34,9,x,y,38,4
+The booth processed x cars over y minutes. What was its average processing rate?,x,"The contract lasts 38 months. After 20 months, how much time remains?",18,1,x,y,38,20
+The booth processed x cars over y minutes. What was its average processing rate?,x,"The contract lasts 41 months. After 15 months, how much time remains?",26,2,x,y,41,15
+The train has x seats total across y carriages. What's the average per carriage?,x,Ella finds 30 erasers in their desk. They lose 10 erasers. How many erasers does Ella have now?,20,3,x,y,30,10
+The train has x seats total across y carriages. What's the average per carriage?,x,Ella finds 41 erasers in their desk. They lose 4 erasers. How many erasers does Ella have now?,37,10,x,y,41,4
+The helicopter consumed x gallons over y hours. What was its average hourly usage?,x,Henry wears 15 jackets. Their closet donates 5 jackets. How many jackets does Henry have now?,10,3,x,y,15,5
+The helicopter consumed x gallons over y hours. What was its average hourly usage?,x,Henry wears 13 jackets. Their closet donates 9 jackets. How many jackets does Henry have now?,4,1,x,y,13,9
+The charging station provided x kW total to y vehicles. What was the average per vehicle?,x,The exam has 28 questions. Michael answers 15 questions. How many questions remain?,13,1,x,y,28,15
+The charging station provided x kW total to y vehicles. What was the average per vehicle?,x,The exam has 32 questions. Michael answers 10 questions. How many questions remain?,22,3,x,y,32,10
+The rover traveled x meters over y days. What was its average daily distance?,x,The video is 45 minutes long. William watches 15 minutes. How much video remains?,30,3,x,y,45,15
+The rover traveled x meters over y days. What was its average daily distance?,x,The video is 29 minutes long. William watches 4 minutes. How much video remains?,25,7,x,y,29,4
+The crew ate x pounds of food over y weeks. What was their average weekly consumption?,x,The guest list has 19 people. 5 people cancel. How many attendees are expected?,14,3,x,y,19,5
+The crew ate x pounds of food over y weeks. What was their average weekly consumption?,x,The guest list has 40 people. 37 people cancel. How many attendees are expected?,3,1,x,y,40,37
+The satellite made x orbits in y days. What was its actual daily orbit count?,x,The coupon saves 36 dollars. The fine print deducts 32 dollars from the savings. What is the net discount?,4,1,x,y,36,32
+The satellite made x orbits in y days. What was its actual daily orbit count?,x,The coupon saves 22 dollars. The fine print deducts 20 dollars from the savings. What is the net discount?,2,1,x,y,22,20
+Mission Control spent x hours prepping for y spacewalks. What was the average prep time?,x,The order requires 38 components. The bin has 3 components. How many more are needed?,35,12,x,y,38,3
+Mission Control spent x hours prepping for y spacewalks. What was the average prep time?,x,The order requires 28 components. The bin has 23 components. How many more are needed?,5,1,x,y,28,23
+The rocket used x tons of fuel over y minutes. What was its average burn rate?,x,The battery stores 27 kilowatt-hours. 25 kilowatt-hours are used. How much energy remains?,2,1,x,y,27,25
+The rocket used x tons of fuel over y minutes. What was its average burn rate?,x,The battery stores 31 kilowatt-hours. 3 kilowatt-hours are used. How much energy remains?,28,10,x,y,31,3
+Scientists deployed x instruments across y modules. What was the average per module?,x,The jar holds 25 servings. Mia consumes 20 servings. How many servings remain?,5,1,x,y,25,20
+Scientists deployed x instruments across y modules. What was the average per module?,x,The jar holds 42 servings. Mia consumes 29 servings. How many servings remain?,13,1,x,y,42,29
+The telescope took x images during y orbits. What was its average imaging rate?,x,Daniel has 30 markers. Their art teacher removes 29 markers from their collection. How many markers does Daniel have now?,1,1,x,y,30,29
+The telescope took x images during y orbits. What was its average imaging rate?,x,Daniel has 42 markers. Their art teacher removes 39 markers from their collection. How many markers does Daniel have now?,3,1,x,y,42,39
+The mission collected x grams from y samples. What was the average sample weight?,x,Chloe has 37 board games. Their family gives away 27 board games. How many board games does Chloe have now?,10,1,x,y,37,27
+The mission collected x grams from y samples. What was the average sample weight?,x,Chloe has 28 board games. Their family gives away 27 board games. How many board games does Chloe have now?,1,1,x,y,28,27
+The shield blocked x units over y hours. What was its average protection rate?,x,"The cruise has 14 ports of call. After 10 stops, how many ports remain?",4,1,x,y,14,10
+The shield blocked x units over y hours. What was its average protection rate?,x,"The cruise has 48 ports of call. After 20 stops, how many ports remain?",28,2,x,y,48,20
+Mission Control spent x minutes on y transmissions. What was the average time per transmission?,x,The blueprint requires 33 boards. Benjamin cuts 10 boards. How many more are needed?,23,3,x,y,33,10
+Mission Control spent x minutes on y transmissions. What was the average time per transmission?,x,The blueprint requires 32 boards. Benjamin cuts 12 boards. How many more are needed?,20,2,x,y,32,12
+The alchemist used x scales to make y potions. What was the average per potion?,x,Ella grows 36 strawberries. 25 strawberries get eaten by birds. How many strawberries does Ella have now?,11,1,x,y,36,25
+The alchemist used x scales to make y potions. What was the average per potion?,x,Ella grows 22 strawberries. 16 strawberries get eaten by birds. How many strawberries does Ella have now?,6,1,x,y,22,16
+Adventurers found x traps across y levels. What was the average traps per level?,x,Henry plants 11 flowers. A storm damages 8 flowers. How many flowers does Henry have now?,3,1,x,y,11,8
+Adventurers found x traps across y levels. What was the average traps per level?,x,Henry plants 30 flowers. A storm damages 4 flowers. How many flowers does Henry have now?,26,7,x,y,30,4
+The wizard spent x mana on y spells. What was the average cost per spell?,x,Benjamin has 48 picture books. Their relative asks for 10 picture books back. How many picture books does Benjamin have now?,38,4,x,y,48,10
+The wizard spent x mana on y spells. What was the average cost per spell?,x,Benjamin has 11 picture books. Their relative asks for 2 picture books back. How many picture books does Benjamin have now?,9,5,x,y,11,2
+The character gained x XP over y quests. What was the average XP per quest?,x,The textbook has 23 chapters. Charlotte studies 20 chapters. How many chapters remain?,3,1,x,y,23,20
+The character gained x XP over y quests. What was the average XP per quest?,x,The textbook has 43 chapters. Charlotte studies 6 chapters. How many chapters remain?,37,7,x,y,43,6
+The party found x coins distributed among y chests. What was the average per chest?,x,The tank holds 36 liters of fuel. Amelia uses 3 liters. How much fuel remains?,33,12,x,y,36,3
+The party found x coins distributed among y chests. What was the average per chest?,x,The tank holds 16 liters of fuel. Amelia uses 12 liters. How much fuel remains?,4,1,x,y,16,12
+Explorers mapped x passages across y towers. What was the average per tower?,x,Grace brings 20 notebooks to class. A classmate borrows 12 notebooks. How many notebooks does Grace have now?,8,1,x,y,20,12
+Explorers mapped x passages across y towers. What was the average per tower?,x,Grace brings 38 notebooks to class. A classmate borrows 12 notebooks. How many notebooks does Grace have now?,26,3,x,y,38,12
+Defeating y monsters yielded x items total. What was the average drop?,x,The quota requires 41 sales. Matthew makes 16 sales. How many more are needed?,25,2,x,y,41,16
+Defeating y monsters yielded x items total. What was the average drop?,x,The quota requires 31 sales. Matthew makes 9 sales. How many more are needed?,22,3,x,y,31,9
+The y-chapter spellbook has x pages total. How many pages per chapter?,x,"The game has 31 innings. After 29 innings, how many remain?",2,1,x,y,31,29
+The y-chapter spellbook has x pages total. How many pages per chapter?,x,"The game has 12 innings. After 2 innings, how many remain?",10,6,x,y,12,2
+Thomas made x moves total across y puzzles. What was the average per puzzle?,x,Thomas buys 46 bananas. The cashier takes back 17 bananas. How many bananas does Thomas have now?,29,2,x,y,46,17
+Thomas made x moves total across y puzzles. What was the average per puzzle?,x,Thomas buys 8 bananas. The cashier takes back 2 bananas. How many bananas does Thomas have now?,6,4,x,y,8,2
+The game loaded x textures over y seconds. What was the average loading speed?,x,"The package weighs 19 kilograms. After removing 1 kilograms, what is the current weight?",18,19,x,y,19,1
+The game loaded x textures over y seconds. What was the average loading speed?,x,"The package weighs 40 kilograms. After removing 23 kilograms, what is the current weight?",17,1,x,y,40,23
+The pyramid's y blocks weigh x tons total. What is the average block weight?,x,Lucas practices piano for 30 minutes daily. Today they stopped after 2 minutes. How much practice was skipped?,28,15,x,y,30,2
+The pyramid's y blocks weigh x tons total. What is the average block weight?,x,Lucas practices piano for 48 minutes daily. Today they stopped after 9 minutes. How much practice was skipped?,39,5,x,y,48,9
+The x-page manuscript took y days to copy. What was the average daily output?,x,The project needs 36 nails. The box contains 24 nails. How many additional nails are needed?,12,1,x,y,36,24
+The x-page manuscript took y days to copy. What was the average daily output?,x,The project needs 18 nails. The box contains 16 nails. How many additional nails are needed?,2,1,x,y,18,16
+The fleet of y ships transported x warriors total. What was the average per ship?,x,Amelia has 50 minutes to complete a task. The timer shows 15 minutes have passed. What is the current remaining time?,35,3,x,y,50,15
+The fleet of y ships transported x warriors total. What was the average per ship?,x,Amelia has 27 minutes to complete a task. The timer shows 26 minutes have passed. What is the current remaining time?,1,1,x,y,27,26
+Builders used x stones across y walls. What was the average per wall?,x,"The trip covers 27 kilometers. After 1 kilometers, how much farther is the destination?",26,27,x,y,27,1
+Builders used x stones across y walls. What was the average per wall?,x,"The trip covers 31 kilometers. After 12 kilometers, how much farther is the destination?",19,2,x,y,31,12
+The x-mile road consists of y segments. What is the average segment length?,x,Mia has 32 keys on their keychain. They remove 1 keys. How many keys does Mia have now?,31,32,x,y,32,1
+The x-mile road consists of y segments. What is the average segment length?,x,Mia has 43 keys on their keychain. They remove 27 keys. How many keys does Mia have now?,16,1,x,y,43,27
+The movement gained x supporters over y days. What was the average daily growth?,x,The circuit handles 36 amps safely. 9 amps are flowing. How much additional load is possible?,27,4,x,y,36,9
+The movement gained x supporters over y days. What was the average daily growth?,x,The circuit handles 25 amps safely. 22 amps are flowing. How much additional load is possible?,3,1,x,y,25,22
+The swordsmith spent x hours making y swords. What was the average time per sword?,x,The rope measures 28 meters. Lily cuts off 19 meters. What length remains?,9,1,x,y,28,19
+The swordsmith spent x hours making y swords. What was the average time per sword?,x,The rope measures 33 meters. Lily cuts off 27 meters. What length remains?,6,1,x,y,33,27
+The caravan covered x miles in y days. What was its average daily distance?,x,The playlist has 25 songs. Grace skips 18 songs. How many songs will play?,7,1,x,y,25,18
+The caravan covered x miles in y days. What was its average daily distance?,x,The playlist has 19 songs. Grace skips 7 songs. How many songs will play?,12,2,x,y,19,7
+Artists used x pigments across y paintings. What was the average per painting?,x,The highway project needs 38 workers. 14 workers finish their shift. How many workers are needed?,24,2,x,y,38,14
+Artists used x pigments across y paintings. What was the average per painting?,x,The highway project needs 11 workers. 10 workers finish their shift. How many workers are needed?,1,1,x,y,11,10
+The miner extracted x ounces over y weeks. What was the average weekly yield?,x,"Jacob earns 10 dollars weekly. After 7 dollars in deductions, what is the take-home amount?",3,1,x,y,10,7
+The miner extracted x ounces over y weeks. What was the average weekly yield?,x,"Jacob earns 49 dollars weekly. After 5 dollars in deductions, what is the take-home amount?",44,9,x,y,49,5
+The region received x inches of rain from y hurricanes. What was the average rainfall per hurricane?,x,The flowerbed needs 34 liters of water. Ella adds 15 liters. How much more water is needed?,19,2,x,y,34,15
+The region received x inches of rain from y hurricanes. What was the average rainfall per hurricane?,x,The flowerbed needs 48 liters of water. Ella adds 43 liters. How much more water is needed?,5,1,x,y,48,43
+Scientists measured x snowflakes across y square inches. What was the average snowflake density?,x,Ethan owns 43 pairs of socks. Their washing machine ruins 2 pairs of socks. How many pairs of socks does Ethan have now?,41,21,x,y,43,2
+Scientists measured x snowflakes across y square inches. What was the average snowflake density?,x,Ethan owns 45 pairs of socks. Their washing machine ruins 7 pairs of socks. How many pairs of socks does Ethan have now?,38,6,x,y,45,7
+The tornado outbreak damaged x structures across y tornadoes. What was the average damage per tornado?,x,The fundraiser goal is 40 dollars. Emma contributes 10 dollars. What is the remaining gap to the goal after the contribution?,30,4,x,y,40,10
+The tornado outbreak damaged x structures across y tornadoes. What was the average damage per tornado?,x,The fundraiser goal is 40 dollars. Emma contributes 28 dollars. What is the remaining gap to the goal after the contribution?,12,1,x,y,40,28
+Energy demand increased by x megawatts over y heatwave days. What was the average daily increase?,x,The garden has 43 plants. Samuel removes 42 weeds. How many desired plants remain?,1,1,x,y,43,42
+Energy demand increased by x megawatts over y heatwave days. What was the average daily increase?,x,The garden has 29 plants. Samuel removes 15 weeds. How many desired plants remain?,14,1,x,y,29,15
+The storm released x gigajoules through y lightning strikes. What was the average energy per strike?,x,Alexander has 28 photos in their album. They remove 24 photos. How many photos does Alexander have now?,4,1,x,y,28,24
+The storm released x gigajoules through y lightning strikes. What was the average energy per strike?,x,Alexander has 44 photos in their album. They remove 17 photos. How many photos does Alexander have now?,27,2,x,y,44,17
+The floodwaters covered x acres over y hours. What was the average expansion rate?,x,"The stew requires 32 hours to cook. After 3 hours, how much cooking time remains?",29,10,x,y,32,3
+The floodwaters covered x acres over y hours. What was the average expansion rate?,x,"The stew requires 5 hours to cook. After 3 hours, how much cooking time remains?",2,1,x,y,5,3
+The storm dropped x hailstones across y square yards. What was the average concentration?,x,The patient needs 24 milligrams of medicine. The nurse administers 4 milligrams. How much more is needed?,20,6,x,y,24,4
+The storm dropped x hailstones across y square yards. What was the average concentration?,x,The patient needs 15 milligrams of medicine. The nurse administers 3 milligrams. How much more is needed?,12,5,x,y,15,3
+Reservoirs dropped x feet during y months of drought. What was the average monthly decline?,x,The conference has 29 sessions. Ella attends 28 sessions. How many sessions remain?,1,1,x,y,29,28
+Reservoirs dropped x feet during y months of drought. What was the average monthly decline?,x,The conference has 23 sessions. Ella attends 12 sessions. How many sessions remain?,11,1,x,y,23,12
+The tsunami moved x tons of debris through y waves. What was the average debris per wave?,x,Ethan buys 11 donuts. Their family eats 1 donuts. How many donuts does Ethan have now?,10,11,x,y,11,1
+The tsunami moved x tons of debris through y waves. What was the average debris per wave?,x,Ethan buys 26 donuts. Their family eats 14 donuts. How many donuts does Ethan have now?,12,1,x,y,26,14
+Visibility decreased by x meters over y minutes. What was the average rate of visibility loss?,x,Charlotte budgets 12 dollars for groceries. The receipt shows 10 dollars spent. How much remains in the budget?,2,1,x,y,12,10
+Visibility decreased by x meters over y minutes. What was the average rate of visibility loss?,x,Charlotte budgets 39 dollars for groceries. The receipt shows 32 dollars spent. How much remains in the budget?,7,1,x,y,39,32
+A pod of y whales consumed x krill total. What was the average krill per whale?,x,The air quality index shows 33 particles. Filters remove 28 particles. What is the improved reading?,5,1,x,y,33,28
+A pod of y whales consumed x krill total. What was the average krill per whale?,x,The air quality index shows 26 particles. Filters remove 18 particles. What is the improved reading?,8,1,x,y,26,18
+The reef grew x centimeters over y years. What was its average annual growth?,x,The order requires 37 tiles. Lucas breaks 23 tiles. How many usable tiles remain?,14,1,x,y,37,23
+The reef grew x centimeters over y years. What was its average annual growth?,x,The order requires 29 tiles. Lucas breaks 1 tiles. How many usable tiles remain?,28,29,x,y,29,1
+Researchers found x turtle eggs in y nests. What was the average eggs per nest?,x,Olivia collects 42 magazines. Their subscription expires for 27 magazines. How many magazines does Olivia have now?,15,1,x,y,42,27
+Researchers found x turtle eggs in y nests. What was the average eggs per nest?,x,Olivia collects 22 magazines. Their subscription expires for 6 magazines. How many magazines does Olivia have now?,16,3,x,y,22,6
+Driftwood traveled x miles over y days. What was the average daily movement?,x,The forest has 29 trees. Loggers remove 19 trees. How many trees remain?,10,1,x,y,29,19
+Driftwood traveled x miles over y days. What was the average daily movement?,x,The forest has 48 trees. Loggers remove 42 trees. How many trees remain?,6,1,x,y,48,42
+Scientists measured x oxygen molecules from y phytoplankton clusters. What was the average production rate?,x,Jack picks 31 oranges. They drop 25 oranges. How many oranges does Jack have now?,6,1,x,y,31,25
+Scientists measured x oxygen molecules from y phytoplankton clusters. What was the average production rate?,x,Jack picks 43 oranges. They drop 41 oranges. How many oranges does Jack have now?,2,1,x,y,43,41
+The kelp grew x feet over y months. What was its average monthly growth?,x,"Mia's meeting lasts 24 minutes. After 17 minutes, how much meeting time is left?",7,1,x,y,24,17
+The kelp grew x feet over y months. What was its average monthly growth?,x,"Mia's meeting lasts 41 minutes. After 39 minutes, how much meeting time is left?",2,1,x,y,41,39
+Fishermen emptied x fish from y nets. What was the average catch per net?,x,The production line makes 38 units per hour. Maintenance removes 13 units. What is the new output?,25,2,x,y,38,13
+Fishermen emptied x fish from y nets. What was the average catch per net?,x,The production line makes 47 units per hour. Maintenance removes 29 units. What is the new output?,18,1,x,y,47,29
+The submarine surveyed x square miles over y days. What was its average daily exploration?,x,The athlete needs 41 meters to win. They complete 11 meters. How much farther is needed?,30,3,x,y,41,11
+The submarine surveyed x square miles over y days. What was its average daily exploration?,x,The athlete needs 20 meters to win. They complete 13 meters. How much farther is needed?,7,1,x,y,20,13
+An oyster bed of y oysters filtered x gallons total. What was the average per oyster?,x,The app has 45 daily uses allowed. Matthew uses it 25 times. How many uses remain?,20,1,x,y,45,25
+An oyster bed of y oysters filtered x gallons total. What was the average per oyster?,x,The app has 39 daily uses allowed. Matthew uses it 10 times. How many uses remain?,29,3,x,y,39,10
+Researchers documented x species across y tidal surveys. What was the average per survey?,x,"The vacation lasts 40 days. After 6 days, how many days remain?",34,6,x,y,40,6
+Researchers documented x species across y tidal surveys. What was the average per survey?,x,"The vacation lasts 23 days. After 5 days, how many days remain?",18,4,x,y,23,5
+The quantum computer completed x operations over y seconds. What was its operation rate?,x,The batch makes 23 cookies. Samuel eats 16 cookies. How many cookies remain?,7,1,x,y,23,16
+The quantum computer completed x operations over y seconds. What was its operation rate?,x,The batch makes 36 cookies. Samuel eats 34 cookies. How many cookies remain?,2,1,x,y,36,34
+The nanobots repaired x cells during y minutes. What was their average repair rate?,x,The lab has 45 experiments. Henry completes 16 experiments. How many experiments remain?,29,2,x,y,45,16
+The nanobots repaired x cells during y minutes. What was their average repair rate?,x,The lab has 32 experiments. Henry completes 29 experiments. How many experiments remain?,3,1,x,y,32,29
+The hologram system uses x teraflops total across y projectors. What's the average per projector?,x,The venue seats 34 guests. 27 seats are reserved. How many seats are open?,7,1,x,y,34,27
+The hologram system uses x teraflops total across y projectors. What's the average per projector?,x,The venue seats 43 guests. 31 seats are reserved. How many seats are open?,12,1,x,y,43,31
+The reactor produced x megawatts over y hours. What was its average hourly output?,x,The book has 29 pages. Michael reads 3 pages. How many pages remain?,26,9,x,y,29,3
+The reactor produced x megawatts over y hours. What was its average hourly output?,x,The book has 20 pages. Michael reads 16 pages. How many pages remain?,4,1,x,y,20,16
+The AI processed x data points through y cycles. What was the average per cycle?,x,Thomas bakes 47 cookies. Their sibling eats 31 cookies. How many cookies does Thomas have now?,16,1,x,y,47,31
+The AI processed x data points through y cycles. What was the average per cycle?,x,Thomas bakes 48 cookies. Their sibling eats 39 cookies. How many cookies does Thomas have now?,9,1,x,y,48,39
+The elevator ascended x kilometers over y days. What was its average daily climb?,x,The assignment requires 38 pages. Zoe writes 16 pages. How much more is needed?,22,2,x,y,38,16
+The elevator ascended x kilometers over y days. What was its average daily climb?,x,The assignment requires 36 pages. Zoe writes 33 pages. How much more is needed?,3,1,x,y,36,33
+The gene editor made x edits over y seconds. What was its editing speed?,x,The treatment requires 32 sessions. Lucas attends 2 sessions. How many sessions remain?,30,16,x,y,32,2
+The gene editor made x edits over y seconds. What was its editing speed?,x,The treatment requires 25 sessions. Lucas attends 9 sessions. How many sessions remain?,16,2,x,y,25,9
+The colony used x liters over y days. What was their average daily usage?,x,Lily owns 39 stuffed animals. They give 22 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,17,1,x,y,39,22
+The colony used x liters over y days. What was their average daily usage?,x,Lily owns 32 stuffed animals. They give 21 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,11,1,x,y,32,21
+A team of y exoskeletons lifted x kg total. What was the average lifting capacity?,x,The seed packet contains 27 seeds. Harper plants 18 seeds. How many seeds remain?,9,1,x,y,27,18
+A team of y exoskeletons lifted x kg total. What was the average lifting capacity?,x,The seed packet contains 14 seeds. Harper plants 5 seeds. How many seeds remain?,9,2,x,y,14,5
+The drone completed x deliveries over y hours. What was its average delivery rate?,x,The tournament has 19 rounds. Alexander completes 4 rounds. How many rounds remain?,15,4,x,y,19,4
+The drone completed x deliveries over y hours. What was its average delivery rate?,x,The tournament has 48 rounds. Alexander completes 28 rounds. How many rounds remain?,20,1,x,y,48,28

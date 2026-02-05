@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has 49 apples. Their friend takes 18 apples. How many apples does Jack have now?,31,Each robot assembles 15 components hourly. How many components can 5 robots assemble?,75,10,49,18,15,5
+Jack has 10 apples. Their friend takes 2 apples. How many apples does Jack have now?,8,Each robot assembles 28 components hourly. How many components can 7 robots assemble?,196,21,10,2,28,7
+Chloe picks 7 oranges. They drop 5 oranges. How many oranges does Chloe have now?,2,Apples cost $18 per apple. How much for 2 apples?,36,16,7,5,18,2
+Chloe picks 3 oranges. They drop 1 oranges. How many oranges does Chloe have now?,2,Apples cost $46 per apple. How much for 46 apples?,2116,0,3,1,46,46
+Henry buys 40 bananas. The cashier takes back 2 bananas. How many bananas does Henry have now?,38,Each Renaissance painting uses 6 pigments. How many pigments for 6 paintings?,36,0,40,2,6,6
+Henry buys 47 bananas. The cashier takes back 42 bananas. How many bananas does Henry have now?,5,Each Renaissance painting uses 24 pigments. How many pigments for 24 paintings?,576,0,47,42,24,24
+Lucas grows 39 strawberries. 18 strawberries get eaten by birds. How many strawberries does Lucas have now?,21,The 3D printer makes 6 layers per minute. How many layers in 3 minutes?,18,3,39,18,6,3
+Lucas grows 23 strawberries. 9 strawberries get eaten by birds. How many strawberries does Lucas have now?,14,The 3D printer makes 22 layers per minute. How many layers in 11 minutes?,242,11,23,9,22,11
+Benjamin collects 23 mangoes. They share 4 mangoes with their neighbor. How many mangoes does Benjamin have now?,19,The fiber cable transmits 24 TB per hour. How much data in 6 hours?,144,18,23,4,24,6
+Benjamin collects 8 mangoes. They share 3 mangoes with their neighbor. How many mangoes does Benjamin have now?,5,The fiber cable transmits 49 TB per hour. How much data in 7 hours?,343,42,8,3,49,7
+Nora has 18 pencils. The teacher collects 2 pencils. How many pencils does Nora have now?,16,Workers are paid $3 per item. How much for 3 items?,9,0,18,2,3,3
+Nora has 36 pencils. The teacher collects 8 pencils. How many pencils does Nora have now?,28,Workers are paid $33 per item. How much for 3 items?,99,30,36,8,33,3
+Isla brings 37 notebooks to class. A classmate borrows 19 notebooks. How many notebooks does Isla have now?,18,The glacier recedes 24 inches daily. How much will it shrink after 4 days?,96,20,37,19,24,4
+Isla brings 25 notebooks to class. A classmate borrows 19 notebooks. How many notebooks does Isla have now?,6,The glacier recedes 14 inches daily. How much will it shrink after 14 days?,196,0,25,19,14,14
+Henry finds 4 erasers in their desk. They lose 3 erasers. How many erasers does Henry have now?,1,The nanobot swarm repairs 34 cells per minute. How many cells can it repair in 17 minutes?,578,17,4,3,34,17
+Henry finds 20 erasers in their desk. They lose 3 erasers. How many erasers does Henry have now?,17,The nanobot swarm repairs 50 cells per minute. How many cells can it repair in 10 minutes?,500,40,20,3,50,10
+Nora has 19 markers. Their art teacher removes 15 markers from their collection. How many markers does Nora have now?,4,The thunderstorm produces 8 lightning flashes per minute. How many flashes in 8 minutes?,64,0,19,15,8,8
+Nora has 24 markers. Their art teacher removes 7 markers from their collection. How many markers does Nora have now?,17,The thunderstorm produces 16 lightning flashes per minute. How many flashes in 4 minutes?,64,12,24,7,16,4
+Chloe receives 40 stickers for good behavior. The principal revokes 11 stickers. How many stickers does Chloe have now?,29,A subway train arrives every 48 minutes. How many arrivals will there be in 2 minutes?,96,46,40,11,48,2
+Chloe receives 12 stickers for good behavior. The principal revokes 8 stickers. How many stickers does Chloe have now?,4,A subway train arrives every 34 minutes. How many arrivals will there be in 34 minutes?,1156,0,12,8,34,34
+Jacob owns 16 toy cars. They donate 11 toy cars to charity. How many toy cars does Jacob have now?,5,Each pyramid block weighs 11 tons. What is the total weight of 11 blocks?,121,0,16,11,11,11
+Jacob owns 27 toy cars. They donate 9 toy cars to charity. How many toy cars does Jacob have now?,18,Each pyramid block weighs 30 tons. What is the total weight of 2 blocks?,60,28,27,9,30,2
+William has 47 building blocks. Their sibling takes 21 blocks from their tower. How many blocks does William have now?,26,A quilt has 24 squares along its length and 24 squares across. How many total?,576,0,47,21,24,24
+William has 33 building blocks. Their sibling takes 26 blocks from their tower. How many blocks does William have now?,7,A quilt has 36 squares along its length and 3 squares across. How many total?,108,33,33,26,36,3
+Nathan collects 11 action figures. They trade away 5 figures. How many action figures does Nathan have now?,6,Egg cartons contain 35 eggs each. How many eggs in 5 cartons?,175,30,11,5,35,5
+Nathan collects 49 action figures. They trade away 36 figures. How many action figures does Nathan have now?,13,Egg cartons contain 35 eggs each. How many eggs in 7 cartons?,245,28,49,36,35,7
+Grace has 39 board games. Their family gives away 26 board games. How many board games does Grace have now?,13,Grace earns $28 per hour and works 2 hours. What are the total earnings?,56,26,39,26,28,2
+Grace has 10 board games. Their family gives away 9 board games. How many board games does Grace have now?,1,Grace earns $50 per hour and works 25 hours. What are the total earnings?,1250,25,10,9,50,25
+Lily owns 9 stuffed animals. They give 3 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,6,A subscription costs $26 monthly. What's the cost for 2 months?,52,24,9,3,26,2
+Lily owns 45 stuffed animals. They give 28 stuffed animals to a younger sibling. How many stuffed animals does Lily have now?,17,A subscription costs $41 monthly. What's the cost for 41 months?,1681,0,45,28,41,41
+Ella finds 26 seashells at the beach. The tide washes away 20 seashells. How many seashells does Ella have now?,6,The band sells 48 albums per concert. How many albums will they sell at 3 concerts?,144,45,26,20,48,3
+Ella finds 18 seashells at the beach. The tide washes away 1 seashells. How many seashells does Ella have now?,17,The band sells 10 albums per concert. How many albums will they sell at 2 concerts?,20,8,18,1,10,2
+"Chloe counts 45 birds in the morning. By afternoon, 35 birds fly away. How many birds does Chloe see now?",10,Each treasure chest holds 7 coins. How many coins in 7 chests?,49,0,45,35,7,7
+"Chloe counts 43 birds in the morning. By afternoon, 22 birds fly away. How many birds does Chloe see now?",21,Each treasure chest holds 28 coins. How many coins in 2 chests?,56,26,43,22,28,2
+Olivia plants 34 flowers. A storm damages 12 flowers. How many flowers does Olivia have now?,22,Each mushroom colony expands 48 square feet daily. How much area would 8 colonies cover?,384,40,34,12,48,8
+Olivia plants 42 flowers. A storm damages 20 flowers. How many flowers does Olivia have now?,22,Each mushroom colony expands 24 square feet daily. How much area would 3 colonies cover?,72,21,42,20,24,3
+Matthew catches 40 fireflies. They release 13 fireflies. How many fireflies does Matthew have now?,27,Each theater seat needs 40 yards of fabric. How much fabric is required for 40 seats?,1600,0,40,13,40,40
+Matthew catches 50 fireflies. They release 11 fireflies. How many fireflies does Matthew have now?,39,Each theater seat needs 27 yards of fabric. How much fabric is required for 27 seats?,729,0,50,11,27,27
+Grace collects 40 acorns. Squirrels steal 21 acorns. How many acorns does Grace have now?,19,Each sea turtle lays 48 eggs per nest. How many eggs will 4 nests contain?,192,44,40,21,48,4
+Grace collects 9 acorns. Squirrels steal 6 acorns. How many acorns does Grace have now?,3,Each sea turtle lays 27 eggs per nest. How many eggs will 27 nests contain?,729,0,9,6,27,27
+Nathan bakes 5 cookies. Their sibling eats 2 cookies. How many cookies does Nathan have now?,3,Punch needs 48 liters per bowl. How much for 48 bowls?,2304,0,5,2,48,48
+Nathan bakes 7 cookies. Their sibling eats 6 cookies. How many cookies does Nathan have now?,1,Punch needs 34 liters per bowl. How much for 34 bowls?,1156,0,7,6,34,34
+Lily buys 10 donuts. Their family eats 3 donuts. How many donuts does Lily have now?,7,The drought lowers water levels by 44 feet monthly. How much will levels drop over 22 months?,968,22,10,3,44,22
+Lily buys 37 donuts. Their family eats 11 donuts. How many donuts does Lily have now?,26,The drought lowers water levels by 13 feet monthly. How much will levels drop over 13 months?,169,0,37,11,13,13
+Alexander makes 15 sandwiches. Their friends eat 9 sandwiches. How many sandwiches does Alexander have now?,6,Each cake needs 15 eggs. How many eggs for 5 cakes?,75,10,15,9,15,5
+Alexander makes 46 sandwiches. Their friends eat 13 sandwiches. How many sandwiches does Alexander have now?,33,Each cake needs 19 eggs. How many eggs for 19 cakes?,361,0,46,13,19,19
+Lucas has 44 candies in their bag. Their teacher takes 42 candies. How many candies does Lucas have now?,2,Each tsunami wave carries 10 tons of debris. How much debris will 10 waves move?,100,0,44,42,10,10
+Lucas has 35 candies in their bag. Their teacher takes 29 candies. How many candies does Lucas have now?,6,Each tsunami wave carries 36 tons of debris. How much debris will 3 waves move?,108,33,35,29,36,3
+Olivia buys 47 juice boxes. Their classmates drink 41 juice boxes. How many juice boxes does Olivia have now?,6,The coral reef grows 45 centimeters annually. How much will it grow in 15 years?,675,30,47,41,45,15
+Olivia buys 23 juice boxes. Their classmates drink 3 juice boxes. How many juice boxes does Olivia have now?,20,The coral reef grows 48 centimeters annually. How much will it grow in 2 years?,96,46,23,3,48,2
+Michael has 44 baseballs. Their coach takes 32 baseballs for practice. How many baseballs does Michael have now?,12,The space elevator climbs 15 kilometers daily. How far will it ascend in 15 days?,225,0,44,32,15,15
+Michael has 17 baseballs. Their coach takes 16 baseballs for practice. How many baseballs does Michael have now?,1,The space elevator climbs 28 kilometers daily. How far will it ascend in 2 days?,56,26,17,16,28,2
+Zoe owns 8 tennis balls. The club replaces 1 old tennis balls. How many tennis balls does Zoe have now?,7,Each puzzle takes 30 moves to solve. How many moves for 3 puzzles?,90,27,8,1,30,3
+Zoe owns 24 tennis balls. The club replaces 14 old tennis balls. How many tennis balls does Zoe have now?,10,Each puzzle takes 19 moves to solve. How many moves for 19 puzzles?,361,0,24,14,19,19
+Mia has 48 basketballs. Their team donates 4 basketballs. How many basketballs does Mia have now?,44,The fusion reactor generates 27 megawatts hourly. How much energy in 27 hours?,729,0,48,4,27,27
+Mia has 43 basketballs. Their team donates 7 basketballs. How many basketballs does Mia have now?,36,The fusion reactor generates 20 megawatts hourly. How much energy in 20 hours?,400,0,43,7,20,20
+Emma brings 17 soccer balls to practice. The league redistributes 7 soccer balls. How many soccer balls does Emma have now?,10,A team scores 15 points per game. How many points in 3 games?,45,12,17,7,15,3
+Emma brings 30 soccer balls to practice. The league redistributes 5 soccer balls. How many soccer balls does Emma have now?,25,A team scores 44 points per game. How many points in 11 games?,484,33,30,5,44,11
+Mia has 31 hockey pucks. Their teammate borrows 8 hockey pucks. How many hockey pucks does Mia have now?,23,Mia earns $18 per hour. How much for 18 hours?,324,0,31,8,18,18
+Mia has 5 hockey pucks. Their teammate borrows 1 hockey pucks. How many hockey pucks does Mia have now?,4,Mia earns $46 per hour. How much for 23 hours?,1058,23,5,1,46,23
+William has 12 crayons. Their art set is missing 7 crayons. How many crayons does William have now?,5,A runner maintains 2 km every hour. How far in 2 hours?,4,0,12,7,2,2
+William has 15 crayons. Their art set is missing 14 crayons. How many crayons does William have now?,1,A runner maintains 32 km every hour. How far in 2 hours?,64,30,15,14,32,2
+Jacob owns 26 paintbrushes. Their teacher collects 9 paintbrushes for cleaning. How many paintbrushes does Jacob have now?,17,Tickets cost $15 each. Jacob buys 5 tickets. What's the total cost?,75,10,26,9,15,5
+Jacob owns 29 paintbrushes. Their teacher collects 23 paintbrushes for cleaning. How many paintbrushes does Jacob have now?,6,Tickets cost $30 each. Jacob buys 10 tickets. What's the total cost?,300,20,29,23,30,10
+Harper has 11 sketchbooks. Their parents archive 4 old sketchbooks. How many sketchbooks does Harper have now?,7,The meteor shower produces 25 meteors hourly. How many might be seen during 25 hours?,625,0,11,4,25,25
+Harper has 49 sketchbooks. Their parents archive 21 old sketchbooks. How many sketchbooks does Harper have now?,28,The meteor shower produces 12 meteors hourly. How many might be seen during 4 hours?,48,8,49,21,12,4
+Emma collects 34 colored pencils. A set gets damaged and loses 11 colored pencils. How many colored pencils does Emma have now?,23,"A parking lot has 42 rows, each holding 21 cars. How many cars total?",882,21,34,11,42,21
+Emma collects 40 colored pencils. A set gets damaged and loses 5 colored pencils. How many colored pencils does Emma have now?,35,"A parking lot has 45 rows, each holding 45 cars. How many cars total?",2025,0,40,5,45,45
+Chloe has 9 clay pots. Their art class breaks 4 clay pots. How many clay pots does Chloe have now?,5,Questions take 42 minutes each. How long for 6 questions?,252,36,9,4,42,6
+Chloe has 41 clay pots. Their art class breaks 6 clay pots. How many clay pots does Chloe have now?,35,Questions take 20 minutes each. How long for 4 questions?,80,16,41,6,20,4
+Mia has 38 storybooks. The library recalls 34 storybooks. How many storybooks does Mia have now?,4,Each gene editor modifies 50 base pairs per second. How many edits in 25 seconds?,1250,25,38,34,50,25
+Mia has 27 storybooks. The library recalls 5 storybooks. How many storybooks does Mia have now?,22,Each gene editor modifies 24 base pairs per second. How many edits in 3 seconds?,72,21,27,5,24,3
+Chloe owns 31 comic books. A friend borrows 11 comic books. How many comic books does Chloe have now?,20,Each sculpture requires 22 pounds of clay. How much clay is needed to make 22 sculptures?,484,0,31,11,22,22
+Chloe owns 41 comic books. A friend borrows 37 comic books. How many comic books does Chloe have now?,4,Each sculpture requires 36 pounds of clay. How much clay is needed to make 18 sculptures?,648,18,41,37,36,18
+Olivia collects 24 magazines. Their subscription expires for 3 magazines. How many magazines does Olivia have now?,21,Cookies require 45 chips per cookie. How many chips for 3 cookies?,135,42,24,3,45,3
+Olivia collects 20 magazines. Their subscription expires for 6 magazines. How many magazines does Olivia have now?,14,Cookies require 16 chips per cookie. How many chips for 2 cookies?,32,14,20,6,16,2
+Daniel has 41 picture books. Their relative asks for 34 picture books back. How many picture books does Daniel have now?,7,Each of 10 boxes contains 10 pencils. What is the total count?,100,0,41,34,10,10
+Daniel has 9 picture books. Their relative asks for 2 picture books back. How many picture books does Daniel have now?,7,Each of 49 boxes contains 7 pencils. What is the total count?,343,42,9,2,49,7
+Harper reads 19 chapter books. Their school collects 10 chapter books for inventory. How many chapter books does Harper have now?,9,Each project pays $49. What's the income from 7 projects?,343,42,19,10,49,7
+Harper reads 47 chapter books. Their school collects 22 chapter books for inventory. How many chapter books does Harper have now?,25,Each project pays $3. What's the income from 3 projects?,9,0,47,22,3,3
+Henry has 18 t-shirts. Their laundry loses 17 t-shirts. How many t-shirts does Henry have now?,1,Each hologram projector uses 10 teraflops. How much processing power for 5 projectors?,50,5,18,17,10,5
+Henry has 42 t-shirts. Their laundry loses 28 t-shirts. How many t-shirts does Henry have now?,14,Each hologram projector uses 7 teraflops. How much processing power for 7 projectors?,49,0,42,28,7,7
+Matthew owns 37 pairs of socks. Their washing machine ruins 28 pairs of socks. How many pairs of socks does Matthew have now?,9,Each bicycle wheel requires 44 spokes. How many spokes are needed for 44 wheels?,1936,0,37,28,44,44
+Matthew owns 46 pairs of socks. Their washing machine ruins 10 pairs of socks. How many pairs of socks does Matthew have now?,36,Each bicycle wheel requires 28 spokes. How many spokes are needed for 14 wheels?,392,14,46,10,28,14
+Grace has 11 hats. Their collection decreases by 7 hats. How many hats does Grace have now?,4,The toll booth processes 16 cars per minute. How many cars can pass in 16 minutes?,256,0,11,7,16,16
+Grace has 21 hats. Their collection decreases by 12 hats. How many hats does Grace have now?,9,The toll booth processes 48 cars per minute. How many cars can pass in 16 minutes?,768,32,21,12,48,16
+Nathan wears 24 jackets. Their closet donates 18 jackets. How many jackets does Nathan have now?,6,Each candy bag costs $42. How much for 6 bags?,252,36,24,18,42,6
+Nathan wears 49 jackets. Their closet donates 10 jackets. How many jackets does Nathan have now?,39,Each candy bag costs $21. How much for 21 bags?,441,0,49,10,21,21
+Isla has 13 pairs of shoes. Their family replaces 7 old pairs of shoes. How many pairs of shoes does Isla have now?,6,A garden has 39 rows with 39 plants per row. How many plants total?,1521,0,13,7,39,39
+Isla has 28 pairs of shoes. Their family replaces 26 old pairs of shoes. How many pairs of shoes does Isla have now?,2,A garden has 39 rows with 3 plants per row. How many plants total?,117,36,28,26,39,3
+Chloe saves 19 coins. Their piggybank loses 6 coins. How many coins does Chloe have now?,13,Each airplane seat weighs 9 pounds. What is the total weight of 9 seats?,81,0,19,6,9,9
+Chloe saves 26 coins. Their piggybank loses 2 coins. How many coins does Chloe have now?,24,Each airplane seat weighs 10 pounds. What is the total weight of 5 seats?,50,5,26,2,10,5
+Nora has 14 keys on their keychain. They remove 8 keys. How many keys does Nora have now?,6,The ocean current moves 32 miles daily. How far will objects drift in 32 days?,1024,0,14,8,32,32
+Nora has 16 keys on their keychain. They remove 4 keys. How many keys does Nora have now?,12,The ocean current moves 26 miles daily. How far will objects drift in 13 days?,338,13,16,4,26,13
+James collects 27 bottle caps. Their friend takes 11 bottle caps for a project. How many bottle caps does James have now?,16,The submarine explores 46 square miles daily. How much area can it survey in 2 days?,92,44,27,11,46,2
+James collects 43 bottle caps. Their friend takes 33 bottle caps for a project. How many bottle caps does James have now?,10,The submarine explores 18 square miles daily. How much area can it survey in 2 days?,36,16,43,33,18,2
+Jacob has 9 photos in their album. They remove 5 photos. How many photos does Jacob have now?,4,Each software update takes 28 minutes. How long will 14 updates take?,392,14,9,5,28,14
+Jacob has 8 photos in their album. They remove 5 photos. How many photos does Jacob have now?,3,Each software update takes 26 minutes. How long will 13 updates take?,338,13,8,5,26,13
+Mia owns 29 video games. The store recalls 20 video games. How many video games does Mia have now?,9,The game loads 47 textures per second. How many textures in 47 seconds?,2209,0,29,20,47,47
+Mia owns 26 video games. The store recalls 19 video games. How many video games does Mia have now?,7,The game loads 9 textures per second. How many textures in 3 seconds?,27,6,26,19,9,3
+Henry has 25 minutes to complete a task. The timer shows 14 minutes have passed. What is the current remaining time?,11,The telescope captures 4 images per orbit. How many images in 4 orbits?,16,0,25,14,4,4
+Henry has 44 minutes to complete a task. The timer shows 8 minutes have passed. What is the current remaining time?,36,The telescope captures 20 images per orbit. How many images in 4 orbits?,80,16,44,8,20,4
+The concert starts in 21 minutes. Harper needs 14 minutes to get ready. What is the latest possible departure time?,7,The castle has 42 passages per tower. How many passages in 14 towers?,588,28,21,14,42,14
+The concert starts in 46 minutes. Harper needs 19 minutes to get ready. What is the latest possible departure time?,27,The castle has 36 passages per tower. How many passages in 18 towers?,648,18,46,19,36,18
+"Grace's meeting lasts 26 minutes. After 22 minutes, how much meeting time is left?",4,The sunflower grows 2 inches weekly. How tall will it be after 2 weeks?,4,0,26,22,2,2
+"Grace's meeting lasts 21 minutes. After 10 minutes, how much meeting time is left?",11,The sunflower grows 27 inches weekly. How tall will it be after 27 weeks?,729,0,21,10,27,27
+"The flight duration is 39 hours. After 21 hours in the air, how much longer until landing?",18,Henry has 39 bags with 3 apples in each. How many apples does Henry have total?,117,36,39,21,39,3
+"The flight duration is 30 hours. After 22 hours in the air, how much longer until landing?",8,Henry has 42 bags with 21 apples in each. How many apples does Henry have total?,882,21,30,22,42,21
+Henry practices piano for 49 minutes daily. Today they stopped after 11 minutes. How much practice was skipped?,38,Each tornado damages 30 structures. How many structures will 3 tornadoes affect?,90,27,49,11,30,3
+Henry practices piano for 20 minutes daily. Today they stopped after 17 minutes. How much practice was skipped?,3,Each tornado damages 10 structures. How many structures will 2 tornadoes affect?,20,8,20,17,10,2
+"Chloe's account shows 14 dollars. After a purchase of 3 dollars, what is the current balance?",11,Each coral reef supports 46 fish species. How many species might exist across 23 reefs?,1058,23,14,3,46,23
+"Chloe's account shows 31 dollars. After a purchase of 14 dollars, what is the current balance?",17,Each coral reef supports 10 fish species. How many species might exist across 2 reefs?,20,8,31,14,10,2
+The item costs 12 dollars. Nathan pays with 14 dollars. What is the amount to be returned?,2,Each serving requires 42 ounces. How much for 7 servings?,294,35,14,12,42,7
+The item costs 5 dollars. Nathan pays with 17 dollars. What is the amount to be returned?,12,Each serving requires 45 ounces. How much for 15 servings?,675,30,17,5,45,15
+Jack budgets 50 dollars for groceries. The receipt shows 7 dollars spent. How much remains in the budget?,43,Tasks take 44 minutes each. How long for 22 tasks?,968,22,50,7,44,22
+Jack budgets 13 dollars for groceries. The receipt shows 12 dollars spent. How much remains in the budget?,1,Tasks take 21 minutes each. How long for 7 tasks?,147,14,13,12,21,7
+The fundraiser goal is 37 dollars. Michael contributes 16 dollars. What is the remaining gap to the goal after the contribution?,21,Customers take 11 minutes each to serve. How long for 11 customers?,121,0,37,16,11,11
+The fundraiser goal is 44 dollars. Michael contributes 34 dollars. What is the remaining gap to the goal after the contribution?,10,Customers take 36 minutes each to serve. How long for 36 customers?,1296,0,44,34,36,36
+"Grace earns 41 dollars weekly. After 33 dollars in deductions, what is the take-home amount?",8,The beehive produces 48 ounces of honey daily. What will be the total production after 8 days?,384,40,41,33,48,8
+"Grace earns 37 dollars weekly. After 29 dollars in deductions, what is the take-home amount?",8,The beehive produces 48 ounces of honey daily. What will be the total production after 24 days?,1152,24,37,29,48,24
+The container holds 42 liters. Nathan pours out 18 liters. What is the remaining capacity?,24,The heatwave increases energy demand by 12 megawatts daily. How much extra power will be needed over 4 days?,48,8,42,18,12,4
+The container holds 42 liters. Nathan pours out 16 liters. What is the remaining capacity?,26,The heatwave increases energy demand by 48 megawatts daily. How much extra power will be needed over 48 days?,2304,0,42,16,48,48
+The rope measures 47 meters. Alexander cuts off 19 meters. What length remains?,28,A cyclist averages 30 miles every hour. How far in 30 hours?,900,0,47,19,30,30
+The rope measures 36 meters. Alexander cuts off 6 meters. What length remains?,30,A cyclist averages 23 miles every hour. How far in 23 hours?,529,0,36,6,23,23
+"The building is 28 feet tall. The top floor is removed, reducing height by 11 feet. What is the current height?",17,A recipe requires 30 cups of flour per batch. Benjamin makes 5 batches. How much flour?,150,25,28,11,30,5
+"The building is 28 feet tall. The top floor is removed, reducing height by 2 feet. What is the current height?",26,A recipe requires 30 cups of flour per batch. Benjamin makes 30 batches. How much flour?,900,0,28,2,30,30
+"The package weighs 39 kilograms. After removing 2 kilograms, what is the current weight?",37,A train travels 40 kilometers per hour. How far does it go in 40 hours?,1600,0,39,2,40,40
+"The package weighs 26 kilograms. After removing 16 kilograms, what is the current weight?",10,A train travels 14 kilometers per hour. How far does it go in 7 hours?,98,7,26,16,14,7
+The pool contains 49 gallons. James drains 48 gallons for cleaning. What volume remains?,1,The rocket burns 24 tons of fuel per minute. How much fuel will it use in 3 minutes?,72,21,49,48,24,3
+The pool contains 33 gallons. James drains 15 gallons for cleaning. What volume remains?,18,The rocket burns 27 tons of fuel per minute. How much fuel will it use in 27 minutes?,729,0,33,15,27,27
+"The store stocks 3 phones. By closing, 2 phones are sold. What is the remaining inventory?",1,Packets have 28 seeds each. How many seeds in 28 packets?,784,0,3,2,28,28
+"The store stocks 45 phones. By closing, 26 phones are sold. What is the remaining inventory?",19,Packets have 46 seeds each. How many seeds in 46 packets?,2116,0,45,26,46,46
+The warehouse has 44 boxes. Harper ships out 2 boxes. How many boxes remain stored?,42,Each lunar module carries 45 instruments. How many instruments can 15 modules carry?,675,30,44,2,45,15
+The warehouse has 31 boxes. Harper ships out 6 boxes. How many boxes remain stored?,25,Each lunar module carries 48 instruments. How many instruments can 2 modules carry?,96,46,31,6,48,2
+The library has 22 available books. Emma checks out 7 books. How many stay on shelves?,15,The caravan travels 14 miles daily. How far will it go in 14 days?,196,0,22,7,14,14
+The library has 19 available books. Emma checks out 14 books. How many stay on shelves?,5,The caravan travels 48 miles daily. How far will it go in 2 days?,96,46,19,14,48,2
+The bakery prepares 43 loaves. Customers purchase 5 loaves. How many loaves are left?,38,Innings average 28 runs each. How many runs in 28 innings?,784,0,43,5,28,28
+The bakery prepares 50 loaves. Customers purchase 2 loaves. How many loaves are left?,48,Innings average 24 runs each. How many runs in 2 innings?,48,22,50,2,24,2
+The farm has 41 chickens. Amelia sells 10 chickens at market. How many chickens remain?,31,Each asteroid sample weighs 27 grams. What is the total weight of 27 samples?,729,0,41,10,27,27
+The farm has 31 chickens. Amelia sells 23 chickens at market. How many chickens remain?,8,Each asteroid sample weighs 42 grams. What is the total weight of 42 samples?,1764,0,31,23,42,42
+The exam has 40 questions. Alexander answers 39 questions. How many questions remain?,1,The castle requires 28 stones per wall. How many stones for 7 walls?,196,21,40,39,28,7
+The exam has 21 questions. Alexander answers 4 questions. How many questions remain?,17,The castle requires 2 stones per wall. How many stones for 2 walls?,4,0,21,4,2,2
+The assignment requires 27 pages. Ethan writes 23 pages. How much more is needed?,4,A consultant charges $16 daily. What's the cost for 16 days?,256,0,27,23,16,16
+The assignment requires 39 pages. Ethan writes 16 pages. How much more is needed?,23,A consultant charges $40 daily. What's the cost for 5 days?,200,35,39,16,40,5
+The textbook has 45 chapters. Olivia studies 39 chapters. How many chapters remain?,6,Each oyster filters 39 gallons of water hourly. How much water will 13 oysters filter?,507,26,45,39,39,13
+The textbook has 25 chapters. Olivia studies 3 chapters. How many chapters remain?,22,Each oyster filters 4 gallons of water hourly. How much water will 2 oysters filter?,8,2,25,3,4,2
+The course offers 29 credit hours. Michael drops 12 credit hours. How many credits remain?,17,The dungeon has 18 traps per level. How many traps in 9 levels?,162,9,29,12,18,9
+The course offers 47 credit hours. Michael drops 10 credit hours. How many credits remain?,37,The dungeon has 8 traps per level. How many traps in 2 levels?,16,6,47,10,8,2
+The lab has 41 experiments. Mia completes 35 experiments. How many experiments remain?,6,The volcano erupts 48 tons of ash hourly. How much ash will be ejected in 2 hours?,96,46,41,35,48,2
+The lab has 48 experiments. Mia completes 38 experiments. How many experiments remain?,10,The volcano erupts 39 tons of ash hourly. How much ash will be ejected in 39 hours?,1521,0,48,38,39,39
+"The bus has 7 passengers. At the stop, 3 passengers exit. How many continue the ride?",4,The cargo ship loads 30 containers hourly. How many containers can it load in 10 hours?,300,20,7,3,30,10
+"The bus has 50 passengers. At the stop, 30 passengers exit. How many continue the ride?",20,The cargo ship loads 8 containers hourly. How many containers can it load in 4 hours?,32,4,50,30,8,4
+"The train makes 33 stops. After 21 stops, how many remain on the route?",12,Each exoskeleton lifts 26 kilograms. How much can 13 exoskeletons lift together?,338,13,33,21,26,13
+"The train makes 15 stops. After 6 stops, how many remain on the route?",9,Each exoskeleton lifts 34 kilograms. How much can 2 exoskeletons lift together?,68,32,15,6,34,2
+The plane has 19 empty seats. 9 standby passengers are accommodated. How many seats remain?,10,Each art class uses 37 paint tubes weekly. How many tubes are needed for 37 classes?,1369,0,19,9,37,37
+The plane has 7 empty seats. 2 standby passengers are accommodated. How many seats remain?,5,Each art class uses 20 paint tubes weekly. How many tubes are needed for 2 classes?,40,18,7,2,20,2
+The parking lot has 46 cars. 31 cars leave the lot. How many spaces are still occupied?,15,Harper reads 38 pages every hour for 2 hours. How many pages total?,76,36,46,31,38,2
+The parking lot has 30 cars. 26 cars leave the lot. How many spaces are still occupied?,4,Harper reads 20 pages every hour for 20 hours. How many pages total?,400,0,30,26,20,20
+The highway project needs 46 workers. 16 workers finish their shift. How many workers are needed?,30,Each spacewalk requires 38 hours of prep. How much prep time for 2 spacewalks?,76,36,46,16,38,2
+The highway project needs 25 workers. 16 workers finish their shift. How many workers are needed?,9,Each spacewalk requires 28 hours of prep. How much prep time for 2 spacewalks?,56,26,25,16,28,2
+The item originally costs 29 dollars. The discount reduces it by 24 dollars. What is the sale price?,5,The scribe copies 15 pages daily. How many pages in 3 days?,45,12,29,24,15,3
+The item originally costs 24 dollars. The discount reduces it by 23 dollars. What is the sale price?,1,The scribe copies 8 pages daily. How many pages in 2 days?,16,6,24,23,8,2
+Daniel brings 22 dollars to the store. They spend 4 dollars. What amount remains?,18,A team allows 22 goals per match. How many in 22 matches?,484,0,22,4,22,22
+Daniel brings 13 dollars to the store. They spend 4 dollars. What amount remains?,9,A team allows 24 goals per match. How many in 12 matches?,288,12,13,4,24,12
+The shopping list has 19 items. Henry crosses off 17 items. How many items remain?,2,Each crate holds 22 oranges. How many oranges in 2 crates?,44,20,19,17,22,2
+The shopping list has 8 items. Henry crosses off 7 items. How many items remain?,1,Each crate holds 32 oranges. How many oranges in 8 crates?,256,24,8,7,32,8
+The coupon saves 21 dollars. The fine print deducts 1 dollars from the savings. What is the net discount?,20,The ferry transports 11 vehicles per trip. How many vehicles can it carry in 11 trips?,121,0,21,1,11,11
+The coupon saves 4 dollars. The fine print deducts 1 dollars from the savings. What is the net discount?,3,The ferry transports 33 vehicles per trip. How many vehicles can it carry in 33 trips?,1089,0,4,1,33,33
+The loyalty card has 42 points. Grace redeems 32 points. How many points remain?,10,Each smartwatch tracks 46 health metrics. How many metrics for 2 watches?,92,44,42,32,46,2
+The loyalty card has 13 points. Grace redeems 1 points. How many points remain?,12,Each smartwatch tracks 6 health metrics. How many metrics for 6 watches?,36,0,13,1,6,6
+The recipe calls for 33 grams of flour. Alexander uses 5 grams. How much flour remains?,28,Overtime pays $48 per hour. How much for 24 overtime hours?,1152,24,33,5,48,24
+The recipe calls for 11 grams of flour. Alexander uses 3 grams. How much flour remains?,8,Overtime pays $8 per hour. How much for 2 overtime hours?,16,6,11,3,8,2
+"The oven needs 9 minutes to preheat. After 7 minutes, how much longer is needed?",2,Each Roman road segment is 40 miles long. How long is a road with 2 segments?,80,38,9,7,40,2
+"The oven needs 35 minutes to preheat. After 25 minutes, how much longer is needed?",10,Each Roman road segment is 30 miles long. How long is a road with 30 segments?,900,0,35,25,30,30
+The batch makes 39 cookies. Daniel eats 28 cookies. How many cookies remain?,11,A printer prints 44 pages every minute. How many pages in 22 minutes?,968,22,39,28,44,22
+The batch makes 41 cookies. Daniel eats 7 cookies. How many cookies remain?,34,A printer prints 36 pages every minute. How many pages in 4 minutes?,144,32,41,7,36,4
+"The stew requires 12 hours to cook. After 4 hours, how much cooking time remains?",8,A machine processes 27 items per hour. How many can it do in 3 hours?,81,24,12,4,27,3
+"The stew requires 6 hours to cook. After 2 hours, how much cooking time remains?",4,A machine processes 40 items per hour. How many can it do in 2 hours?,80,38,6,2,40,2
+The jar holds 46 servings. James consumes 39 servings. How many servings remain?,7,The server handles 46 requests per second. How many requests in 2 seconds?,92,44,46,39,46,2
+The jar holds 46 servings. James consumes 30 servings. How many servings remain?,16,The server handles 35 requests per second. How many requests in 5 seconds?,175,30,46,30,35,5
+The garden has 18 plants. William removes 7 weeds. How many desired plants remain?,11,The spaceship's shield blocks 32 radiation units hourly. How much radiation can it block in 8 hours?,256,24,18,7,32,8
+The garden has 43 plants. William removes 10 weeds. How many desired plants remain?,33,The spaceship's shield blocks 16 radiation units hourly. How much radiation can it block in 4 hours?,64,12,43,10,16,4
+The flowerbed needs 12 liters of water. Isla adds 5 liters. How much more water is needed?,7,Each hurricane produces 30 inches of rain. How much rain will 15 hurricanes bring?,450,15,12,5,30,15
+The flowerbed needs 20 liters of water. Isla adds 15 liters. How much more water is needed?,5,Each hurricane produces 32 inches of rain. How much rain will 4 hurricanes bring?,128,28,20,15,32,4
+The seed packet contains 40 seeds. Olivia plants 3 seeds. How many seeds remain?,37,Each scooter travels 30 miles per charge. How far can 3 scooters travel?,90,27,40,3,30,3
+The seed packet contains 45 seeds. Olivia plants 37 seeds. How many seeds remain?,8,Each scooter travels 16 miles per charge. How far can 8 scooters travel?,128,8,45,37,16,8
+"The tree grows 50 centimeters yearly. After 49 centimeters are trimmed, what is the net growth?",1,Each phytoplankton cluster produces 36 oxygen molecules hourly. How much oxygen will 3 clusters produce?,108,33,50,49,36,3
+"The tree grows 33 centimeters yearly. After 19 centimeters are trimmed, what is the net growth?",14,Each phytoplankton cluster produces 48 oxygen molecules hourly. How much oxygen will 8 clusters produce?,384,40,33,19,48,8
+The plot fits 37 vegetables. Chloe harvests 3 vegetables. How many vegetables remain?,34,The kelp forest grows 47 feet monthly. How tall will it become after 47 months?,2209,0,37,3,47,47
+The plot fits 27 vegetables. Chloe harvests 17 vegetables. How many vegetables remain?,10,The kelp forest grows 29 feet monthly. How tall will it become after 29 months?,841,0,27,17,29,29
+"The phone has 50% battery. After 32% is used, what percentage remains?",18,Each electric vehicle charges at 48 kW. What's the total power needed for 24 vehicles?,1152,24,50,32,48,24
+"The phone has 50% battery. After 4% is used, what percentage remains?",46,Each electric vehicle charges at 42 kW. What's the total power needed for 2 vehicles?,84,40,50,4,42,2
+The download requires 46 megabytes. 32 megabytes complete. How much data remains?,14,A car travels 24 miles every gallon. How far can it go on 3 gallons?,72,21,46,32,24,3
+The download requires 21 megabytes. 18 megabytes complete. How much data remains?,3,A car travels 42 miles every gallon. How far can it go on 6 gallons?,252,36,21,18,42,6
+The storage has 34 gigabytes free. James saves 18 gigabytes of photos. How much space remains?,16,Each of 12 rows contains 6 desks. How many desks total?,72,6,34,18,12,6
+The storage has 17 gigabytes free. James saves 15 gigabytes of photos. How much space remains?,2,Each of 44 rows contains 44 desks. How many desks total?,1936,0,17,15,44,44
+The video is 34 minutes long. Grace watches 9 minutes. How much video remains?,25,The miner finds 25 ounces of gold weekly. How much gold in 5 weeks?,125,20,34,9,25,5
+The video is 39 minutes long. Grace watches 38 minutes. How much video remains?,1,The miner finds 24 ounces of gold weekly. How much gold in 8 weeks?,192,16,39,38,24,8
+The app has 30 daily uses allowed. Chloe uses it 18 times. How many uses remain?,12,The flood submerges 6 acres hourly. How many acres will be flooded in 3 hours?,18,3,30,18,6,3
+The app has 23 daily uses allowed. Chloe uses it 18 times. How many uses remain?,5,The flood submerges 26 acres hourly. How many acres will be flooded in 2 hours?,52,24,23,18,26,2
+"The game has 31 innings. After 30 innings, how many remain?",1,"A book has 12 chapters, each with 2 pages. How many pages total?",24,10,31,30,12,2
+"The game has 47 innings. After 25 innings, how many remain?",22,"A book has 38 chapters, each with 19 pages. How many pages total?",722,19,47,25,38,19
+The scoreboard shows 34 points. The referee deducts 22 points. What is the adjusted score?,12,A toy is priced at $36 each. How much for 4 toys?,144,32,34,22,36,4
+The scoreboard shows 35 points. The referee deducts 30 points. What is the adjusted score?,5,A toy is priced at $36 each. How much for 18 toys?,648,18,35,30,36,18
+The tournament has 28 rounds. James completes 21 rounds. How many rounds remain?,7,Cases hold 3 bottles each. How many bottles in 3 cases?,9,0,28,21,3,3
+The tournament has 32 rounds. James completes 26 rounds. How many rounds remain?,6,Cases hold 39 bottles each. How many bottles in 3 cases?,117,36,32,26,39,3
+The athlete needs 46 meters to win. They complete 26 meters. How much farther is needed?,20,The download speed is 45 MB per second. How much data will download in 3 seconds?,135,42,46,26,45,3
+The athlete needs 22 meters to win. They complete 21 meters. How much farther is needed?,1,The download speed is 9 MB per second. How much data will download in 3 seconds?,27,6,22,21,9,3
+The team has 17 timeouts. They call 10 timeouts. How many timeouts remain?,7,Each fishing net catches 16 fish when full. How many fish will 4 full nets catch?,64,12,17,10,16,4
+The team has 42 timeouts. They call 7 timeouts. How many timeouts remain?,35,Each fishing net catches 17 fish when full. How many fish will 17 full nets catch?,289,0,42,7,17,17
+The prescription has 35 doses. Daniel takes 27 doses. How many doses remain?,8,A machine produces 50 widgets every minute for 2 minutes. What's the total?,100,48,35,27,50,2
+The prescription has 12 doses. Daniel takes 3 doses. How many doses remain?,9,A machine produces 40 widgets every minute for 5 minutes. What's the total?,200,35,12,3,40,5
+The treatment requires 42 sessions. William attends 17 sessions. How many sessions remain?,25,Each Viking ship carries 44 warriors. How many warriors can 11 ships carry?,484,33,42,17,44,11
+The treatment requires 44 sessions. William attends 1 sessions. How many sessions remain?,43,Each Viking ship carries 47 warriors. How many warriors can 47 ships carry?,2209,0,44,1,47,47
+The patient needs 20 milligrams of medicine. The nurse administers 18 milligrams. How much more is needed?,2,Each magic potion needs 19 dragon scales. How many scales for 19 potions?,361,0,20,18,19,19
+The patient needs 30 milligrams of medicine. The nurse administers 12 milligrams. How much more is needed?,18,Each magic potion needs 40 dragon scales. How many scales for 10 potions?,400,30,30,12,40,10
+"The therapy lasts 21 weeks. After 7 weeks, how much longer will it continue?",14,"A baker prepares 26 trays, each with 13 cookies. What is the total number?",338,13,21,7,26,13
+"The therapy lasts 24 weeks. After 19 weeks, how much longer will it continue?",5,"A baker prepares 45 trays, each with 5 cookies. What is the total number?",225,40,24,19,45,5
+The fitness goal is 40 steps daily. Ava records 32 steps. How many more steps are needed?,8,Each tide pool contains 25 hermit crabs. How many crabs would be in 25 pools?,625,0,40,32,25,25
+The fitness goal is 42 steps daily. Ava records 3 steps. How many more steps are needed?,39,Each tide pool contains 40 hermit crabs. How many crabs would be in 4 pools?,160,36,42,3,40,4
+The project has 39 tasks. Ava completes 24 tasks. How many tasks remain?,15,Ava writes 29 poetry lines daily. How many lines will be written in 29 consecutive days?,841,0,39,24,29,29
+The project has 22 tasks. Ava completes 14 tasks. How many tasks remain?,8,Ava writes 28 poetry lines daily. How many lines will be written in 4 consecutive days?,112,24,22,14,28,4
+"The workday is 35 hours long. After 33 hours, how much time remains?",2,Each hailstorm produces 46 ice chunks per square yard. How many chunks will fall on 23 square yards?,1058,23,35,33,46,23
+"The workday is 20 hours long. After 11 hours, how much time remains?",9,Each hailstorm produces 18 ice chunks per square yard. How many chunks will fall on 2 square yards?,36,16,20,11,18,2
+The quota requires 45 sales. Zoe makes 44 sales. How many more are needed?,1,Zoe creates 36 paintings every month. How many paintings will be completed after 4 months?,144,32,45,44,36,4
+The quota requires 37 sales. Zoe makes 24 sales. How many more are needed?,13,Zoe creates 24 paintings every month. How many paintings will be completed after 3 months?,72,21,37,24,24,3
+The budget allows 18 dollars. William spends 4 dollars. How much remains?,14,The revolution gains 37 supporters daily. How many supporters in 37 days?,1369,0,18,4,37,37
+The budget allows 8 dollars. William spends 6 dollars. How much remains?,2,The revolution gains 46 supporters daily. How many supporters in 23 days?,1058,23,8,6,46,23
+"The contract lasts 41 months. After 36 months, how much time remains?",5,A player averages 10 rebounds per game. How many in 5 games?,50,5,41,36,10,5
+"The contract lasts 21 months. After 16 months, how much time remains?",5,A player averages 38 rebounds per game. How many in 38 games?,1444,0,21,16,38,38
+"The trip covers 26 kilometers. After 15 kilometers, how much farther is the destination?",11,The tidal zone reveals 48 new species per survey. How many species might be found in 48 surveys?,2304,0,26,15,48,48
+"The trip covers 49 kilometers. After 45 kilometers, how much farther is the destination?",4,The tidal zone reveals 48 new species per survey. How many species might be found in 16 surveys?,768,32,49,45,48,16
+"The vacation lasts 49 days. After 47 days, how many days remain?",2,Each rainforest tree hosts 3 epiphyte species. How many species would be found on 3 trees?,9,0,49,47,3,3
+"The vacation lasts 46 days. After 24 days, how many days remain?",22,Each rainforest tree hosts 30 epiphyte species. How many species would be found on 5 trees?,150,25,46,24,30,5
+The suitcase holds 43 kilograms. Henry packs 23 kilograms. How much more weight is allowed?,20,The Mars colony uses 46 liters of water daily. How much water will be needed for 46 days?,2116,0,43,23,46,46
+The suitcase holds 23 kilograms. Henry packs 8 kilograms. How much more weight is allowed?,15,The Mars colony uses 24 liters of water daily. How much water will be needed for 6 days?,144,18,23,8,24,6
+"The itinerary includes 16 cities. After visiting 6 cities, how many remain?",10,Each VR headset needs 28 sensors. How many sensors for 4 headsets?,112,24,16,6,28,4
+"The itinerary includes 36 cities. After visiting 17 cities, how many remain?",19,Each VR headset needs 42 sensors. How many sensors for 21 headsets?,882,21,36,17,42,21
+"The cruise has 35 ports of call. After 8 stops, how many ports remain?",27,Each jewelry box holds 32 rings. How many rings can be stored in 32 boxes?,1024,0,35,8,32,32
+"The cruise has 25 ports of call. After 17 stops, how many ports remain?",8,Each jewelry box holds 42 rings. How many rings can be stored in 2 boxes?,84,40,25,17,42,2
+The guest list has 41 people. 3 people cancel. How many attendees are expected?,38,Each astronaut consumes 45 pounds of food weekly. How much food is needed for 45 weeks?,2025,0,41,3,45,45
+The guest list has 35 people. 20 people cancel. How many attendees are expected?,15,Each astronaut consumes 36 pounds of food weekly. How much food is needed for 9 weeks?,324,27,35,20,36,9
+The venue seats 27 guests. 14 seats are reserved. How many seats are open?,13,A process takes 6 hours per unit. How long for 3 units?,18,3,27,14,6,3
+The venue seats 33 guests. 29 seats are reserved. How many seats are open?,4,A process takes 17 hours per unit. How long for 17 units?,289,0,33,29,17,17
+The event budget is 35 dollars. 19 dollars are spent. How much remains?,16,The film crew shoots 27 scenes daily. How many scenes will they capture in 9 days?,243,18,35,19,27,9
+The event budget is 46 dollars. 8 dollars are spent. How much remains?,38,The film crew shoots 32 scenes daily. How many scenes will they capture in 4 days?,128,28,46,8,32,4
+"The schedule allows 37 minutes per speaker. After 14 minutes, how much time remains?",23,The Mars rover travels 32 meters daily. How far will it go in 32 days?,1024,0,37,14,32,32
+"The schedule allows 23 minutes per speaker. After 15 minutes, how much time remains?",8,The Mars rover travels 28 meters daily. How far will it go in 14 days?,392,14,23,15,28,14
+The conference has 29 sessions. Jacob attends 11 sessions. How many sessions remain?,18,A player makes 12 free throws per game. How many in 4 games?,48,8,29,11,12,4
+The conference has 25 sessions. Jacob attends 5 sessions. How many sessions remain?,20,A player makes 5 free throws per game. How many in 5 games?,25,0,25,5,5,5
+The blueprint requires 49 boards. Chloe cuts 24 boards. How many more are needed?,25,The helicopter uses 33 gallons of fuel hourly. How much fuel will it use in 33 hours?,1089,0,49,24,33,33
+The blueprint requires 28 boards. Chloe cuts 12 boards. How many more are needed?,16,The helicopter uses 11 gallons of fuel hourly. How much fuel will it use in 11 hours?,121,0,28,12,11,11
+The project needs 38 nails. The box contains 33 nails. How many additional nails are needed?,5,The spellbook has 6 pages per chapter. How many pages in 6 chapters?,36,0,38,33,6,6
+The project needs 38 nails. The box contains 15 nails. How many additional nails are needed?,23,The spellbook has 22 pages per chapter. How many pages in 22 chapters?,484,0,38,15,22,22
+The wall needs 37 bricks. Zoe lays 36 bricks. How many bricks remain?,1,Each lightning strike releases 18 gigajoules. How much energy will 18 strikes release?,324,0,37,36,18,18
+The wall needs 44 bricks. Zoe lays 26 bricks. How many bricks remain?,18,Each lightning strike releases 42 gigajoules. How much energy will 6 strikes release?,252,36,44,26,42,6
+"The job estimates 35 hours of labor. After 14 hours, how much work remains?",21,A plane flies 24 miles per hour. How far in 4 hours?,96,20,35,14,24,4
+"The job estimates 21 hours of labor. After 11 hours, how much work remains?",10,A plane flies 27 miles per hour. How far in 3 hours?,81,24,21,11,27,3
+The order requires 28 tiles. Thomas breaks 9 tiles. How many usable tiles remain?,19,Each mosaic tile covers 50 square inches. How much area can 25 tiles cover?,1250,25,28,9,50,25
+The order requires 27 tiles. Thomas breaks 20 tiles. How many usable tiles remain?,7,Each mosaic tile covers 20 square inches. How much area can 2 tiles cover?,40,18,27,20,20,2
+The production line makes 13 units per hour. Maintenance removes 3 units. What is the new output?,10,Each AI training cycle processes 48 data points. How many points in 24 cycles?,1152,24,13,3,48,24
+The production line makes 47 units per hour. Maintenance removes 15 units. What is the new output?,32,Each AI training cycle processes 36 data points. How many points in 2 cycles?,72,34,47,15,36,2
+The machine processes 49 items daily. 3 items complete. How many items remain?,46,The sandstorm reduces visibility by 22 meters per minute. How much visibility will be lost in 11 minutes?,242,11,49,3,22,11
+The machine processes 38 items daily. 28 items complete. How many items remain?,10,The sandstorm reduces visibility by 49 meters per minute. How much visibility will be lost in 49 minutes?,2401,0,38,28,49,49
+The quality check finds 4 defects in 20 items. How many items pass inspection?,16,Jars contain 30 marbles each. How many marbles in 6 jars?,180,24,20,4,30,6
+The quality check finds 30 defects in 41 items. How many items pass inspection?,11,Jars contain 16 marbles each. How many marbles in 2 jars?,32,14,41,30,16,2
+The shipment contains 14 products. 13 products are damaged. How many are intact?,1,Each quantum computer performs 39 operations per second. How many operations in 13 seconds?,507,26,14,13,39,13
+The shipment contains 13 products. 11 products are damaged. How many are intact?,2,Each quantum computer performs 11 operations per second. How many operations in 11 seconds?,121,0,13,11,11,11
+The order requires 38 components. The bin has 29 components. How many more are needed?,9,"There are 33 classrooms, each with 3 students. How many students total?",99,30,38,29,33,3
+The order requires 30 components. The bin has 21 components. How many more are needed?,9,"There are 38 classrooms, each with 38 students. How many students total?",1444,0,30,21,38,38
+The battery stores 25 kilowatt-hours. 10 kilowatt-hours are used. How much energy remains?,15,The dance troupe performs 34 shows in each city. How many shows will they perform on a 34-city tour?,1156,0,25,10,34,34
+The battery stores 34 kilowatt-hours. 25 kilowatt-hours are used. How much energy remains?,9,The dance troupe performs 20 shows in each city. How many shows will they perform on a 20-city tour?,400,0,34,25,20,20
+The tank holds 32 liters of fuel. Daniel uses 17 liters. How much fuel remains?,15,Each whale consumes 28 krill daily. How many krill will 4 whales eat?,112,24,32,17,28,4
+The tank holds 30 liters of fuel. Daniel uses 17 liters. How much fuel remains?,13,Each whale consumes 42 krill daily. How many krill will 14 whales eat?,588,28,30,17,42,14
+"The generator provides 25 hours of power. After 12 hours, how much runtime remains?",13,The character earns 49 XP per quest. How much XP from 49 quests?,2401,0,25,12,49,49
+"The generator provides 28 hours of power. After 25 hours, how much runtime remains?",3,The character earns 32 XP per quest. How much XP from 2 quests?,64,30,28,25,32,2
+The solar panel produces 20 watts daily. 9 watts are consumed. What is the net production?,11,Each Mars transmission takes 12 minutes. How long will 12 transmissions take?,144,0,20,9,12,12
+The solar panel produces 43 watts daily. 26 watts are consumed. What is the net production?,17,Each Mars transmission takes 40 minutes. How long will 10 transmissions take?,400,30,43,26,40,10
+The circuit handles 26 amps safely. 21 amps are flowing. How much additional load is possible?,5,Each samurai sword takes 41 hours to forge. How long to forge 41 swords?,1681,0,26,21,41,41
+The circuit handles 34 amps safely. 24 amps are flowing. How much additional load is possible?,10,Each samurai sword takes 50 hours to forge. How long to forge 50 swords?,2500,0,34,24,50,50
+The forest has 14 trees. Loggers remove 4 trees. How many trees remain?,10,Each train carriage has 6 seats. How many seats are in 6 carriages?,36,0,14,4,6,6
+The forest has 48 trees. Loggers remove 29 trees. How many trees remain?,19,Each train carriage has 21 seats. How many seats are in 3 carriages?,63,18,48,29,21,3
+The lake contains 30 fish. 20 fish are caught. How many fish remain?,10,Each server rack uses 34 kilowatts. What's the total power for 2 racks?,68,32,30,20,34,2
+The lake contains 14 fish. 6 fish are caught. How many fish remain?,8,Each server rack uses 33 kilowatts. What's the total power for 3 racks?,99,30,14,6,33,3
+The reserve protects 40 acres. Development reduces it by 9 acres. What is the current size?,31,The blizzard drops 50 snowflakes per square inch. How many flakes will fall on 2 square inches?,100,48,40,9,50,2
+The reserve protects 34 acres. Development reduces it by 10 acres. What is the current size?,24,The blizzard drops 48 snowflakes per square inch. How many flakes will fall on 3 square inches?,144,45,34,10,48,3
+The cleanup targets 24 tons of waste. Volunteers remove 1 tons. How much waste remains?,23,The drone makes 21 deliveries per hour. How many deliveries in 21 hours?,441,0,24,1,21,21
+The cleanup targets 46 tons of waste. Volunteers remove 9 tons. How much waste remains?,37,The drone makes 25 deliveries per hour. How many deliveries in 25 hours?,625,0,46,9,25,25
+The air quality index shows 11 particles. Filters remove 9 particles. What is the improved reading?,2,A car drives 25 miles every hour for 25 hours. How far does it go?,625,0,11,9,25,25
+The air quality index shows 17 particles. Filters remove 14 particles. What is the improved reading?,3,A car drives 42 miles every hour for 42 hours. How far does it go?,1764,0,17,14,42,42
+The puzzle has 35 pieces. Jack connects 24 pieces. How many pieces remain?,11,Each smartphone has 5GB storage. How much total storage for 5 phones?,25,0,35,24,5,5
+The puzzle has 34 pieces. Jack connects 2 pieces. How many pieces remain?,32,Each smartphone has 24GB storage. How much total storage for 6 phones?,144,18,34,2,24,6
+The collection contains 42 coins. Jacob sells 25 coins. How many coins remain?,17,Each monster drops 26 items. How many items from 2 monsters?,52,24,42,25,26,2
+The collection contains 49 coins. Jacob sells 2 coins. How many coins remain?,47,Each monster drops 48 items. How many items from 24 monsters?,1152,24,49,2,48,24
+The playlist has 23 songs. Sophia skips 21 songs. How many songs will play?,2,"A bookshelf has 48 shelves, each holding 2 books. How many books total?",96,46,23,21,48,2
+The playlist has 22 songs. Sophia skips 10 songs. How many songs will play?,12,"A bookshelf has 33 shelves, each holding 11 books. How many books total?",363,22,22,10,33,11
+The gallery displays 32 paintings. 9 paintings go on tour. How many remain on view?,23,The satellite completes 47 orbits daily. How many orbits in 47 days?,2209,0,32,9,47,47
+The gallery displays 24 paintings. 2 paintings go on tour. How many remain on view?,22,The satellite completes 34 orbits daily. How many orbits in 2 days?,68,32,24,2,34,2
+The book has 26 pages. Nora reads 11 pages. How many pages remain?,15,Each spell costs 30 mana points. How much mana to cast 10 spells?,300,20,26,11,30,10
+The book has 40 pages. Nora reads 12 pages. How many pages remain?,28,Each spell costs 24 mana points. How much mana to cast 24 spells?,576,0,40,12,24,24

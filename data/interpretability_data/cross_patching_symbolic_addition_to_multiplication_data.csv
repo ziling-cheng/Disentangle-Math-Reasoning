@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,target_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has x apples. Their friend gives them y more apples. How many apples does Jack have now?,x,Each robot assembles 15 components hourly. How many components can 5 robots assemble?,75,20,x,y,15,5
+Jack has x apples. Their friend gives them y more apples. How many apples does Jack have now?,x,Each robot assembles 28 components hourly. How many components can 7 robots assemble?,196,35,x,y,28,7
+Chloe picks x oranges. They find y more oranges on the ground. How many oranges does Chloe have now?,x,Apples cost $18 per apple. How much for 2 apples?,36,20,x,y,18,2
+Chloe picks x oranges. They find y more oranges on the ground. How many oranges does Chloe have now?,x,Apples cost $46 per apple. How much for 46 apples?,2116,92,x,y,46,46
+Henry buys x bananas. The cashier gives them y extra bananas. How many bananas does Henry have now?,x,Each Renaissance painting uses 6 pigments. How many pigments for 6 paintings?,36,12,x,y,6,6
+Henry buys x bananas. The cashier gives them y extra bananas. How many bananas does Henry have now?,x,Each Renaissance painting uses 24 pigments. How many pigments for 24 paintings?,576,48,x,y,24,24
+Lucas grows x strawberries. y more strawberries ripen overnight. How many strawberries does Lucas have now?,x,The 3D printer makes 6 layers per minute. How many layers in 3 minutes?,18,9,x,y,6,3
+Lucas grows x strawberries. y more strawberries ripen overnight. How many strawberries does Lucas have now?,x,The 3D printer makes 22 layers per minute. How many layers in 11 minutes?,242,33,x,y,22,11
+Benjamin collects x mangoes. Their neighbor shares y more mangoes. How many mangoes does Benjamin have now?,x,The fiber cable transmits 24 TB per hour. How much data in 6 hours?,144,30,x,y,24,6
+Benjamin collects x mangoes. Their neighbor shares y more mangoes. How many mangoes does Benjamin have now?,x,The fiber cable transmits 49 TB per hour. How much data in 7 hours?,343,56,x,y,49,7
+Nora has x pencils. The teacher distributes y more pencils. How many pencils does Nora have now?,x,Workers are paid $3 per item. How much for 3 items?,9,6,x,y,3,3
+Nora has x pencils. The teacher distributes y more pencils. How many pencils does Nora have now?,x,Workers are paid $33 per item. How much for 3 items?,99,36,x,y,33,3
+Isla brings x notebooks to class. A classmate gives them y more notebooks. How many notebooks does Isla have now?,x,The glacier recedes 24 inches daily. How much will it shrink after 4 days?,96,28,x,y,24,4
+Isla brings x notebooks to class. A classmate gives them y more notebooks. How many notebooks does Isla have now?,x,The glacier recedes 14 inches daily. How much will it shrink after 14 days?,196,28,x,y,14,14
+Henry finds x erasers in their desk. They discover y more erasers in their bag. How many erasers does Henry have now?,x,The nanobot swarm repairs 34 cells per minute. How many cells can it repair in 17 minutes?,578,51,x,y,34,17
+Henry finds x erasers in their desk. They discover y more erasers in their bag. How many erasers does Henry have now?,x,The nanobot swarm repairs 50 cells per minute. How many cells can it repair in 10 minutes?,500,60,x,y,50,10
+Nora has x markers. Their art teacher adds y more markers to their collection. How many markers does Nora have now?,x,The thunderstorm produces 8 lightning flashes per minute. How many flashes in 8 minutes?,64,16,x,y,8,8
+Nora has x markers. Their art teacher adds y more markers to their collection. How many markers does Nora have now?,x,The thunderstorm produces 16 lightning flashes per minute. How many flashes in 4 minutes?,64,20,x,y,16,4
+Chloe receives x stickers for good behavior. The principal awards them y more stickers. How many stickers does Chloe have now?,x,A subway train arrives every 48 minutes. How many arrivals will there be in 2 minutes?,96,50,x,y,48,2
+Chloe receives x stickers for good behavior. The principal awards them y more stickers. How many stickers does Chloe have now?,x,A subway train arrives every 34 minutes. How many arrivals will there be in 34 minutes?,1156,68,x,y,34,34
+Jacob owns x toy cars. Their birthday gifts include y more toy cars. How many toy cars does Jacob have now?,x,Each pyramid block weighs 11 tons. What is the total weight of 11 blocks?,121,22,x,y,11,11
+Jacob owns x toy cars. Their birthday gifts include y more toy cars. How many toy cars does Jacob have now?,x,Each pyramid block weighs 30 tons. What is the total weight of 2 blocks?,60,32,x,y,30,2
+William has x building blocks. Their sibling contributes y more blocks to their tower. How many blocks does William have now?,x,A quilt has 24 squares along its length and 24 squares across. How many total?,576,48,x,y,24,24
+William has x building blocks. Their sibling contributes y more blocks to their tower. How many blocks does William have now?,x,A quilt has 36 squares along its length and 3 squares across. How many total?,108,39,x,y,36,3
+Nathan collects x action figures. A new series releases y more figures. How many action figures does Nathan have now?,x,Egg cartons contain 35 eggs each. How many eggs in 5 cartons?,175,40,x,y,35,5
+Nathan collects x action figures. A new series releases y more figures. How many action figures does Nathan have now?,x,Egg cartons contain 35 eggs each. How many eggs in 7 cartons?,245,42,x,y,35,7
+Grace has x board games. Their family acquires y more board games. How many board games does Grace have now?,x,Grace earns $28 per hour and works 2 hours. What are the total earnings?,56,30,x,y,28,2
+Grace has x board games. Their family acquires y more board games. How many board games does Grace have now?,x,Grace earns $50 per hour and works 25 hours. What are the total earnings?,1250,75,x,y,50,25
+Lily owns x stuffed animals. A relative sends them y more stuffed animals. How many stuffed animals does Lily have now?,x,A subscription costs $26 monthly. What's the cost for 2 months?,52,28,x,y,26,2
+Lily owns x stuffed animals. A relative sends them y more stuffed animals. How many stuffed animals does Lily have now?,x,A subscription costs $41 monthly. What's the cost for 41 months?,1681,82,x,y,41,41
+Ella finds x seashells at the beach. The next day they find y more seashells. How many seashells does Ella have now?,x,The band sells 48 albums per concert. How many albums will they sell at 3 concerts?,144,51,x,y,48,3
+Ella finds x seashells at the beach. The next day they find y more seashells. How many seashells does Ella have now?,x,The band sells 10 albums per concert. How many albums will they sell at 2 concerts?,20,12,x,y,10,2
+"Chloe counts x birds in the morning. By afternoon, y more birds arrive. How many birds does Chloe see now?",x,Each treasure chest holds 7 coins. How many coins in 7 chests?,49,14,x,y,7,7
+"Chloe counts x birds in the morning. By afternoon, y more birds arrive. How many birds does Chloe see now?",x,Each treasure chest holds 28 coins. How many coins in 2 chests?,56,30,x,y,28,2
+"Olivia plants x flowers. After a week, y more flowers bloom. How many flowers does Olivia have now?",x,Each mushroom colony expands 48 square feet daily. How much area would 8 colonies cover?,384,56,x,y,48,8
+"Olivia plants x flowers. After a week, y more flowers bloom. How many flowers does Olivia have now?",x,Each mushroom colony expands 24 square feet daily. How much area would 3 colonies cover?,72,27,x,y,24,3
+Matthew catches x fireflies. Their jar attracts y more fireflies. How many fireflies does Matthew have now?,x,Each theater seat needs 40 yards of fabric. How much fabric is required for 40 seats?,1600,80,x,y,40,40
+Matthew catches x fireflies. Their jar attracts y more fireflies. How many fireflies does Matthew have now?,x,Each theater seat needs 27 yards of fabric. How much fabric is required for 27 seats?,729,54,x,y,27,27
+Grace collects x acorns. Their friend finds y more acorns for them. How many acorns does Grace have now?,x,Each sea turtle lays 48 eggs per nest. How many eggs will 4 nests contain?,192,52,x,y,48,4
+Grace collects x acorns. Their friend finds y more acorns for them. How many acorns does Grace have now?,x,Each sea turtle lays 27 eggs per nest. How many eggs will 27 nests contain?,729,54,x,y,27,27
+Nathan bakes x cookies. Their sibling helps bake y more cookies. How many cookies does Nathan have now?,x,Punch needs 48 liters per bowl. How much for 48 bowls?,2304,96,x,y,48,48
+Nathan bakes x cookies. Their sibling helps bake y more cookies. How many cookies does Nathan have now?,x,Punch needs 34 liters per bowl. How much for 34 bowls?,1156,68,x,y,34,34
+Lily buys x donuts. The bakery throws in y extra donuts. How many donuts does Lily have now?,x,The drought lowers water levels by 44 feet monthly. How much will levels drop over 22 months?,968,66,x,y,44,22
+Lily buys x donuts. The bakery throws in y extra donuts. How many donuts does Lily have now?,x,The drought lowers water levels by 13 feet monthly. How much will levels drop over 13 months?,169,26,x,y,13,13
+Alexander makes x sandwiches. Their parent makes y additional sandwiches. How many sandwiches does Alexander have now?,x,Each cake needs 15 eggs. How many eggs for 5 cakes?,75,20,x,y,15,5
+Alexander makes x sandwiches. Their parent makes y additional sandwiches. How many sandwiches does Alexander have now?,x,Each cake needs 19 eggs. How many eggs for 19 cakes?,361,38,x,y,19,19
+Lucas has x candies in their bag. Their teacher gives them y more candies. How many candies does Lucas have now?,x,Each tsunami wave carries 10 tons of debris. How much debris will 10 waves move?,100,20,x,y,10,10
+Lucas has x candies in their bag. Their teacher gives them y more candies. How many candies does Lucas have now?,x,Each tsunami wave carries 36 tons of debris. How much debris will 3 waves move?,108,39,x,y,36,3
+Olivia buys x juice boxes. The store adds y bonus juice boxes. How many juice boxes does Olivia have now?,x,The coral reef grows 45 centimeters annually. How much will it grow in 15 years?,675,60,x,y,45,15
+Olivia buys x juice boxes. The store adds y bonus juice boxes. How many juice boxes does Olivia have now?,x,The coral reef grows 48 centimeters annually. How much will it grow in 2 years?,96,50,x,y,48,2
+Michael has x baseballs. Their coach provides y more baseballs. How many baseballs does Michael have now?,x,The space elevator climbs 15 kilometers daily. How far will it ascend in 15 days?,225,30,x,y,15,15
+Michael has x baseballs. Their coach provides y more baseballs. How many baseballs does Michael have now?,x,The space elevator climbs 28 kilometers daily. How far will it ascend in 2 days?,56,30,x,y,28,2
+Zoe owns x tennis balls. The club gives them y new tennis balls. How many tennis balls does Zoe have now?,x,Each puzzle takes 30 moves to solve. How many moves for 3 puzzles?,90,33,x,y,30,3
+Zoe owns x tennis balls. The club gives them y new tennis balls. How many tennis balls does Zoe have now?,x,Each puzzle takes 19 moves to solve. How many moves for 19 puzzles?,361,38,x,y,19,19
+Mia has x basketballs. Their team receives y additional basketballs. How many basketballs does Mia have now?,x,The fusion reactor generates 27 megawatts hourly. How much energy in 27 hours?,729,54,x,y,27,27
+Mia has x basketballs. Their team receives y additional basketballs. How many basketballs does Mia have now?,x,The fusion reactor generates 20 megawatts hourly. How much energy in 20 hours?,400,40,x,y,20,20
+Emma brings x soccer balls to practice. The league contributes y more soccer balls. How many soccer balls does Emma have now?,x,A team scores 15 points per game. How many points in 3 games?,45,18,x,y,15,3
+Emma brings x soccer balls to practice. The league contributes y more soccer balls. How many soccer balls does Emma have now?,x,A team scores 44 points per game. How many points in 11 games?,484,55,x,y,44,11
+Mia has x hockey pucks. Their teammate shares y more hockey pucks. How many hockey pucks does Mia have now?,x,Mia earns $18 per hour. How much for 18 hours?,324,36,x,y,18,18
+Mia has x hockey pucks. Their teammate shares y more hockey pucks. How many hockey pucks does Mia have now?,x,Mia earns $46 per hour. How much for 23 hours?,1058,69,x,y,46,23
+William has x crayons. Their art set includes y more crayons. How many crayons does William have now?,x,A runner maintains 2 km every hour. How far in 2 hours?,4,4,x,y,2,2
+William has x crayons. Their art set includes y more crayons. How many crayons does William have now?,x,A runner maintains 32 km every hour. How far in 2 hours?,64,34,x,y,32,2
+Jacob owns x paintbrushes. Their teacher gives them y new paintbrushes. How many paintbrushes does Jacob have now?,x,Tickets cost $15 each. Jacob buys 5 tickets. What's the total cost?,75,20,x,y,15,5
+Jacob owns x paintbrushes. Their teacher gives them y new paintbrushes. How many paintbrushes does Jacob have now?,x,Tickets cost $30 each. Jacob buys 10 tickets. What's the total cost?,300,40,x,y,30,10
+Harper has x sketchbooks. Their parents buy them y more sketchbooks. How many sketchbooks does Harper have now?,x,The meteor shower produces 25 meteors hourly. How many might be seen during 25 hours?,625,50,x,y,25,25
+Harper has x sketchbooks. Their parents buy them y more sketchbooks. How many sketchbooks does Harper have now?,x,The meteor shower produces 12 meteors hourly. How many might be seen during 4 hours?,48,16,x,y,12,4
+Emma collects x colored pencils. A new set contains y more colored pencils. How many colored pencils does Emma have now?,x,"A parking lot has 42 rows, each holding 21 cars. How many cars total?",882,63,x,y,42,21
+Emma collects x colored pencils. A new set contains y more colored pencils. How many colored pencils does Emma have now?,x,"A parking lot has 45 rows, each holding 45 cars. How many cars total?",2025,90,x,y,45,45
+Chloe has x clay pots. Their art class makes y additional clay pots. How many clay pots does Chloe have now?,x,Questions take 42 minutes each. How long for 6 questions?,252,48,x,y,42,6
+Chloe has x clay pots. Their art class makes y additional clay pots. How many clay pots does Chloe have now?,x,Questions take 20 minutes each. How long for 4 questions?,80,24,x,y,20,4
+Mia has x storybooks. The library lends them y more storybooks. How many storybooks does Mia have now?,x,Each gene editor modifies 50 base pairs per second. How many edits in 25 seconds?,1250,75,x,y,50,25
+Mia has x storybooks. The library lends them y more storybooks. How many storybooks does Mia have now?,x,Each gene editor modifies 24 base pairs per second. How many edits in 3 seconds?,72,27,x,y,24,3
+Chloe owns x comic books. A friend gives them y more comic books. How many comic books does Chloe have now?,x,Each sculpture requires 22 pounds of clay. How much clay is needed to make 22 sculptures?,484,44,x,y,22,22
+Chloe owns x comic books. A friend gives them y more comic books. How many comic books does Chloe have now?,x,Each sculpture requires 36 pounds of clay. How much clay is needed to make 18 sculptures?,648,54,x,y,36,18
+Olivia collects x magazines. Their subscription delivers y new magazines. How many magazines does Olivia have now?,x,Cookies require 45 chips per cookie. How many chips for 3 cookies?,135,48,x,y,45,3
+Olivia collects x magazines. Their subscription delivers y new magazines. How many magazines does Olivia have now?,x,Cookies require 16 chips per cookie. How many chips for 2 cookies?,32,18,x,y,16,2
+Daniel has x picture books. Their relative sends y more picture books. How many picture books does Daniel have now?,x,Each of 10 boxes contains 10 pencils. What is the total count?,100,20,x,y,10,10
+Daniel has x picture books. Their relative sends y more picture books. How many picture books does Daniel have now?,x,Each of 49 boxes contains 7 pencils. What is the total count?,343,56,x,y,49,7
+Harper reads x chapter books. Their school provides y additional chapter books. How many chapter books does Harper have now?,x,Each project pays $49. What's the income from 7 projects?,343,56,x,y,49,7
+Harper reads x chapter books. Their school provides y additional chapter books. How many chapter books does Harper have now?,x,Each project pays $3. What's the income from 3 projects?,9,6,x,y,3,3
+Henry has x t-shirts. Their laundry includes y more t-shirts. How many t-shirts does Henry have now?,x,Each hologram projector uses 10 teraflops. How much processing power for 5 projectors?,50,15,x,y,10,5
+Henry has x t-shirts. Their laundry includes y more t-shirts. How many t-shirts does Henry have now?,x,Each hologram projector uses 7 teraflops. How much processing power for 7 projectors?,49,14,x,y,7,7
+Matthew owns x pairs of socks. Their package contains y extra pairs of socks. How many pairs of socks does Matthew have now?,x,Each bicycle wheel requires 44 spokes. How many spokes are needed for 44 wheels?,1936,88,x,y,44,44
+Matthew owns x pairs of socks. Their package contains y extra pairs of socks. How many pairs of socks does Matthew have now?,x,Each bicycle wheel requires 28 spokes. How many spokes are needed for 14 wheels?,392,42,x,y,28,14
+Grace has x hats. Their collection grows by y more hats. How many hats does Grace have now?,x,The toll booth processes 16 cars per minute. How many cars can pass in 16 minutes?,256,32,x,y,16,16
+Grace has x hats. Their collection grows by y more hats. How many hats does Grace have now?,x,The toll booth processes 48 cars per minute. How many cars can pass in 16 minutes?,768,64,x,y,48,16
+Nathan wears x jackets. Their closet stores y additional jackets. How many jackets does Nathan have now?,x,Each candy bag costs $42. How much for 6 bags?,252,48,x,y,42,6
+Nathan wears x jackets. Their closet stores y additional jackets. How many jackets does Nathan have now?,x,Each candy bag costs $21. How much for 21 bags?,441,42,x,y,21,21
+Isla has x pairs of shoes. Their family buys them y more pairs of shoes. How many pairs of shoes does Isla have now?,x,A garden has 39 rows with 39 plants per row. How many plants total?,1521,78,x,y,39,39
+Isla has x pairs of shoes. Their family buys them y more pairs of shoes. How many pairs of shoes does Isla have now?,x,A garden has 39 rows with 3 plants per row. How many plants total?,117,42,x,y,39,3
+Chloe saves x coins. Their piggybank gains y more coins. How many coins does Chloe have now?,x,Each airplane seat weighs 9 pounds. What is the total weight of 9 seats?,81,18,x,y,9,9
+Chloe saves x coins. Their piggybank gains y more coins. How many coins does Chloe have now?,x,Each airplane seat weighs 10 pounds. What is the total weight of 5 seats?,50,15,x,y,10,5
+Nora has x keys on their keychain. They add y more keys. How many keys does Nora have now?,x,The ocean current moves 32 miles daily. How far will objects drift in 32 days?,1024,64,x,y,32,32
+Nora has x keys on their keychain. They add y more keys. How many keys does Nora have now?,x,The ocean current moves 26 miles daily. How far will objects drift in 13 days?,338,39,x,y,26,13
+James collects x bottle caps. Their friend contributes y more bottle caps. How many bottle caps does James have now?,x,The submarine explores 46 square miles daily. How much area can it survey in 2 days?,92,48,x,y,46,2
+James collects x bottle caps. Their friend contributes y more bottle caps. How many bottle caps does James have now?,x,The submarine explores 18 square miles daily. How much area can it survey in 2 days?,36,20,x,y,18,2
+Jacob has x photos in their album. They print y more photos. How many photos does Jacob have now?,x,Each software update takes 28 minutes. How long will 14 updates take?,392,42,x,y,28,14
+Jacob has x photos in their album. They print y more photos. How many photos does Jacob have now?,x,Each software update takes 26 minutes. How long will 13 updates take?,338,39,x,y,26,13
+Mia owns x video games. The store delivers y new video games. How many video games does Mia have now?,x,The game loads 47 textures per second. How many textures in 47 seconds?,2209,94,x,y,47,47
+Mia owns x video games. The store delivers y new video games. How many video games does Mia have now?,x,The game loads 9 textures per second. How many textures in 3 seconds?,27,12,x,y,9,3
+Henry has x minutes to complete a task. The supervisor grants y additional minutes. What is the new total time?,x,The telescope captures 4 images per orbit. How many images in 4 orbits?,16,8,x,y,4,4
+Henry has x minutes to complete a task. The supervisor grants y additional minutes. What is the new total time?,x,The telescope captures 20 images per orbit. How many images in 4 orbits?,80,24,x,y,20,4
+The concert starts in x minutes. Harper's commute takes y minutes longer than expected. What is the adjusted arrival time?,x,The castle has 42 passages per tower. How many passages in 14 towers?,588,56,x,y,42,14
+The concert starts in x minutes. Harper's commute takes y minutes longer than expected. What is the adjusted arrival time?,x,The castle has 36 passages per tower. How many passages in 18 towers?,648,54,x,y,36,18
+Grace's meeting lasts x minutes. The agenda extends it by y minutes. What is the new duration?,x,The sunflower grows 2 inches weekly. How tall will it be after 2 weeks?,4,4,x,y,2,2
+Grace's meeting lasts x minutes. The agenda extends it by y minutes. What is the new duration?,x,The sunflower grows 27 inches weekly. How tall will it be after 27 weeks?,729,54,x,y,27,27
+The flight duration is x hours. The pilot adds y hours due to weather. What is the new total flight time?,x,Henry has 39 bags with 3 apples in each. How many apples does Henry have total?,117,42,x,y,39,3
+The flight duration is x hours. The pilot adds y hours due to weather. What is the new total flight time?,x,Henry has 42 bags with 21 apples in each. How many apples does Henry have total?,882,63,x,y,42,21
+Henry practices piano for x minutes daily. Today they added y extra minutes. What was the total practice time?,x,Each tornado damages 30 structures. How many structures will 3 tornadoes affect?,90,33,x,y,30,3
+Henry practices piano for x minutes daily. Today they added y extra minutes. What was the total practice time?,x,Each tornado damages 10 structures. How many structures will 2 tornadoes affect?,20,12,x,y,10,2
+Chloe's account shows x dollars. A deposit of y dollars is added. What is the new balance?,x,Each coral reef supports 46 fish species. How many species might exist across 23 reefs?,1058,69,x,y,46,23
+Chloe's account shows x dollars. A deposit of y dollars is added. What is the new balance?,x,Each coral reef supports 10 fish species. How many species might exist across 2 reefs?,20,12,x,y,10,2
+The item costs x dollars. The price increases by y dollars. What is the new cost?,x,Each serving requires 42 ounces. How much for 7 servings?,294,49,x,y,42,7
+The item costs x dollars. The price increases by y dollars. What is the new cost?,x,Each serving requires 45 ounces. How much for 15 servings?,675,60,x,y,45,15
+Jack budgets x dollars for groceries. An unexpected y dollar expense arises. What is the revised budget?,x,Tasks take 44 minutes each. How long for 22 tasks?,968,66,x,y,44,22
+Jack budgets x dollars for groceries. An unexpected y dollar expense arises. What is the revised budget?,x,Tasks take 21 minutes each. How long for 7 tasks?,147,28,x,y,21,7
+The fundraiser goal is x dollars. The target increases by y dollars. What is the new goal amount?,x,Customers take 11 minutes each to serve. How long for 11 customers?,121,22,x,y,11,11
+The fundraiser goal is x dollars. The target increases by y dollars. What is the new goal amount?,x,Customers take 36 minutes each to serve. How long for 36 customers?,1296,72,x,y,36,36
+"Grace earns x dollars weekly. With y dollars in bonuses, what is the total compensation?",x,The beehive produces 48 ounces of honey daily. What will be the total production after 8 days?,384,56,x,y,48,8
+"Grace earns x dollars weekly. With y dollars in bonuses, what is the total compensation?",x,The beehive produces 48 ounces of honey daily. What will be the total production after 24 days?,1152,72,x,y,48,24
+The container holds x liters. Nathan adds y more liters. What is the new volume?,x,The heatwave increases energy demand by 12 megawatts daily. How much extra power will be needed over 4 days?,48,16,x,y,12,4
+The container holds x liters. Nathan adds y more liters. What is the new volume?,x,The heatwave increases energy demand by 48 megawatts daily. How much extra power will be needed over 48 days?,2304,96,x,y,48,48
+The rope measures x meters. Alexander attaches y more meters. What is the total length?,x,A cyclist averages 30 miles every hour. How far in 30 hours?,900,60,x,y,30,30
+The rope measures x meters. Alexander attaches y more meters. What is the total length?,x,A cyclist averages 23 miles every hour. How far in 23 hours?,529,46,x,y,23,23
+The building is x feet tall. The antenna adds y feet to its height. What is the new elevation?,x,A recipe requires 30 cups of flour per batch. Benjamin makes 5 batches. How much flour?,150,35,x,y,30,5
+The building is x feet tall. The antenna adds y feet to its height. What is the new elevation?,x,A recipe requires 30 cups of flour per batch. Benjamin makes 30 batches. How much flour?,900,60,x,y,30,30
+The package weighs x kilograms. Additional contents add y kilograms. What is the new weight?,x,A train travels 40 kilometers per hour. How far does it go in 40 hours?,1600,80,x,y,40,40
+The package weighs x kilograms. Additional contents add y kilograms. What is the new weight?,x,A train travels 14 kilometers per hour. How far does it go in 7 hours?,98,21,x,y,14,7
+The pool contains x gallons. The hose adds y more gallons. What is the total volume?,x,The rocket burns 24 tons of fuel per minute. How much fuel will it use in 3 minutes?,72,27,x,y,24,3
+The pool contains x gallons. The hose adds y more gallons. What is the total volume?,x,The rocket burns 27 tons of fuel per minute. How much fuel will it use in 27 minutes?,729,54,x,y,27,27
+The store stocks x phones. A shipment adds y more phones. What is the new stock?,x,Packets have 28 seeds each. How many seeds in 28 packets?,784,56,x,y,28,28
+The store stocks x phones. A shipment adds y more phones. What is the new stock?,x,Packets have 46 seeds each. How many seeds in 46 packets?,2116,92,x,y,46,46
+The warehouse has x boxes. A delivery brings y more boxes. What is the current count?,x,Each lunar module carries 45 instruments. How many instruments can 15 modules carry?,675,60,x,y,45,15
+The warehouse has x boxes. A delivery brings y more boxes. What is the current count?,x,Each lunar module carries 48 instruments. How many instruments can 2 modules carry?,96,50,x,y,48,2
+The library has x available books. New acquisitions add y books. What is the updated collection?,x,The caravan travels 14 miles daily. How far will it go in 14 days?,196,28,x,y,14,14
+The library has x available books. New acquisitions add y books. What is the updated collection?,x,The caravan travels 48 miles daily. How far will it go in 2 days?,96,50,x,y,48,2
+The bakery prepares x loaves. The afternoon batch makes y more loaves. What is the total production?,x,Innings average 28 runs each. How many runs in 28 innings?,784,56,x,y,28,28
+The bakery prepares x loaves. The afternoon batch makes y more loaves. What is the total production?,x,Innings average 24 runs each. How many runs in 2 innings?,48,26,x,y,24,2
+The farm has x chickens. New hatchlings increase the flock by y. What is the new population?,x,Each asteroid sample weighs 27 grams. What is the total weight of 27 samples?,729,54,x,y,27,27
+The farm has x chickens. New hatchlings increase the flock by y. What is the new population?,x,Each asteroid sample weighs 42 grams. What is the total weight of 42 samples?,1764,84,x,y,42,42
+The exam has x questions. The teacher adds y bonus questions. What is the new total?,x,The castle requires 28 stones per wall. How many stones for 7 walls?,196,35,x,y,28,7
+The exam has x questions. The teacher adds y bonus questions. What is the new total?,x,The castle requires 2 stones per wall. How many stones for 2 walls?,4,4,x,y,2,2
+The assignment requires x pages. The professor extends it by y pages. What is the new requirement?,x,A consultant charges $16 daily. What's the cost for 16 days?,256,32,x,y,16,16
+The assignment requires x pages. The professor extends it by y pages. What is the new requirement?,x,A consultant charges $40 daily. What's the cost for 5 days?,200,45,x,y,40,5
+The textbook has x chapters. The new edition adds y chapters. What is the updated count?,x,Each oyster filters 39 gallons of water hourly. How much water will 13 oysters filter?,507,52,x,y,39,13
+The textbook has x chapters. The new edition adds y chapters. What is the updated count?,x,Each oyster filters 4 gallons of water hourly. How much water will 2 oysters filter?,8,6,x,y,4,2
+The course offers x credit hours. Michael adds y audit hours. What is the total course load?,x,The dungeon has 18 traps per level. How many traps in 9 levels?,162,27,x,y,18,9
+The course offers x credit hours. Michael adds y audit hours. What is the total course load?,x,The dungeon has 8 traps per level. How many traps in 2 levels?,16,10,x,y,8,2
+The lab has x experiments. The curriculum adds y new experiments. What is the updated schedule?,x,The volcano erupts 48 tons of ash hourly. How much ash will be ejected in 2 hours?,96,50,x,y,48,2
+The lab has x experiments. The curriculum adds y new experiments. What is the updated schedule?,x,The volcano erupts 39 tons of ash hourly. How much ash will be ejected in 39 hours?,1521,78,x,y,39,39
+"The bus has x passengers. At the stop, y passengers board. What is the new passenger count?",x,The cargo ship loads 30 containers hourly. How many containers can it load in 10 hours?,300,40,x,y,30,10
+"The bus has x passengers. At the stop, y passengers board. What is the new passenger count?",x,The cargo ship loads 8 containers hourly. How many containers can it load in 4 hours?,32,12,x,y,8,4
+The train makes x stops. The schedule adds y express stops. What is the updated itinerary?,x,Each exoskeleton lifts 26 kilograms. How much can 13 exoskeletons lift together?,338,39,x,y,26,13
+The train makes x stops. The schedule adds y express stops. What is the updated itinerary?,x,Each exoskeleton lifts 34 kilograms. How much can 2 exoskeletons lift together?,68,36,x,y,34,2
+The plane has x empty seats. y passengers cancel their tickets. How many seats become available?,x,Each art class uses 37 paint tubes weekly. How many tubes are needed for 37 classes?,1369,74,x,y,37,37
+The plane has x empty seats. y passengers cancel their tickets. How many seats become available?,x,Each art class uses 20 paint tubes weekly. How many tubes are needed for 2 classes?,40,22,x,y,20,2
+The parking lot has x spaces. y reserved spaces are added. What is the new capacity?,x,Harper reads 38 pages every hour for 2 hours. How many pages total?,76,40,x,y,38,2
+The parking lot has x spaces. y reserved spaces are added. What is the new capacity?,x,Harper reads 20 pages every hour for 20 hours. How many pages total?,400,40,x,y,20,20
+The highway project needs x workers. y temporary workers join. What is the current workforce?,x,Each spacewalk requires 38 hours of prep. How much prep time for 2 spacewalks?,76,40,x,y,38,2
+The highway project needs x workers. y temporary workers join. What is the current workforce?,x,Each spacewalk requires 28 hours of prep. How much prep time for 2 spacewalks?,56,30,x,y,28,2
+The item originally costs x dollars. The premium version costs y dollars more. What is the upgraded price?,x,The scribe copies 15 pages daily. How many pages in 3 days?,45,18,x,y,15,3
+The item originally costs x dollars. The premium version costs y dollars more. What is the upgraded price?,x,The scribe copies 8 pages daily. How many pages in 2 days?,16,10,x,y,8,2
+Daniel brings x dollars to the store. They find y dollars in their pocket. What is their total cash?,x,A team allows 22 goals per match. How many in 22 matches?,484,44,x,y,22,22
+Daniel brings x dollars to the store. They find y dollars in their pocket. What is their total cash?,x,A team allows 24 goals per match. How many in 12 matches?,288,36,x,y,24,12
+The shopping list has x items. Henry remembers y more items. What is the updated list count?,x,Each crate holds 22 oranges. How many oranges in 2 crates?,44,24,x,y,22,2
+The shopping list has x items. Henry remembers y more items. What is the updated list count?,x,Each crate holds 32 oranges. How many oranges in 8 crates?,256,40,x,y,32,8
+The coupon saves x dollars. The cashier applies y dollars in additional savings. What is the total discount?,x,The ferry transports 11 vehicles per trip. How many vehicles can it carry in 11 trips?,121,22,x,y,11,11
+The coupon saves x dollars. The cashier applies y dollars in additional savings. What is the total discount?,x,The ferry transports 33 vehicles per trip. How many vehicles can it carry in 33 trips?,1089,66,x,y,33,33
+The loyalty card has x points. The bonus offer adds y points. What is the new point balance?,x,Each smartwatch tracks 46 health metrics. How many metrics for 2 watches?,92,48,x,y,46,2
+The loyalty card has x points. The bonus offer adds y points. What is the new point balance?,x,Each smartwatch tracks 6 health metrics. How many metrics for 6 watches?,36,12,x,y,6,6
+The recipe calls for x grams of flour. Alexander decides to add y more grams. What is the new measurement?,x,Overtime pays $48 per hour. How much for 24 overtime hours?,1152,72,x,y,48,24
+The recipe calls for x grams of flour. Alexander decides to add y more grams. What is the new measurement?,x,Overtime pays $8 per hour. How much for 2 overtime hours?,16,10,x,y,8,2
+The oven needs x minutes to preheat. The recipe suggests y extra minutes. What is the total preheat time?,x,Each Roman road segment is 40 miles long. How long is a road with 2 segments?,80,42,x,y,40,2
+The oven needs x minutes to preheat. The recipe suggests y extra minutes. What is the total preheat time?,x,Each Roman road segment is 30 miles long. How long is a road with 30 segments?,900,60,x,y,30,30
+The batch makes x cookies. Daniel bakes y more cookies. What is the total yield?,x,A printer prints 44 pages every minute. How many pages in 22 minutes?,968,66,x,y,44,22
+The batch makes x cookies. Daniel bakes y more cookies. What is the total yield?,x,A printer prints 36 pages every minute. How many pages in 4 minutes?,144,40,x,y,36,4
+The stew requires x hours to cook. The chef extends cooking by y hours. What is the new duration?,x,A machine processes 27 items per hour. How many can it do in 3 hours?,81,30,x,y,27,3
+The stew requires x hours to cook. The chef extends cooking by y hours. What is the new duration?,x,A machine processes 40 items per hour. How many can it do in 2 hours?,80,42,x,y,40,2
+The jar holds x servings. James prepares y extra servings. What is the new total?,x,The server handles 46 requests per second. How many requests in 2 seconds?,92,48,x,y,46,2
+The jar holds x servings. James prepares y extra servings. What is the new total?,x,The server handles 35 requests per second. How many requests in 5 seconds?,175,40,x,y,35,5
+The garden has x plants. William transplants y new plants. What is the new plant count?,x,The spaceship's shield blocks 32 radiation units hourly. How much radiation can it block in 8 hours?,256,40,x,y,32,8
+The garden has x plants. William transplants y new plants. What is the new plant count?,x,The spaceship's shield blocks 16 radiation units hourly. How much radiation can it block in 4 hours?,64,20,x,y,16,4
+The flowerbed needs x liters of water. The rainfall provides y additional liters. What is the total hydration?,x,Each hurricane produces 30 inches of rain. How much rain will 15 hurricanes bring?,450,45,x,y,30,15
+The flowerbed needs x liters of water. The rainfall provides y additional liters. What is the total hydration?,x,Each hurricane produces 32 inches of rain. How much rain will 4 hurricanes bring?,128,36,x,y,32,4
+The seed packet contains x seeds. Olivia receives y bonus seeds. What is the new total?,x,Each scooter travels 30 miles per charge. How far can 3 scooters travel?,90,33,x,y,30,3
+The seed packet contains x seeds. Olivia receives y bonus seeds. What is the new total?,x,Each scooter travels 16 miles per charge. How far can 8 scooters travel?,128,24,x,y,16,8
+The tree grows x centimeters yearly. Fertilizer adds y extra centimeters. What is the total growth?,x,Each phytoplankton cluster produces 36 oxygen molecules hourly. How much oxygen will 3 clusters produce?,108,39,x,y,36,3
+The tree grows x centimeters yearly. Fertilizer adds y extra centimeters. What is the total growth?,x,Each phytoplankton cluster produces 48 oxygen molecules hourly. How much oxygen will 8 clusters produce?,384,56,x,y,48,8
+The plot fits x vegetables. Succession planting adds y more vegetables. What is the new capacity?,x,The kelp forest grows 47 feet monthly. How tall will it become after 47 months?,2209,94,x,y,47,47
+The plot fits x vegetables. Succession planting adds y more vegetables. What is the new capacity?,x,The kelp forest grows 29 feet monthly. How tall will it become after 29 months?,841,58,x,y,29,29
+The phone has x% battery. Charging adds y% power. What is the new battery level?,x,Each electric vehicle charges at 48 kW. What's the total power needed for 24 vehicles?,1152,72,x,y,48,24
+The phone has x% battery. Charging adds y% power. What is the new battery level?,x,Each electric vehicle charges at 42 kW. What's the total power needed for 2 vehicles?,84,44,x,y,42,2
+The download requires x megabytes. The update adds y more megabytes. What is the new total size?,x,A car travels 24 miles every gallon. How far can it go on 3 gallons?,72,27,x,y,24,3
+The download requires x megabytes. The update adds y more megabytes. What is the new total size?,x,A car travels 42 miles every gallon. How far can it go on 6 gallons?,252,48,x,y,42,6
+The storage has x gigabytes free. Cloud storage adds y gigabytes. What is the new capacity?,x,Each of 12 rows contains 6 desks. How many desks total?,72,18,x,y,12,6
+The storage has x gigabytes free. Cloud storage adds y gigabytes. What is the new capacity?,x,Each of 44 rows contains 44 desks. How many desks total?,1936,88,x,y,44,44
+The video is x minutes long. Bonus content adds y minutes. What is the extended runtime?,x,The miner finds 25 ounces of gold weekly. How much gold in 5 weeks?,125,30,x,y,25,5
+The video is x minutes long. Bonus content adds y minutes. What is the extended runtime?,x,The miner finds 24 ounces of gold weekly. How much gold in 8 weeks?,192,32,x,y,24,8
+The app has x daily uses allowed. The premium version adds y more uses. What is the new limit?,x,The flood submerges 6 acres hourly. How many acres will be flooded in 3 hours?,18,9,x,y,6,3
+The app has x daily uses allowed. The premium version adds y more uses. What is the new limit?,x,The flood submerges 26 acres hourly. How many acres will be flooded in 2 hours?,52,28,x,y,26,2
+The game has x innings. Extra innings add y more. What is the total inning count?,x,"A book has 12 chapters, each with 2 pages. How many pages total?",24,14,x,y,12,2
+The game has x innings. Extra innings add y more. What is the total inning count?,x,"A book has 38 chapters, each with 19 pages. How many pages total?",722,57,x,y,38,19
+The scoreboard shows x points. The bonus round adds y points. What is the new total?,x,A toy is priced at $36 each. How much for 4 toys?,144,40,x,y,36,4
+The scoreboard shows x points. The bonus round adds y points. What is the new total?,x,A toy is priced at $36 each. How much for 18 toys?,648,54,x,y,36,18
+The tournament has x rounds. The format change adds y qualifying rounds. What is the new structure?,x,Cases hold 3 bottles each. How many bottles in 3 cases?,9,6,x,y,3,3
+The tournament has x rounds. The format change adds y qualifying rounds. What is the new structure?,x,Cases hold 39 bottles each. How many bottles in 3 cases?,117,42,x,y,39,3
+The athlete needs x meters to win. The course extends by y meters. What is the new distance?,x,The download speed is 45 MB per second. How much data will download in 3 seconds?,135,48,x,y,45,3
+The athlete needs x meters to win. The course extends by y meters. What is the new distance?,x,The download speed is 9 MB per second. How much data will download in 3 seconds?,27,12,x,y,9,3
+The team has x timeouts. The official grants y additional timeouts. What is the new allowance?,x,Each fishing net catches 16 fish when full. How many fish will 4 full nets catch?,64,20,x,y,16,4
+The team has x timeouts. The official grants y additional timeouts. What is the new allowance?,x,Each fishing net catches 17 fish when full. How many fish will 17 full nets catch?,289,34,x,y,17,17
+The prescription has x doses. The refill adds y more doses. What is the new total?,x,A machine produces 50 widgets every minute for 2 minutes. What's the total?,100,52,x,y,50,2
+The prescription has x doses. The refill adds y more doses. What is the new total?,x,A machine produces 40 widgets every minute for 5 minutes. What's the total?,200,45,x,y,40,5
+The treatment requires x sessions. The doctor adds y follow-up sessions. What is the new schedule?,x,Each Viking ship carries 44 warriors. How many warriors can 11 ships carry?,484,55,x,y,44,11
+The treatment requires x sessions. The doctor adds y follow-up sessions. What is the new schedule?,x,Each Viking ship carries 47 warriors. How many warriors can 47 ships carry?,2209,94,x,y,47,47
+The patient needs x milligrams of medicine. The dosage increases by y milligrams. What is the new requirement?,x,Each magic potion needs 19 dragon scales. How many scales for 19 potions?,361,38,x,y,19,19
+The patient needs x milligrams of medicine. The dosage increases by y milligrams. What is the new requirement?,x,Each magic potion needs 40 dragon scales. How many scales for 10 potions?,400,50,x,y,40,10
+The therapy lasts x weeks. The extension adds y more weeks. What is the new duration?,x,"A baker prepares 26 trays, each with 13 cookies. What is the total number?",338,39,x,y,26,13
+The therapy lasts x weeks. The extension adds y more weeks. What is the new duration?,x,"A baker prepares 45 trays, each with 5 cookies. What is the total number?",225,50,x,y,45,5
+The fitness goal is x steps daily. The challenge increases by y steps. What is the new target?,x,Each tide pool contains 25 hermit crabs. How many crabs would be in 25 pools?,625,50,x,y,25,25
+The fitness goal is x steps daily. The challenge increases by y steps. What is the new target?,x,Each tide pool contains 40 hermit crabs. How many crabs would be in 4 pools?,160,44,x,y,40,4
+The project has x tasks. The scope expands by y tasks. What is the new workload?,x,Ava writes 29 poetry lines daily. How many lines will be written in 29 consecutive days?,841,58,x,y,29,29
+The project has x tasks. The scope expands by y tasks. What is the new workload?,x,Ava writes 28 poetry lines daily. How many lines will be written in 4 consecutive days?,112,32,x,y,28,4
+The workday is x hours long. Overtime adds y hours. What is the new shift length?,x,Each hailstorm produces 46 ice chunks per square yard. How many chunks will fall on 23 square yards?,1058,69,x,y,46,23
+The workday is x hours long. Overtime adds y hours. What is the new shift length?,x,Each hailstorm produces 18 ice chunks per square yard. How many chunks will fall on 2 square yards?,36,20,x,y,18,2
+The quota requires x sales. The target increases by y sales. What is the new goal?,x,Zoe creates 36 paintings every month. How many paintings will be completed after 4 months?,144,40,x,y,36,4
+The quota requires x sales. The target increases by y sales. What is the new goal?,x,Zoe creates 24 paintings every month. How many paintings will be completed after 3 months?,72,27,x,y,24,3
+The budget allows x dollars. Additional funding provides y dollars. What is the new budget?,x,The revolution gains 37 supporters daily. How many supporters in 37 days?,1369,74,x,y,37,37
+The budget allows x dollars. Additional funding provides y dollars. What is the new budget?,x,The revolution gains 46 supporters daily. How many supporters in 23 days?,1058,69,x,y,46,23
+The contract lasts x months. The renewal adds y months. What is the new term?,x,A player averages 10 rebounds per game. How many in 5 games?,50,15,x,y,10,5
+The contract lasts x months. The renewal adds y months. What is the new term?,x,A player averages 38 rebounds per game. How many in 38 games?,1444,76,x,y,38,38
+The trip covers x kilometers. The detour adds y kilometers. What is the new distance?,x,The tidal zone reveals 48 new species per survey. How many species might be found in 48 surveys?,2304,96,x,y,48,48
+The trip covers x kilometers. The detour adds y kilometers. What is the new distance?,x,The tidal zone reveals 48 new species per survey. How many species might be found in 16 surveys?,768,64,x,y,48,16
+The vacation lasts x days. The airline extends it by y days. What is the new duration?,x,Each rainforest tree hosts 3 epiphyte species. How many species would be found on 3 trees?,9,6,x,y,3,3
+The vacation lasts x days. The airline extends it by y days. What is the new duration?,x,Each rainforest tree hosts 30 epiphyte species. How many species would be found on 5 trees?,150,35,x,y,30,5
+The suitcase holds x kilograms. The airline increases the limit by y kilograms. What is the new capacity?,x,The Mars colony uses 46 liters of water daily. How much water will be needed for 46 days?,2116,92,x,y,46,46
+The suitcase holds x kilograms. The airline increases the limit by y kilograms. What is the new capacity?,x,The Mars colony uses 24 liters of water daily. How much water will be needed for 6 days?,144,30,x,y,24,6
+The itinerary includes x cities. Last-minute changes add y cities. What is the new plan?,x,Each VR headset needs 28 sensors. How many sensors for 4 headsets?,112,32,x,y,28,4
+The itinerary includes x cities. Last-minute changes add y cities. What is the new plan?,x,Each VR headset needs 42 sensors. How many sensors for 21 headsets?,882,63,x,y,42,21
+The cruise has x ports of call. Weather changes add y alternative ports. What is the new schedule?,x,Each jewelry box holds 32 rings. How many rings can be stored in 32 boxes?,1024,64,x,y,32,32
+The cruise has x ports of call. Weather changes add y alternative ports. What is the new schedule?,x,Each jewelry box holds 42 rings. How many rings can be stored in 2 boxes?,84,44,x,y,42,2
+The guest list has x people. y last-minute RSVPs arrive. What is the new count?,x,Each astronaut consumes 45 pounds of food weekly. How much food is needed for 45 weeks?,2025,90,x,y,45,45
+The guest list has x people. y last-minute RSVPs arrive. What is the new count?,x,Each astronaut consumes 36 pounds of food weekly. How much food is needed for 9 weeks?,324,45,x,y,36,9
+The venue seats x guests. Additional chairs increase capacity by y. What is the new total?,x,A process takes 6 hours per unit. How long for 3 units?,18,9,x,y,6,3
+The venue seats x guests. Additional chairs increase capacity by y. What is the new total?,x,A process takes 17 hours per unit. How long for 17 units?,289,34,x,y,17,17
+The event budget is x dollars. A sponsor contributes y dollars. What is the new budget?,x,The film crew shoots 27 scenes daily. How many scenes will they capture in 9 days?,243,36,x,y,27,9
+The event budget is x dollars. A sponsor contributes y dollars. What is the new budget?,x,The film crew shoots 32 scenes daily. How many scenes will they capture in 4 days?,128,36,x,y,32,4
+The schedule allows x minutes per speaker. The organizer adds y bonus minutes. What is the new limit?,x,The Mars rover travels 32 meters daily. How far will it go in 32 days?,1024,64,x,y,32,32
+The schedule allows x minutes per speaker. The organizer adds y bonus minutes. What is the new limit?,x,The Mars rover travels 28 meters daily. How far will it go in 14 days?,392,42,x,y,28,14
+The conference has x sessions. The committee adds y breakout sessions. What is the new total?,x,A player makes 12 free throws per game. How many in 4 games?,48,16,x,y,12,4
+The conference has x sessions. The committee adds y breakout sessions. What is the new total?,x,A player makes 5 free throws per game. How many in 5 games?,25,10,x,y,5,5
+The blueprint requires x boards. The revision adds y more boards. What is the new requirement?,x,The helicopter uses 33 gallons of fuel hourly. How much fuel will it use in 33 hours?,1089,66,x,y,33,33
+The blueprint requires x boards. The revision adds y more boards. What is the new requirement?,x,The helicopter uses 11 gallons of fuel hourly. How much fuel will it use in 11 hours?,121,22,x,y,11,11
+The project needs x nails. The supplier provides y extra nails. What is the new total?,x,The spellbook has 6 pages per chapter. How many pages in 6 chapters?,36,12,x,y,6,6
+The project needs x nails. The supplier provides y extra nails. What is the new total?,x,The spellbook has 22 pages per chapter. How many pages in 22 chapters?,484,44,x,y,22,22
+The wall needs x bricks. The design change requires y more bricks. What is the new count?,x,Each lightning strike releases 18 gigajoules. How much energy will 18 strikes release?,324,36,x,y,18,18
+The wall needs x bricks. The design change requires y more bricks. What is the new count?,x,Each lightning strike releases 42 gigajoules. How much energy will 6 strikes release?,252,48,x,y,42,6
+The job estimates x hours of labor. Complications add y hours. What is the new estimate?,x,A plane flies 24 miles per hour. How far in 4 hours?,96,28,x,y,24,4
+The job estimates x hours of labor. Complications add y hours. What is the new estimate?,x,A plane flies 27 miles per hour. How far in 3 hours?,81,30,x,y,27,3
+The order requires x tiles. The overage includes y extra tiles. What is the delivered quantity?,x,Each mosaic tile covers 50 square inches. How much area can 25 tiles cover?,1250,75,x,y,50,25
+The order requires x tiles. The overage includes y extra tiles. What is the delivered quantity?,x,Each mosaic tile covers 20 square inches. How much area can 2 tiles cover?,40,22,x,y,20,2
+The production line makes x units per hour. Overtime adds y more units. What is the new output?,x,Each AI training cycle processes 48 data points. How many points in 24 cycles?,1152,72,x,y,48,24
+The production line makes x units per hour. Overtime adds y more units. What is the new output?,x,Each AI training cycle processes 36 data points. How many points in 2 cycles?,72,38,x,y,36,2
+The machine processes x items daily. Maintenance increases capacity by y items. What is the new rate?,x,The sandstorm reduces visibility by 22 meters per minute. How much visibility will be lost in 11 minutes?,242,33,x,y,22,11
+The machine processes x items daily. Maintenance increases capacity by y items. What is the new rate?,x,The sandstorm reduces visibility by 49 meters per minute. How much visibility will be lost in 49 minutes?,2401,98,x,y,49,49
+The quality check finds x defects. The tolerance allows y more defects. What is the acceptable range?,x,Jars contain 30 marbles each. How many marbles in 6 jars?,180,36,x,y,30,6
+The quality check finds x defects. The tolerance allows y more defects. What is the acceptable range?,x,Jars contain 16 marbles each. How many marbles in 2 jars?,32,18,x,y,16,2
+The shipment contains x products. The replacement adds y more products. What is the new inventory?,x,Each quantum computer performs 39 operations per second. How many operations in 13 seconds?,507,52,x,y,39,13
+The shipment contains x products. The replacement adds y more products. What is the new inventory?,x,Each quantum computer performs 11 operations per second. How many operations in 11 seconds?,121,22,x,y,11,11
+The order requires x components. The supplier includes y spare components. What is the delivered count?,x,"There are 33 classrooms, each with 3 students. How many students total?",99,36,x,y,33,3
+The order requires x components. The supplier includes y spare components. What is the delivered count?,x,"There are 38 classrooms, each with 38 students. How many students total?",1444,76,x,y,38,38
+The battery stores x kilowatt-hours. Solar charging adds y kilowatt-hours. What is the new charge?,x,The dance troupe performs 34 shows in each city. How many shows will they perform on a 34-city tour?,1156,68,x,y,34,34
+The battery stores x kilowatt-hours. Solar charging adds y kilowatt-hours. What is the new charge?,x,The dance troupe performs 20 shows in each city. How many shows will they perform on a 20-city tour?,400,40,x,y,20,20
+The tank holds x liters of fuel. Refueling adds y liters. What is the new quantity?,x,Each whale consumes 28 krill daily. How many krill will 4 whales eat?,112,32,x,y,28,4
+The tank holds x liters of fuel. Refueling adds y liters. What is the new quantity?,x,Each whale consumes 42 krill daily. How many krill will 14 whales eat?,588,56,x,y,42,14
+The generator provides x hours of power. Maintenance extends runtime by y hours. What is the new duration?,x,The character earns 49 XP per quest. How much XP from 49 quests?,2401,98,x,y,49,49
+The generator provides x hours of power. Maintenance extends runtime by y hours. What is the new duration?,x,The character earns 32 XP per quest. How much XP from 2 quests?,64,34,x,y,32,2
+The solar panel produces x watts daily. Extra sunlight increases output by y watts. What is the adjusted production?,x,Each Mars transmission takes 12 minutes. How long will 12 transmissions take?,144,24,x,y,12,12
+The solar panel produces x watts daily. Extra sunlight increases output by y watts. What is the adjusted production?,x,Each Mars transmission takes 40 minutes. How long will 10 transmissions take?,400,50,x,y,40,10
+The circuit handles x amps safely. Upgrades increase capacity by y amps. What is the new limit?,x,Each samurai sword takes 41 hours to forge. How long to forge 41 swords?,1681,82,x,y,41,41
+The circuit handles x amps safely. Upgrades increase capacity by y amps. What is the new limit?,x,Each samurai sword takes 50 hours to forge. How long to forge 50 swords?,2500,100,x,y,50,50
+The forest has x trees. Replanting adds y new trees. What is the new count?,x,Each train carriage has 6 seats. How many seats are in 6 carriages?,36,12,x,y,6,6
+The forest has x trees. Replanting adds y new trees. What is the new count?,x,Each train carriage has 21 seats. How many seats are in 3 carriages?,63,24,x,y,21,3
+The lake contains x fish. Stocking adds y more fish. What is the new population?,x,Each server rack uses 34 kilowatts. What's the total power for 2 racks?,68,36,x,y,34,2
+The lake contains x fish. Stocking adds y more fish. What is the new population?,x,Each server rack uses 33 kilowatts. What's the total power for 3 racks?,99,36,x,y,33,3
+The reserve protects x acres. The expansion adds y acres. What is the new protected area?,x,The blizzard drops 50 snowflakes per square inch. How many flakes will fall on 2 square inches?,100,52,x,y,50,2
+The reserve protects x acres. The expansion adds y acres. What is the new protected area?,x,The blizzard drops 48 snowflakes per square inch. How many flakes will fall on 3 square inches?,144,51,x,y,48,3
+The cleanup targets x tons of waste. Additional dumping adds y tons. What is the new total?,x,The drone makes 21 deliveries per hour. How many deliveries in 21 hours?,441,42,x,y,21,21
+The cleanup targets x tons of waste. Additional dumping adds y tons. What is the new total?,x,The drone makes 25 deliveries per hour. How many deliveries in 25 hours?,625,50,x,y,25,25
+The air quality index shows x particles. Pollution adds y particles. What is the new measurement?,x,A car drives 25 miles every hour for 25 hours. How far does it go?,625,50,x,y,25,25
+The air quality index shows x particles. Pollution adds y particles. What is the new measurement?,x,A car drives 42 miles every hour for 42 hours. How far does it go?,1764,84,x,y,42,42
+The puzzle has x pieces. The deluxe edition adds y more pieces. What is the new challenge?,x,Each smartphone has 5GB storage. How much total storage for 5 phones?,25,10,x,y,5,5
+The puzzle has x pieces. The deluxe edition adds y more pieces. What is the new challenge?,x,Each smartphone has 24GB storage. How much total storage for 6 phones?,144,30,x,y,24,6
+The collection contains x coins. An auction adds y rare coins. What is the new collection?,x,Each monster drops 26 items. How many items from 2 monsters?,52,28,x,y,26,2
+The collection contains x coins. An auction adds y rare coins. What is the new collection?,x,Each monster drops 48 items. How many items from 24 monsters?,1152,72,x,y,48,24
+The playlist has x songs. New releases add y more songs. What is the updated playlist?,x,"A bookshelf has 48 shelves, each holding 2 books. How many books total?",96,50,x,y,48,2
+The playlist has x songs. New releases add y more songs. What is the updated playlist?,x,"A bookshelf has 33 shelves, each holding 11 books. How many books total?",363,44,x,y,33,11
+The gallery displays x paintings. A donation adds y paintings. What is the new exhibition?,x,The satellite completes 47 orbits daily. How many orbits in 47 days?,2209,94,x,y,47,47
+The gallery displays x paintings. A donation adds y paintings. What is the new exhibition?,x,The satellite completes 34 orbits daily. How many orbits in 2 days?,68,36,x,y,34,2
+The book has x pages. The special edition includes y additional pages. What is the new length?,x,Each spell costs 30 mana points. How much mana to cast 10 spells?,300,40,x,y,30,10
+The book has x pages. The special edition includes y additional pages. What is the new length?,x,Each spell costs 24 mana points. How much mana to cast 24 spells?,576,48,x,y,24,24

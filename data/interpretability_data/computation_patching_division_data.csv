@@ -1,0 +1,301 @@
+clean_prompt,clean_gt_answer,corrupted_prompt,corrupted_gt_answer,clean_operand1,clean_operand2,corrupted_operand1,corrupted_operand2
+Jack has 15 apples to divide equally into 5 bags. How many apples go in each bag?,3,Jack has 6 apples to divide equally into 3 bags. How many apples go in each bag?,2,15,5,6,3
+Jack has 28 apples to divide equally into 7 bags. How many apples go in each bag?,4,Jack has 26 apples to divide equally into 2 bags. How many apples go in each bag?,13,28,7,26,2
+18 students are divided equally into 2 classrooms. How many in each?,9,14 students are divided equally into 14 classrooms. How many in each?,1,18,2,14,14
+46 students are divided equally into 46 classrooms. How many in each?,1,39 students are divided equally into 3 classrooms. How many in each?,13,46,46,39,3
+A baker divides 6 cookies equally among 6 trays. How many per tray?,1,A baker divides 24 cookies equally among 4 trays. How many per tray?,6,6,6,24,4
+A baker divides 24 cookies equally among 24 trays. How many per tray?,1,A baker divides 44 cookies equally among 11 trays. How many per tray?,4,24,24,44,11
+A book's 6 pages are divided equally into 3 chapters. How many per chapter?,2,A book's 48 pages are divided equally into 4 chapters. How many per chapter?,12,6,3,48,4
+A book's 22 pages are divided equally into 11 chapters. How many per chapter?,2,A book's 46 pages are divided equally into 46 chapters. How many per chapter?,1,22,11,46,46
+24 pencils are packaged equally in 6 boxes. How many in each box?,4,40 pencils are packaged equally in 8 boxes. How many in each box?,5,24,6,40,8
+49 pencils are packaged equally in 7 boxes. How many in each box?,7,28 pencils are packaged equally in 14 boxes. How many in each box?,2,49,7,28,14
+Zoe read 3 pages over 3 hours. What was the hourly rate?,1,Zoe read 39 pages over 3 hours. What was the hourly rate?,13,3,3,39,3
+Zoe read 33 pages over 3 hours. What was the hourly rate?,11,Zoe read 28 pages over 14 hours. What was the hourly rate?,2,33,3,28,14
+A machine made 24 widgets in 4 minutes. What was its per-minute rate?,6,A machine made 32 widgets in 32 minutes. What was its per-minute rate?,1,24,4,32,32
+A machine made 14 widgets in 14 minutes. What was its per-minute rate?,1,A machine made 36 widgets in 3 minutes. What was its per-minute rate?,12,14,14,36,3
+A printer produced 34 pages during 17 minutes. How many per minute?,2,A printer produced 33 pages during 11 minutes. How many per minute?,3,34,17,33,11
+A printer produced 50 pages during 10 minutes. How many per minute?,5,A printer produced 27 pages during 27 minutes. How many per minute?,1,50,10,27,27
+A car went 8 miles using 8 gallons. What was the mileage per gallon?,1,A car went 46 miles using 2 gallons. What was the mileage per gallon?,23,8,8,46,2
+A car went 16 miles using 4 gallons. What was the mileage per gallon?,4,A car went 36 miles using 2 gallons. What was the mileage per gallon?,18,16,4,36,2
+William earned $48 by working 2 hours. What was the hourly wage?,24,William earned $30 by working 3 hours. What was the hourly wage?,10,48,2,30,3
+William earned $34 by working 34 hours. What was the hourly wage?,1,William earned $48 by working 16 hours. What was the hourly wage?,3,34,34,48,16
+11 plants are arranged in 11 equal rows. How many plants per row?,1,24 plants are arranged in 12 equal rows. How many plants per row?,2,11,11,24,12
+30 plants are arranged in 2 equal rows. How many plants per row?,15,12 plants are arranged in 4 equal rows. How many plants per row?,3,30,2,12,4
+24 cars are parked in 24 equal rows. How many cars per row?,1,14 cars are parked in 7 equal rows. How many cars per row?,2,24,24,14,7
+36 cars are parked in 3 equal rows. How many cars per row?,12,28 cars are parked in 14 equal rows. How many cars per row?,2,36,3,28,14
+A quilt's 35 squares are arranged in 5 equal columns. How many per column?,7,A quilt's 20 squares are arranged in 2 equal columns. How many per column?,10,35,5,20,2
+A quilt's 35 squares are arranged in 7 equal columns. How many per column?,5,A quilt's 34 squares are arranged in 2 equal columns. How many per column?,17,35,7,34,2
+28 desks are arranged in 2 equal rows. How many desks per row?,14,12 desks are arranged in 2 equal rows. How many desks per row?,6,28,2,12,2
+50 desks are arranged in 25 equal rows. How many desks per row?,2,20 desks are arranged in 5 equal rows. How many desks per row?,4,50,25,20,5
+26 books are placed equally on 2 shelves. How many books per shelf?,13,20 books are placed equally on 2 shelves. How many books per shelf?,10,26,2,20,2
+41 books are placed equally on 41 shelves. How many books per shelf?,1,36 books are placed equally on 3 shelves. How many books per shelf?,12,41,41,36,3
+Alexander spent $48 on 3 equally priced tickets. What was the price per ticket?,16,Alexander spent $32 on 4 equally priced tickets. What was the price per ticket?,8,48,3,32,4
+Alexander spent $10 on 2 equally priced tickets. What was the price per ticket?,5,Alexander spent $24 on 12 equally priced tickets. What was the price per ticket?,2,10,2,24,12
+Matthew paid $7 for 7 candy bags. What was the per-bag price?,1,Matthew paid $36 for 18 candy bags. What was the per-bag price?,2,7,7,36,18
+Matthew paid $28 for 2 candy bags. What was the per-bag price?,14,Matthew paid $10 for 10 candy bags. What was the per-bag price?,1,28,2,10,10
+Henry spent $48 on 8 identical toys. What was each toy's price?,6,Henry spent $30 on 30 identical toys. What was each toy's price?,1,48,8,30,30
+Henry spent $24 on 3 identical toys. What was each toy's price?,8,Henry spent $44 on 2 identical toys. What was each toy's price?,22,24,3,44,2
+40 apples cost $40 altogether. What's the price per apple?,1,3 apples cost $18 altogether. What's the price per apple?,6,40,40,18,3
+27 apples cost $27 altogether. What's the price per apple?,1,2 apples cost $18 altogether. What's the price per apple?,9,27,27,18,2
+Amelia paid $48 for 4 months of service. What was the monthly rate?,12,Amelia paid $46 for 2 months of service. What was the monthly rate?,23,48,4,46,2
+Amelia paid $27 for 27 months of service. What was the monthly rate?,1,Amelia paid $39 for 13 months of service. What was the monthly rate?,3,27,27,39,13
+A car traveled 48 miles in 48 hours. What was its speed in mph?,1,A car traveled 36 miles in 18 hours. What was its speed in mph?,2,48,48,36,18
+A car traveled 34 miles in 34 hours. What was its speed in mph?,1,A car traveled 24 miles in 6 hours. What was its speed in mph?,4,34,34,24,6
+A plane covered 44 miles over 22 hours. What was its speed?,2,A plane covered 43 miles over 43 hours. What was its speed?,1,44,22,43,43
+A plane covered 13 miles over 13 hours. What was its speed?,1,A plane covered 9 miles over 3 hours. What was its speed?,3,13,13,9,3
+A runner completed 15 km in 5 hours. What was the pace?,3,A runner completed 18 km in 18 hours. What was the pace?,1,15,5,18,18
+A runner completed 19 km in 19 hours. What was the pace?,1,A runner completed 39 km in 3 hours. What was the pace?,13,19,19,39,3
+A train went 10 km during 10 hours. What was its speed?,1,A train went 36 km during 4 hours. What was its speed?,9,10,10,36,4
+A train went 36 km during 3 hours. What was its speed?,12,A train went 50 km during 2 hours. What was its speed?,25,36,3,50,2
+A cyclist rode 45 miles over 15 hours. What was the average speed?,3,A cyclist rode 26 miles over 26 hours. What was the average speed?,1,45,15,26,26
+A cyclist rode 48 miles over 2 hours. What was the average speed?,24,A cyclist rode 4 miles over 2 hours. What was the average speed?,2,48,2,4,2
+Chloe has 15 cups of flour to make 15 batches. How much per batch?,1,Chloe has 46 cups of flour to make 2 batches. How much per batch?,23,15,15,46,2
+Chloe has 28 cups of flour to make 2 batches. How much per batch?,14,Chloe has 33 cups of flour to make 3 batches. How much per batch?,11,28,2,33,3
+3 cakes used 30 eggs total. How many eggs per cake?,10,2 cakes used 40 eggs total. How many eggs per cake?,20,30,3,40,2
+19 cakes used 19 eggs total. How many eggs per cake?,1,20 cakes used 40 eggs total. How many eggs per cake?,2,19,19,40,20
+27 cookies used 27 chips altogether. What's the average per cookie?,1,4 cookies used 44 chips altogether. What's the average per cookie?,11,27,27,44,4
+20 cookies used 20 chips altogether. What's the average per cookie?,1,11 cookies used 44 chips altogether. What's the average per cookie?,4,20,20,44,11
+3 servings used 15 ounces total. How much per serving?,5,5 servings used 30 ounces total. How much per serving?,6,15,3,30,5
+11 servings used 44 ounces total. How much per serving?,4,25 servings used 50 ounces total. How much per serving?,2,44,11,50,25
+18 bowls used 18 liters total. What was the amount per bowl?,1,2 bowls used 20 liters total. What was the amount per bowl?,10,18,18,20,2
+23 bowls used 46 liters total. What was the amount per bowl?,2,15 bowls used 45 liters total. What was the amount per bowl?,3,46,23,45,15
+Isla earned $2 by working 2 hours. What was the hourly pay?,1,Isla earned $50 by working 5 hours. What was the hourly pay?,10,2,2,50,5
+Isla earned $32 by working 2 hours. What was the hourly pay?,16,Isla earned $42 by working 42 hours. What was the hourly pay?,1,32,2,42,42
+A worker earned $15 from 5 items. What was the per-item rate?,3,A worker earned $34 from 34 items. What was the per-item rate?,1,15,5,34,34
+A worker earned $30 from 10 items. What was the per-item rate?,3,A worker earned $25 from 25 items. What was the per-item rate?,1,30,10,25,25
+25 projects earned $25 total. What was the average per project?,1,8 projects earned $48 total. What was the average per project?,6,25,25,48,8
+4 projects earned $12 total. What was the average per project?,3,6 projects earned $12 total. What was the average per project?,2,12,4,12,6
+A consultant's 21 days of work cost $42. What was the daily rate?,2,A consultant's 11 days of work cost $11. What was the daily rate?,1,42,21,11,11
+A consultant's 45 days of work cost $45. What was the daily rate?,1,A consultant's 8 days of work cost $16. What was the daily rate?,2,45,45,16,8
+6 overtime hours earned $42. What was the overtime rate?,7,47 overtime hours earned $47. What was the overtime rate?,1,42,6,47,47
+4 overtime hours earned $20. What was the overtime rate?,5,27 overtime hours earned $27. What was the overtime rate?,1,20,4,27,27
+50 oranges are packed equally in 25 crates. How many per crate?,2,39 oranges are packed equally in 3 crates. How many per crate?,13,50,25,39,3
+24 oranges are packed equally in 3 crates. How many per crate?,8,46 oranges are packed equally in 23 crates. How many per crate?,2,24,3,46,23
+22 cartons hold 22 eggs total. How many eggs per carton?,1,15 cartons hold 30 eggs total. How many eggs per carton?,2,22,22,30,15
+18 cartons hold 36 eggs total. How many eggs per carton?,2,35 cartons hold 35 eggs total. How many eggs per carton?,1,36,18,35,35
+3 jars have 45 marbles total. What's the average per jar?,15,10 jars have 40 marbles total. What's the average per jar?,4,45,3,40,10
+2 jars have 16 marbles total. What's the average per jar?,8,13 jars have 26 marbles total. What's the average per jar?,2,16,2,26,13
+10 cases contain 10 bottles total. How many per case?,1,2 cases contain 6 bottles total. How many per case?,3,10,10,6,2
+7 cases contain 49 bottles total. How many per case?,7,2 cases contain 48 bottles total. How many per case?,24,49,7,48,2
+7 packets contain 49 seeds total. How many seeds per packet?,7,6 packets contain 24 seeds total. How many seeds per packet?,4,49,7,24,6
+3 packets contain 3 seeds total. How many seeds per packet?,1,2 packets contain 12 seeds total. How many seeds per packet?,6,3,3,12,2
+5 tasks took 10 minutes total. What was the average time per task?,2,11 tasks took 11 minutes total. What was the average time per task?,1,10,5,11,11
+7 tasks took 7 minutes total. What was the average time per task?,1,8 tasks took 32 minutes total. What was the average time per task?,4,7,7,32,8
+44 units were made in 44 hours total. What was the time per unit?,1,5 units were made in 25 hours total. What was the time per unit?,5,44,44,25,5
+14 units were made in 28 hours total. What was the time per unit?,2,3 units were made in 24 hours total. What was the time per unit?,8,28,14,24,3
+16 questions took 16 minutes altogether. What was the average time?,1,12 questions took 48 minutes altogether. What was the average time?,4,16,16,48,12
+16 questions took 48 minutes altogether. What was the average time?,3,6 questions took 42 minutes altogether. What was the average time?,7,48,16,42,6
+A machine completed 42 items over 6 hours. What was its processing rate?,7,A machine completed 37 items over 37 hours. What was its processing rate?,1,42,6,37,37
+A machine completed 21 items over 21 hours. What was its processing rate?,1,A machine completed 14 items over 2 hours. What was its processing rate?,7,21,21,14,2
+39 customers were served in 39 minutes. What was the average service time?,1,2 customers were served in 34 minutes. What was the average service time?,17,39,39,34,2
+3 customers were served in 39 minutes. What was the average service time?,13,2 customers were served in 38 minutes. What was the average service time?,19,39,3,38,2
+A team scored 9 points over 9 games. What was their average?,1,A team scored 14 points over 7 games. What was their average?,2,9,9,14,7
+A team scored 10 points over 5 games. What was their average?,2,A team scored 36 points over 36 games. What was their average?,1,10,5,36,36
+A player got 32 rebounds in 32 games. What was the average?,1,A player got 15 rebounds in 3 games. What was the average?,5,32,32,15,3
+A player got 26 rebounds in 13 games. What was the average?,2,A player got 22 rebounds in 2 games. What was the average?,11,26,13,22,2
+2 innings had 46 runs total. What was the average per inning?,23,8 innings had 40 runs total. What was the average per inning?,5,46,2,40,8
+2 innings had 18 runs total. What was the average per inning?,9,3 innings had 39 runs total. What was the average per inning?,13,18,2,39,3
+A player made 28 free throws over 14 games. What was the average?,2,A player made 41 free throws over 41 games. What was the average?,1,28,14,41,41
+A player made 26 free throws over 13 games. What was the average?,2,A player made 12 free throws over 3 games. What was the average?,4,26,13,12,3
+A team conceded 47 goals during 47 matches. What was the average?,1,A team conceded 14 goals during 7 matches. What was the average?,2,47,47,14,7
+A team conceded 9 goals during 3 matches. What was the average?,3,A team conceded 46 goals during 23 matches. What was the average?,2,9,3,46,23
+Matthew completed 4 paintings over 4 months. How many paintings per month on average?,1,Matthew completed 25 paintings over 5 months. How many paintings per month on average?,5,4,4,25,5
+Matthew completed 20 paintings over 4 months. How many paintings per month on average?,5,Matthew completed 37 paintings over 37 months. How many paintings per month on average?,1,20,4,37,37
+Lily used 42 pounds of clay for 14 sculptures. How much clay per sculpture?,3,Lily used 24 pounds of clay for 3 sculptures. How much clay per sculpture?,8,42,14,24,3
+Lily used 36 pounds of clay for 18 sculptures. How much clay per sculpture?,2,Lily used 20 pounds of clay for 4 sculptures. How much clay per sculpture?,5,36,18,20,4
+The troupe performed 2 shows across 2 cities. What was their average shows per city?,1,The troupe performed 36 shows across 6 cities. What was their average shows per city?,6,2,2,36,6
+The troupe performed 27 shows across 27 cities. What was their average shows per city?,1,The troupe performed 40 shows across 20 cities. What was their average shows per city?,2,27,27,40,20
+The art department has 39 paint tubes to share equally among 3 classes. How many per class?,13,The art department has 48 paint tubes to share equally among 3 classes. How many per class?,16,39,3,48,3
+The art department has 42 paint tubes to share equally among 21 classes. How many per class?,2,The art department has 18 paint tubes to share equally among 18 classes. How many per class?,1,42,21,18,18
+Henry wrote 30 poetry lines over 3 days. What was the average daily output?,10,Henry wrote 24 poetry lines over 4 days. What was the average daily output?,6,30,3,24,4
+Henry wrote 10 poetry lines over 2 days. What was the average daily output?,5,Henry wrote 48 poetry lines over 24 days. What was the average daily output?,2,10,2,48,24
+The theater used 46 yards of fabric for 23 seats. How much fabric per seat?,2,The theater used 30 yards of fabric for 30 seats. How much fabric per seat?,1,46,23,30,30
+The theater used 10 yards of fabric for 2 seats. How much fabric per seat?,5,The theater used 9 yards of fabric for 3 seats. How much fabric per seat?,3,10,2,9,3
+The band sold 42 albums over 7 concerts. What was their average sales per concert?,6,The band sold 44 albums over 4 concerts. What was their average sales per concert?,11,42,7,44,4
+The band sold 45 albums over 15 concerts. What was their average sales per concert?,3,The band sold 19 albums over 19 concerts. What was their average sales per concert?,1,45,15,19,19
+Emma covered 44 square inches with 22 tiles. What was the average coverage per tile?,2,Emma covered 12 square inches with 4 tiles. What was the average coverage per tile?,3,44,22,12,4
+Emma covered 21 square inches with 7 tiles. What was the average coverage per tile?,3,Emma covered 11 square inches with 11 tiles. What was the average coverage per tile?,1,21,7,11,11
+The crew shot 11 scenes over 11 days. What was their average daily scenes?,1,The crew shot 25 scenes over 5 days. What was their average daily scenes?,5,11,11,25,5
+The crew shot 36 scenes over 36 days. What was their average daily scenes?,1,The crew shot 16 scenes over 2 days. What was their average daily scenes?,8,36,36,16,2
+Nathan has 48 rings to distribute equally among 8 boxes. How many rings per box?,6,Nathan has 26 rings to distribute equally among 13 boxes. How many rings per box?,2,48,8,26,13
+Nathan has 48 rings to distribute equally among 24 boxes. How many rings per box?,2,Nathan has 50 rings to distribute equally among 2 boxes. How many rings per box?,25,48,24,50,2
+The hive produced 12 ounces of honey over 4 days. What was the average daily yield?,3,The hive produced 38 ounces of honey over 38 days. What was the average daily yield?,1,12,4,38,38
+The hive produced 48 ounces of honey over 48 days. What was the average daily yield?,1,The hive produced 48 ounces of honey over 6 days. What was the average daily yield?,8,48,48,48,6
+Researchers found 30 epiphyte species on 30 trees. What was the average per tree?,1,Researchers found 27 epiphyte species on 9 trees. What was the average per tree?,3,30,30,27,9
+Researchers found 23 epiphyte species on 23 trees. What was the average per tree?,1,Researchers found 36 epiphyte species on 12 trees. What was the average per tree?,3,23,23,36,12
+The volcano released 30 tons of ash over 5 hours. What was the hourly eruption rate?,6,The volcano released 40 tons of ash over 40 hours. What was the hourly eruption rate?,1,30,5,40,40
+The volcano released 30 tons of ash over 30 hours. What was the hourly eruption rate?,1,The volcano released 12 tons of ash over 2 hours. What was the hourly eruption rate?,6,30,30,12,2
+Scientists observed 40 hermit crabs distributed equally among 40 pools. What was the average per pool?,1,Scientists observed 48 hermit crabs distributed equally among 6 pools. What was the average per pool?,8,40,40,48,6
+Scientists observed 14 hermit crabs distributed equally among 7 pools. What was the average per pool?,2,Scientists observed 12 hermit crabs distributed equally among 2 pools. What was the average per pool?,6,14,7,12,2
+The glacier retreated 24 inches over 3 days. What was the average daily recession?,8,The glacier retreated 44 inches over 11 days. What was the average daily recession?,4,24,3,44,11
+The glacier retreated 27 inches over 27 days. What was the average daily recession?,1,The glacier retreated 26 inches over 2 days. What was the average daily recession?,13,27,27,26,2
+Observers counted 28 meteors over 28 hours. What was the hourly rate?,1,Observers counted 40 meteors over 4 hours. What was the hourly rate?,10,28,28,40,4
+Observers counted 46 meteors over 46 hours. What was the hourly rate?,1,Observers counted 30 meteors over 6 hours. What was the hourly rate?,5,46,46,30,6
+The sunflower grew 45 inches over 15 weeks. What was the average weekly growth?,3,The sunflower grew 4 inches over 2 weeks. What was the average weekly growth?,2,45,15,4,2
+The sunflower grew 48 inches over 2 weeks. What was the average weekly growth?,24,The sunflower grew 30 inches over 5 weeks. What was the average weekly growth?,6,48,2,30,5
+Marine biologists documented 14 species among 14 reefs. What was the average per reef?,1,Marine biologists documented 15 species among 3 reefs. What was the average per reef?,5,14,14,15,3
+Marine biologists documented 48 species among 2 reefs. What was the average per reef?,24,Marine biologists documented 18 species among 18 reefs. What was the average per reef?,1,48,2,18,18
+The storm had 28 lightning flashes over 28 minutes. What was the flash rate?,1,The storm had 50 lightning flashes over 10 minutes. What was the flash rate?,5,28,28,50,10
+The storm had 24 lightning flashes over 2 minutes. What was the flash rate?,12,The storm had 33 lightning flashes over 3 minutes. What was the flash rate?,11,24,2,33,3
+The fungal network covered 27 square feet across 27 colonies. What was the average size?,1,The fungal network covered 44 square feet across 11 colonies. What was the average size?,4,27,27,44,11
+The fungal network covered 42 square feet across 42 colonies. What was the average size?,1,The fungal network covered 39 square feet across 3 colonies. What was the average size?,13,42,42,39,3
+The server processed 28 requests over 7 seconds. What was the request rate?,4,The server processed 8 requests over 8 seconds. What was the request rate?,1,28,7,8,8
+The server processed 2 requests over 2 seconds. What was the request rate?,1,The server processed 32 requests over 16 seconds. What was the request rate?,2,2,2,32,16
+A shipment of 16 phones has 16GB total storage. What's the average per phone?,1,A shipment of 2 phones has 20GB total storage. What's the average per phone?,10,16,16,20,2
+A shipment of 5 phones has 40GB total storage. What's the average per phone?,8,A shipment of 2 phones has 48GB total storage. What's the average per phone?,24,40,5,48,2
+Lucas downloaded 39 MB over 13 seconds. What was the download speed?,3,Lucas downloaded 48 MB over 4 seconds. What was the download speed?,12,39,13,48,4
+Lucas downloaded 4 MB over 2 seconds. What was the download speed?,2,Lucas downloaded 15 MB over 5 seconds. What was the download speed?,3,4,2,15,5
+A team of 9 robots assembled 18 components. What was each robot's average output?,2,A team of 46 robots assembled 46 components. What was each robot's average output?,1,18,9,46,46
+A team of 2 robots assembled 8 components. What was each robot's average output?,4,A team of 7 robots assembled 35 components. What was each robot's average output?,5,8,2,35,7
+The data center used 48 kilowatts across 2 racks. What was the average per rack?,24,The data center used 18 kilowatts across 6 racks. What was the average per rack?,3,48,2,18,6
+The data center used 39 kilowatts across 39 racks. What was the average per rack?,1,The data center used 16 kilowatts across 8 racks. What was the average per rack?,2,39,39,16,8
+Installing 10 updates took 30 minutes total. What was the average time?,3,Installing 5 updates took 35 minutes total. What was the average time?,7,30,10,35,5
+Installing 4 updates took 8 minutes total. What was the average time?,2,Installing 2 updates took 24 minutes total. What was the average time?,12,8,4,24,2
+The cable transferred 26 TB over 13 hours. What was the average rate?,2,The cable transferred 14 TB over 14 hours. What was the average rate?,1,26,13,14,14
+The cable transferred 34 TB over 2 hours. What was the average rate?,17,The cable transferred 48 TB over 4 hours. What was the average rate?,12,34,2,48,4
+The system collected 37 metrics from 37 watches. What was the average per watch?,1,The system collected 25 metrics from 5 watches. What was the average per watch?,5,37,37,25,5
+The system collected 20 metrics from 2 watches. What was the average per watch?,10,The system collected 20 metrics from 20 watches. What was the average per watch?,1,20,2,20,20
+The printer created 38 layers over 2 minutes. What was the average speed?,19,The printer created 6 layers over 3 minutes. What was the average speed?,2,38,2,6,3
+The printer created 20 layers over 20 minutes. What was the average speed?,1,The printer created 32 layers over 16 minutes. What was the average speed?,2,20,20,32,16
+The VR setup uses 38 sensors across 2 headsets. What's the average per headset?,19,The VR setup uses 26 sensors across 13 headsets. What's the average per headset?,2,38,2,26,13
+The VR setup uses 28 sensors across 2 headsets. What's the average per headset?,14,The VR setup uses 19 sensors across 19 headsets. What's the average per headset?,1,28,2,19,19
+The ferry carried 15 vehicles over 3 trips. What was the average vehicles per trip?,5,The ferry carried 36 vehicles over 3 trips. What was the average vehicles per trip?,12,15,3,36,3
+The ferry carried 8 vehicles over 2 trips. What was the average vehicles per trip?,4,The ferry carried 42 vehicles over 3 trips. What was the average vehicles per trip?,14,8,2,42,3
+The cabin's 22 seats weigh 22 pounds total. What is the average seat weight?,1,The cabin's 10 seats weigh 30 pounds total. What is the average seat weight?,3,22,22,30,10
+The cabin's 12 seats weigh 24 pounds total. What is the average seat weight?,2,The cabin's 8 seats weigh 24 pounds total. What is the average seat weight?,3,24,12,24,8
+There were 22 arrivals during 2 minutes. What was the actual arrival frequency?,11,There were 36 arrivals during 18 minutes. What was the actual arrival frequency?,2,22,2,36,18
+There were 32 arrivals during 8 minutes. What was the actual arrival frequency?,4,There were 28 arrivals during 14 minutes. What was the actual arrival frequency?,2,32,8,28,14
+A fleet of 11 scooters traveled 11 miles total. What was the average distance per scooter?,1,A fleet of 14 scooters traveled 28 miles total. What was the average distance per scooter?,2,11,11,28,14
+A fleet of 33 scooters traveled 33 miles total. What was the average distance per scooter?,1,A fleet of 22 scooters traveled 44 miles total. What was the average distance per scooter?,2,33,33,44,22
+Dockworkers loaded 46 containers over 2 hours. What was their average hourly rate?,23,Dockworkers loaded 32 containers over 8 hours. What was their average hourly rate?,4,46,2,32,8
+Dockworkers loaded 6 containers over 6 hours. What was their average hourly rate?,1,Dockworkers loaded 27 containers over 9 hours. What was their average hourly rate?,3,6,6,27,9
+The shop used 48 spokes across 24 wheels. What was the average spokes per wheel?,2,The shop used 27 spokes across 27 wheels. What was the average spokes per wheel?,1,48,24,27,27
+The shop used 8 spokes across 2 wheels. What was the average spokes per wheel?,4,The shop used 15 spokes across 3 wheels. What was the average spokes per wheel?,5,8,2,15,3
+The booth processed 40 cars over 2 minutes. What was its average processing rate?,20,The booth processed 33 cars over 11 minutes. What was its average processing rate?,3,40,2,33,11
+The booth processed 30 cars over 30 minutes. What was its average processing rate?,1,The booth processed 40 cars over 2 minutes. What was its average processing rate?,20,30,30,40,2
+The train has 44 seats total across 22 carriages. What's the average per carriage?,2,The train has 15 seats total across 15 carriages. What's the average per carriage?,1,44,22,15,15
+The train has 36 seats total across 4 carriages. What's the average per carriage?,9,The train has 48 seats total across 16 carriages. What's the average per carriage?,3,36,4,48,16
+The helicopter consumed 27 gallons over 3 hours. What was its average hourly usage?,9,The helicopter consumed 8 gallons over 8 hours. What was its average hourly usage?,1,27,3,8,8
+The helicopter consumed 40 gallons over 2 hours. What was its average hourly usage?,20,The helicopter consumed 2 gallons over 2 hours. What was its average hourly usage?,1,40,2,2,2
+The charging station provided 46 kW total to 2 vehicles. What was the average per vehicle?,23,The charging station provided 22 kW total to 11 vehicles. What was the average per vehicle?,2,46,2,22,11
+The charging station provided 35 kW total to 5 vehicles. What was the average per vehicle?,7,The charging station provided 39 kW total to 39 vehicles. What was the average per vehicle?,1,35,5,39,39
+The rover traveled 32 meters over 8 days. What was its average daily distance?,4,The rover traveled 30 meters over 30 days. What was its average daily distance?,1,32,8,30,30
+The rover traveled 16 meters over 4 days. What was its average daily distance?,4,The rover traveled 30 meters over 5 days. What was its average daily distance?,6,16,4,30,5
+The crew ate 30 pounds of food over 15 weeks. What was their average weekly consumption?,2,The crew ate 37 pounds of food over 37 weeks. What was their average weekly consumption?,1,30,15,37,37
+The crew ate 32 pounds of food over 4 weeks. What was their average weekly consumption?,8,The crew ate 36 pounds of food over 36 weeks. What was their average weekly consumption?,1,32,4,36,36
+The satellite made 30 orbits in 3 days. What was its actual daily orbit count?,10,The satellite made 48 orbits in 2 days. What was its actual daily orbit count?,24,30,3,48,2
+The satellite made 16 orbits in 8 days. What was its actual daily orbit count?,2,The satellite made 22 orbits in 2 days. What was its actual daily orbit count?,11,16,8,22,2
+Mission Control spent 36 hours prepping for 3 spacewalks. What was the average prep time?,12,Mission Control spent 20 hours prepping for 10 spacewalks. What was the average prep time?,2,36,3,20,10
+Mission Control spent 48 hours prepping for 8 spacewalks. What was the average prep time?,6,Mission Control spent 30 hours prepping for 6 spacewalks. What was the average prep time?,5,48,8,30,6
+The rocket used 47 tons of fuel over 47 minutes. What was its average burn rate?,1,The rocket used 30 tons of fuel over 6 minutes. What was its average burn rate?,5,47,47,30,6
+The rocket used 29 tons of fuel over 29 minutes. What was its average burn rate?,1,The rocket used 24 tons of fuel over 2 minutes. What was its average burn rate?,12,29,29,24,2
+Scientists deployed 48 instruments across 24 modules. What was the average per module?,2,Scientists deployed 32 instruments across 2 modules. What was the average per module?,16,48,24,32,2
+Scientists deployed 42 instruments across 2 modules. What was the average per module?,21,Scientists deployed 40 instruments across 5 modules. What was the average per module?,8,42,2,40,5
+The telescope took 24 images during 3 orbits. What was its average imaging rate?,8,The telescope took 44 images during 22 orbits. What was its average imaging rate?,2,24,3,44,22
+The telescope took 42 images during 6 orbits. What was its average imaging rate?,7,The telescope took 20 images during 5 orbits. What was its average imaging rate?,4,42,6,20,5
+The mission collected 12 grams from 6 samples. What was the average sample weight?,2,The mission collected 28 grams from 28 samples. What was the average sample weight?,1,12,6,28,28
+The mission collected 44 grams from 44 samples. What was the average sample weight?,1,The mission collected 32 grams from 16 samples. What was the average sample weight?,2,44,44,32,16
+The shield blocked 25 units over 5 hours. What was its average protection rate?,5,The shield blocked 30 units over 15 hours. What was its average protection rate?,2,25,5,30,15
+The shield blocked 24 units over 8 hours. What was its average protection rate?,3,The shield blocked 22 units over 11 hours. What was its average protection rate?,2,24,8,22,11
+Mission Control spent 6 minutes on 3 transmissions. What was the average time per transmission?,2,Mission Control spent 8 minutes on 8 transmissions. What was the average time per transmission?,1,6,3,8,8
+Mission Control spent 26 minutes on 2 transmissions. What was the average time per transmission?,13,Mission Control spent 42 minutes on 6 transmissions. What was the average time per transmission?,7,26,2,42,6
+The alchemist used 12 scales to make 2 potions. What was the average per potion?,6,The alchemist used 40 scales to make 20 potions. What was the average per potion?,2,12,2,40,20
+The alchemist used 38 scales to make 19 potions. What was the average per potion?,2,The alchemist used 48 scales to make 16 potions. What was the average per potion?,3,38,19,48,16
+Adventurers found 36 traps across 4 levels. What was the average traps per level?,9,Adventurers found 43 traps across 43 levels. What was the average traps per level?,1,36,4,43,43
+Adventurers found 36 traps across 18 levels. What was the average traps per level?,2,Adventurers found 26 traps across 2 levels. What was the average traps per level?,13,36,18,26,2
+The wizard spent 3 mana on 3 spells. What was the average cost per spell?,1,The wizard spent 15 mana on 3 spells. What was the average cost per spell?,5,3,3,15,3
+The wizard spent 39 mana on 3 spells. What was the average cost per spell?,13,The wizard spent 24 mana on 6 spells. What was the average cost per spell?,4,39,3,24,6
+The character gained 45 XP over 3 quests. What was the average XP per quest?,15,The character gained 41 XP over 41 quests. What was the average XP per quest?,1,45,3,41,41
+The character gained 9 XP over 3 quests. What was the average XP per quest?,3,The character gained 48 XP over 3 quests. What was the average XP per quest?,16,9,3,48,3
+The party found 16 coins distributed among 4 chests. What was the average per chest?,4,The party found 40 coins distributed among 20 chests. What was the average per chest?,2,16,4,40,20
+The party found 17 coins distributed among 17 chests. What was the average per chest?,1,The party found 45 coins distributed among 15 chests. What was the average per chest?,3,17,17,45,15
+Explorers mapped 50 passages across 2 towers. What was the average per tower?,25,Explorers mapped 31 passages across 31 towers. What was the average per tower?,1,50,2,31,31
+Explorers mapped 40 passages across 5 towers. What was the average per tower?,8,Explorers mapped 50 passages across 50 towers. What was the average per tower?,1,40,5,50,50
+Defeating 11 monsters yielded 44 items total. What was the average drop?,4,Defeating 13 monsters yielded 39 items total. What was the average drop?,3,44,11,39,13
+Defeating 47 monsters yielded 47 items total. What was the average drop?,1,Defeating 8 monsters yielded 40 items total. What was the average drop?,5,47,47,40,8
+The 19-chapter spellbook has 19 pages total. How many pages per chapter?,1,The 6-chapter spellbook has 42 pages total. How many pages per chapter?,7,19,19,42,6
+The 10-chapter spellbook has 40 pages total. How many pages per chapter?,4,The 9-chapter spellbook has 27 pages total. How many pages per chapter?,3,40,10,27,9
+Thomas made 26 moves total across 13 puzzles. What was the average per puzzle?,2,Thomas made 28 moves total across 7 puzzles. What was the average per puzzle?,4,26,13,28,7
+Thomas made 45 moves total across 5 puzzles. What was the average per puzzle?,9,Thomas made 42 moves total across 21 puzzles. What was the average per puzzle?,2,45,5,42,21
+The game loaded 25 textures over 25 seconds. What was the average loading speed?,1,The game loaded 28 textures over 7 seconds. What was the average loading speed?,4,25,25,28,7
+The game loaded 40 textures over 4 seconds. What was the average loading speed?,10,The game loaded 12 textures over 3 seconds. What was the average loading speed?,4,40,4,12,3
+The pyramid's 29 blocks weigh 29 tons total. What is the average block weight?,1,The pyramid's 5 blocks weigh 25 tons total. What is the average block weight?,5,29,29,25,5
+The pyramid's 4 blocks weigh 28 tons total. What is the average block weight?,7,The pyramid's 16 blocks weigh 32 tons total. What is the average block weight?,2,28,4,32,16
+The 46-page manuscript took 23 days to copy. What was the average daily output?,2,The 12-page manuscript took 4 days to copy. What was the average daily output?,3,46,23,12,4
+The 18-page manuscript took 2 days to copy. What was the average daily output?,9,The 18-page manuscript took 9 days to copy. What was the average daily output?,2,18,2,18,9
+The fleet of 4 ships transported 36 warriors total. What was the average per ship?,9,The fleet of 18 ships transported 18 warriors total. What was the average per ship?,1,36,4,18,18
+The fleet of 3 ships transported 24 warriors total. What was the average per ship?,8,The fleet of 10 ships transported 10 warriors total. What was the average per ship?,1,24,3,10,10
+Builders used 37 stones across 37 walls. What was the average per wall?,1,Builders used 32 stones across 8 walls. What was the average per wall?,4,37,37,32,8
+Builders used 46 stones across 23 walls. What was the average per wall?,2,Builders used 42 stones across 2 walls. What was the average per wall?,21,46,23,42,2
+The 10-mile road consists of 5 segments. What is the average segment length?,2,The 23-mile road consists of 23 segments. What is the average segment length?,1,10,5,23,23
+The 38-mile road consists of 38 segments. What is the average segment length?,1,The 36-mile road consists of 6 segments. What is the average segment length?,6,38,38,36,6
+The movement gained 48 supporters over 48 days. What was the average daily growth?,1,The movement gained 6 supporters over 2 days. What was the average daily growth?,3,48,48,6,2
+The movement gained 48 supporters over 16 days. What was the average daily growth?,3,The movement gained 36 supporters over 3 days. What was the average daily growth?,12,48,16,36,3
+The swordsmith spent 3 hours making 3 swords. What was the average time per sword?,1,The swordsmith spent 34 hours making 2 swords. What was the average time per sword?,17,3,3,34,2
+The swordsmith spent 30 hours making 5 swords. What was the average time per sword?,6,The swordsmith spent 38 hours making 38 swords. What was the average time per sword?,1,30,5,38,38
+The caravan covered 46 miles in 46 days. What was its average daily distance?,1,The caravan covered 50 miles in 10 days. What was its average daily distance?,5,46,46,50,10
+The caravan covered 24 miles in 6 days. What was its average daily distance?,4,The caravan covered 42 miles in 21 days. What was its average daily distance?,2,24,6,42,21
+Artists used 28 pigments across 4 paintings. What was the average per painting?,7,Artists used 40 pigments across 2 paintings. What was the average per painting?,20,28,4,40,2
+Artists used 42 pigments across 21 paintings. What was the average per painting?,2,Artists used 6 pigments across 6 paintings. What was the average per painting?,1,42,21,6,6
+The miner extracted 32 ounces over 32 weeks. What was the average weekly yield?,1,The miner extracted 20 ounces over 4 weeks. What was the average weekly yield?,5,32,32,20,4
+The miner extracted 42 ounces over 2 weeks. What was the average weekly yield?,21,The miner extracted 16 ounces over 8 weeks. What was the average weekly yield?,2,42,2,16,8
+The region received 45 inches of rain from 45 hurricanes. What was the average rainfall per hurricane?,1,The region received 6 inches of rain from 3 hurricanes. What was the average rainfall per hurricane?,2,45,45,6,3
+The region received 36 inches of rain from 9 hurricanes. What was the average rainfall per hurricane?,4,The region received 49 inches of rain from 49 hurricanes. What was the average rainfall per hurricane?,1,36,9,49,49
+Scientists measured 6 snowflakes across 3 square inches. What was the average snowflake density?,2,Scientists measured 39 snowflakes across 13 square inches. What was the average snowflake density?,3,6,3,39,13
+Scientists measured 17 snowflakes across 17 square inches. What was the average snowflake density?,1,Scientists measured 21 snowflakes across 3 square inches. What was the average snowflake density?,7,17,17,21,3
+The tornado outbreak damaged 27 structures across 9 tornadoes. What was the average damage per tornado?,3,The tornado outbreak damaged 36 structures across 3 tornadoes. What was the average damage per tornado?,12,27,9,36,3
+The tornado outbreak damaged 32 structures across 4 tornadoes. What was the average damage per tornado?,8,The tornado outbreak damaged 40 structures across 20 tornadoes. What was the average damage per tornado?,2,32,4,40,20
+Energy demand increased by 32 megawatts over 32 heatwave days. What was the average daily increase?,1,Energy demand increased by 36 megawatts over 3 heatwave days. What was the average daily increase?,12,32,32,36,3
+Energy demand increased by 28 megawatts over 14 heatwave days. What was the average daily increase?,2,Energy demand increased by 38 megawatts over 38 heatwave days. What was the average daily increase?,1,28,14,38,38
+The storm released 12 gigajoules through 4 lightning strikes. What was the average energy per strike?,3,The storm released 42 gigajoules through 3 lightning strikes. What was the average energy per strike?,14,12,4,42,3
+The storm released 5 gigajoules through 5 lightning strikes. What was the average energy per strike?,1,The storm released 46 gigajoules through 23 lightning strikes. What was the average energy per strike?,2,5,5,46,23
+The floodwaters covered 33 acres over 33 hours. What was the average expansion rate?,1,The floodwaters covered 24 acres over 8 hours. What was the average expansion rate?,3,33,33,24,8
+The floodwaters covered 11 acres over 11 hours. What was the average expansion rate?,1,The floodwaters covered 8 acres over 4 hours. What was the average expansion rate?,2,11,11,8,4
+The storm dropped 6 hailstones across 6 square yards. What was the average concentration?,1,The storm dropped 26 hailstones across 13 square yards. What was the average concentration?,2,6,6,26,13
+The storm dropped 22 hailstones across 22 square yards. What was the average concentration?,1,The storm dropped 6 hailstones across 2 square yards. What was the average concentration?,3,22,22,6,2
+Reservoirs dropped 18 feet during 18 months of drought. What was the average monthly decline?,1,Reservoirs dropped 16 feet during 8 months of drought. What was the average monthly decline?,2,18,18,16,8
+Reservoirs dropped 42 feet during 6 months of drought. What was the average monthly decline?,7,Reservoirs dropped 15 feet during 15 months of drought. What was the average monthly decline?,1,42,6,15,15
+The tsunami moved 24 tons of debris through 4 waves. What was the average debris per wave?,6,The tsunami moved 42 tons of debris through 2 waves. What was the average debris per wave?,21,24,4,42,2
+The tsunami moved 27 tons of debris through 3 waves. What was the average debris per wave?,9,The tsunami moved 35 tons of debris through 7 waves. What was the average debris per wave?,5,27,3,35,7
+Visibility decreased by 50 meters over 25 minutes. What was the average rate of visibility loss?,2,Visibility decreased by 15 meters over 15 minutes. What was the average rate of visibility loss?,1,50,25,15,15
+Visibility decreased by 20 meters over 2 minutes. What was the average rate of visibility loss?,10,Visibility decreased by 30 meters over 15 minutes. What was the average rate of visibility loss?,2,20,2,30,15
+A pod of 24 whales consumed 48 krill total. What was the average krill per whale?,2,A pod of 16 whales consumed 48 krill total. What was the average krill per whale?,3,48,24,48,16
+A pod of 2 whales consumed 36 krill total. What was the average krill per whale?,18,A pod of 12 whales consumed 36 krill total. What was the average krill per whale?,3,36,2,36,12
+The reef grew 22 centimeters over 11 years. What was its average annual growth?,2,The reef grew 12 centimeters over 3 years. What was its average annual growth?,4,22,11,12,3
+The reef grew 49 centimeters over 49 years. What was its average annual growth?,1,The reef grew 26 centimeters over 2 years. What was its average annual growth?,13,49,49,26,2
+Researchers found 30 turtle eggs in 6 nests. What was the average eggs per nest?,5,Researchers found 50 turtle eggs in 5 nests. What was the average eggs per nest?,10,30,6,50,5
+Researchers found 16 turtle eggs in 2 nests. What was the average eggs per nest?,8,Researchers found 33 turtle eggs in 11 nests. What was the average eggs per nest?,3,16,2,33,11
+Driftwood traveled 39 miles over 13 days. What was the average daily movement?,3,Driftwood traveled 35 miles over 7 days. What was the average daily movement?,5,39,13,35,7
+Driftwood traveled 11 miles over 11 days. What was the average daily movement?,1,Driftwood traveled 44 miles over 11 days. What was the average daily movement?,4,11,11,44,11
+Scientists measured 33 oxygen molecules from 3 phytoplankton clusters. What was the average production rate?,11,Scientists measured 4 oxygen molecules from 4 phytoplankton clusters. What was the average production rate?,1,33,3,4,4
+Scientists measured 38 oxygen molecules from 38 phytoplankton clusters. What was the average production rate?,1,Scientists measured 15 oxygen molecules from 3 phytoplankton clusters. What was the average production rate?,5,38,38,15,3
+The kelp grew 34 feet over 34 months. What was its average monthly growth?,1,The kelp grew 40 feet over 2 months. What was its average monthly growth?,20,34,34,40,2
+The kelp grew 20 feet over 20 months. What was its average monthly growth?,1,The kelp grew 45 feet over 5 months. What was its average monthly growth?,9,20,20,45,5
+Fishermen emptied 28 fish from 4 nets. What was the average catch per net?,7,Fishermen emptied 46 fish from 2 nets. What was the average catch per net?,23,28,4,46,2
+Fishermen emptied 42 fish from 14 nets. What was the average catch per net?,3,Fishermen emptied 42 fish from 2 nets. What was the average catch per net?,21,42,14,42,2
+The submarine surveyed 49 square miles over 49 days. What was its average daily exploration?,1,The submarine surveyed 28 square miles over 2 days. What was its average daily exploration?,14,49,49,28,2
+The submarine surveyed 32 square miles over 2 days. What was its average daily exploration?,16,The submarine surveyed 26 square miles over 2 days. What was its average daily exploration?,13,32,2,26,2
+An oyster bed of 12 oysters filtered 12 gallons total. What was the average per oyster?,1,An oyster bed of 14 oysters filtered 28 gallons total. What was the average per oyster?,2,12,12,28,14
+An oyster bed of 10 oysters filtered 40 gallons total. What was the average per oyster?,4,An oyster bed of 2 oysters filtered 26 gallons total. What was the average per oyster?,13,40,10,26,2
+Researchers documented 41 species across 41 tidal surveys. What was the average per survey?,1,Researchers documented 48 species across 8 tidal surveys. What was the average per survey?,6,41,41,48,8
+Researchers documented 50 species across 50 tidal surveys. What was the average per survey?,1,Researchers documented 36 species across 3 tidal surveys. What was the average per survey?,12,50,50,36,3
+The quantum computer completed 6 operations over 6 seconds. What was its operation rate?,1,The quantum computer completed 32 operations over 4 seconds. What was its operation rate?,8,6,6,32,4
+The quantum computer completed 21 operations over 3 seconds. What was its operation rate?,7,The quantum computer completed 42 operations over 21 seconds. What was its operation rate?,2,21,3,42,21
+The nanobots repaired 34 cells during 2 minutes. What was their average repair rate?,17,The nanobots repaired 27 cells during 9 minutes. What was their average repair rate?,3,34,2,27,9
+The nanobots repaired 33 cells during 3 minutes. What was their average repair rate?,11,The nanobots repaired 28 cells during 14 minutes. What was their average repair rate?,2,33,3,28,14
+The hologram system uses 50 teraflops total across 2 projectors. What's the average per projector?,25,The hologram system uses 28 teraflops total across 7 projectors. What's the average per projector?,4,50,2,28,7
+The hologram system uses 48 teraflops total across 3 projectors. What's the average per projector?,16,The hologram system uses 4 teraflops total across 2 projectors. What's the average per projector?,2,48,3,4,2
+The reactor produced 21 megawatts over 21 hours. What was its average hourly output?,1,The reactor produced 12 megawatts over 6 hours. What was its average hourly output?,2,21,21,12,6
+The reactor produced 25 megawatts over 25 hours. What was its average hourly output?,1,The reactor produced 48 megawatts over 3 hours. What was its average hourly output?,16,25,25,48,3
+The AI processed 25 data points through 25 cycles. What was the average per cycle?,1,The AI processed 42 data points through 6 cycles. What was the average per cycle?,7,25,25,42,6
+The AI processed 42 data points through 42 cycles. What was the average per cycle?,1,The AI processed 40 data points through 8 cycles. What was the average per cycle?,5,42,42,40,8
+The elevator ascended 5 kilometers over 5 days. What was its average daily climb?,1,The elevator ascended 30 kilometers over 3 days. What was its average daily climb?,10,5,5,30,3
+The elevator ascended 24 kilometers over 6 days. What was its average daily climb?,4,The elevator ascended 36 kilometers over 36 days. What was its average daily climb?,1,24,6,36,36
+The gene editor made 26 edits over 2 seconds. What was its editing speed?,13,The gene editor made 30 edits over 10 seconds. What was its editing speed?,3,26,2,30,10
+The gene editor made 48 edits over 24 seconds. What was its editing speed?,2,The gene editor made 35 edits over 7 seconds. What was its editing speed?,5,48,24,35,7
+The colony used 48 liters over 2 days. What was their average daily usage?,24,The colony used 45 liters over 15 days. What was their average daily usage?,3,48,2,45,15
+The colony used 33 liters over 11 days. What was their average daily usage?,3,The colony used 39 liters over 3 days. What was their average daily usage?,13,33,11,39,3
+A team of 47 exoskeletons lifted 47 kg total. What was the average lifting capacity?,1,A team of 8 exoskeletons lifted 32 kg total. What was the average lifting capacity?,4,47,47,32,8
+A team of 2 exoskeletons lifted 34 kg total. What was the average lifting capacity?,17,A team of 20 exoskeletons lifted 40 kg total. What was the average lifting capacity?,2,34,2,40,20
+The drone completed 30 deliveries over 10 hours. What was its average delivery rate?,3,The drone completed 26 deliveries over 26 hours. What was its average delivery rate?,1,30,10,26,26
+The drone completed 24 deliveries over 24 hours. What was its average delivery rate?,1,The drone completed 16 deliveries over 2 hours. What was its average delivery rate?,8,24,24,16,2
