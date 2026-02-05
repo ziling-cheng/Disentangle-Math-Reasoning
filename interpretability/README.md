@@ -10,12 +10,12 @@ This folder contains the code for the **Section 5 interpretability experiments**
 
 ## Contents
 
-- `run_logit_attribution.py` — runs **logit attribution** and optionally produces plots (Figure 5 i–iv)
-- `logit_attribution_utils.py` — helper functions for logit attribution
-- `run_activation_patching.py` — runs **activation patching** for different patching regimes and optionally produces plots (Figure 5 iii, vi; Figure 6)
-- `activation_patching_utils.py` — helper functions for activation patching
-- `plotting_utils.py` — shared plotting utilities
-- `config.py` — experiment configuration (paths, model/dataset settings, caching/output). Please set `CACHE_DIR` in `config.py`.
+- `run_logit_attribution.py`: runs **logit attribution** and optionally produces plots (Figure 5 i–iv)
+- `logit_attribution_utils.py`: helper functions for logit attribution
+- `run_activation_patching.py`: runs **activation patching** for different patching regimes and optionally produces plots (Figure 5 iii, vi; Figure 6)
+- `activation_patching_utils.py`: helper functions for activation patching
+- `plotting_utils.py`: shared plotting utilities
+- `config.py`: experiment configuration (paths, model/dataset settings, caching/output). Please set `CACHE_DIR` in `config.py`.
 - `scripts/`: shell script to run all interpretability experiments.
 
 ---
