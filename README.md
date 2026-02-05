@@ -4,20 +4,20 @@
 </h1>
 
 
-<h3 align="center">
+<h4 align="center">
   <a href="https://ziling-cheng.github.io/">Ziling Cheng</a>, 
   <a href="https://mcao516.github.io/">Meng Cao</a>, 
   <a href="https://linkedin.com/in/leila-pishdad">Leila Pishdad</a>, 
   <a href="https://yanshuaicao.github.io/">Yanshuai Cao</a>, 
   <a href="https://www.cs.mcgill.ca/~jcheung/">Jackie C.K. Cheung</a>
-</h3>
+</h4>
 
-<h3 align="center">
+<h4 align="center">
   <a href="https://github.com/ziling-cheng/Disentangle-Math-Reasoning">GitHub</a> •
   <a href="https://aclanthology.org/2025.emnlp-main.723/">Paper</a> •
   <a href="Huggingface">Hugging Face</a> •
   <a href="https://x.com/ziling_cheng/status/1986363306366673323">Twitter</a>
-</h3>
+</h4>
 
 This repository contains code and data for the EMNLP 2025 paper "Can LLMs Reason Abstractly Over Math Word Problems Without CoT? Disentangling Abstract Formulation From Arithmetic Computation". It includes:
 - **Disentangled behavioural evaluation (Section 4)** separating *abstract formulation* from *arithmetic computation*.
@@ -44,7 +44,7 @@ See `disentangled_evaluation/README.md` for details and commands.
 
 See `interpretability/README.md` for details and commands.
 
----
+
 ## Paper
 [Link](https://aclanthology.org/2025.emnlp-main.723.pdf) to our paper.
 
